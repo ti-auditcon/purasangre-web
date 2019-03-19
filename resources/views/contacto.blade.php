@@ -25,8 +25,20 @@
         <div class="form-content-inner">
           <div class="form-data">
             <div class="form-data-text">Cras suscipit a quam quis mollis. Pellentesque habitant morbi tristique senectus et netus et malesuada.</div>
-            <div class="form-data-text"><strong>Pura Sangre CrossFit<br></strong>Camino a Zapallar con ruta 5 sur<br><a href="tel:+56940207699" class="link-5">+569 402 07 699</a><br><a href="mailto:contacto@purasangrecrossfit.cl?subject=Mensaje%20desde%20purasangrecrossfit.cl" class="link-4">contacto@purasangrecrossfit.cl</a></div>
-            <div class="form-data-text"><strong>Horarios<br></strong>Lun a Vier de 07:00 a 22:00 hrs<br>Sábados de 10:00 a 14:00 hrs</div>
+            <div class="form-data-text">
+              <strong>Pura Sangre CrossFit</strong><br>
+              <a href="https://goo.gl/maps/6fcspf8UE7P2" class="link-5">Camino a Zapallar con ruta 5 sur</a><br>
+              <a href="tel:+56940207699" class="link-5">+569 402 07 699</a><br>
+              <a href="mailto:contacto@purasangrecrossfit.cl?subject=Mensaje%20desde%20purasangrecrossfit.cl" class="link-4">contacto@purasangrecrossfit.cl</a>
+            </div>
+            <div class="form-data-text">
+              <strong>Horarios<br>
+              </strong>Lun a Vier de 07:00 a 22:00 hrs<br>Sábados de 10:00 a 14:00 hrs
+            </div>
+            <div class="form-data-text">
+              <a href="https://facebook.com/purasangrecrossfit" target="_blank" class="link-00"><img src="images/face_icon_gray.svg"></a>
+              <a href="https://instagram.com/purasangrecf" target="_blank"><img src="images/insta_icon_gray.svg"></a>
+            </div>
           </div>
           <div class="the-form">
             <div class="w-form">

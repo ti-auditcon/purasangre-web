@@ -31,7 +31,7 @@
             <div class="text-menu">Contacto</div>
           </a>
         </div>
-        <div class="cta-header"><a href="{{url('/clases-de-prueba')}}" class="green-button w-button">3 Clases gratis</a></div>
+        <div class="cta-header"><a href="{{url('/clases-de-prueba')}}" class="green-button w-button" id="">3 Clases gratis</a></div>
       </div>
     </div>
     <div data-w-id="702cdd04-7f6a-85e1-8296-a87f85ac7f47" class="hamburger-container"><img src="images/hamburger.svg" alt="" class="hamburger"></div>

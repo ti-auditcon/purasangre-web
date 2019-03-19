@@ -39,7 +39,7 @@
                 <div class="content-span">/ mes</div>
               </div>
             </div>
-            <div class="plan-button-container"><a href="https://api.whatsapp.com/send?phone=+56940207699&amp;text=Hola,%20quiero%20tomar%20las%20clases%20gratis" target="_blank" class="plan-page-cta-button special-button w-button">Contratar via WhatsApp</a></div>
+            <div class="plan-button-container"><a href="https://api.whatsapp.com/send?phone=+56940207699&amp;text=Hola,%20quiero%20tomar%20el%20plan%20Full%20Fit" target="_blank" class="plan-page-cta-button special-button w-button">Contratar via WhatsApp</a></div>
           </div>
           <div class="plan-card-img plan-img-fullfit"></div>
         </div>
@@ -65,7 +65,7 @@
                 <div class="content-span">/ mes</div>
               </div>
             </div>
-            <div class="plan-button-container"><a href="https://api.whatsapp.com/send?phone=+56940207699&amp;text=Hola,%20quiero%20tomar%20las%20clases%20gratis" target="_blank" class="plan-page-cta-button w-button">Contratar via WhatsApp</a></div>
+            <div class="plan-button-container"><a href="https://api.whatsapp.com/send?phone=+56940207699&amp;text=Hola,%20quiero%20tomar%20el%20plan%2012%20Sesiones" target="_blank" class="plan-page-cta-button w-button">Contratar via WhatsApp</a></div>
           </div>
         </div>
         <div class="plan-card-mini-wrapper">
@@ -90,7 +90,7 @@
                   <div class="content-span">/ mes</div>
                 </div>
               </div>
-              <div class="plan-button-container"><a href="https://api.whatsapp.com/send?phone=+56940207699&amp;text=Hola,%20quiero%20tomar%20las%20clases%20gratis" target="_blank" class="plan-page-cta-button w-button">Contratar via WhatsApp</a></div>
+              <div class="plan-button-container"><a href="https://api.whatsapp.com/send?phone=+56940207699&amp;text=Hola,%20quiero%20tomar%20el%20plan%20Full%20AM" target="_blank" class="plan-page-cta-button w-button">Contratar via WhatsApp</a></div>
             </div>
           </div>
           <div id="w-node-4d1281a24382-43a9f64e" class="plan-card-mini">
@@ -114,7 +114,7 @@
                   <div class="content-span">/ mes</div>
                 </div>
               </div>
-              <div class="plan-button-container"><a href="https://api.whatsapp.com/send?phone=+56940207699&amp;text=Hola,%20quiero%20tomar%20las%20clases%20gratis" target="_blank" class="plan-page-cta-button w-button">Contratar via WhatsApp</a></div>
+              <div class="plan-button-container"><a href="https://api.whatsapp.com/send?phone=+56940207699&amp;text=Hola,%20quiero%20tomar%20el%20plan%20Estudiantes" target="_blank" class="plan-page-cta-button w-button">Contratar via WhatsApp</a></div>
             </div>
           </div>
         </div>
@@ -149,7 +149,7 @@
       <div class="banner-promo-inner">
         <h1 class="heading-2 white-cta-title">3 Clases de prueba<br>GRATIS</h1>
         <div class="text-block-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vulputate, mi nec efficitur vulputate, augue leo molestie urna, quis aliquet leo magna eu nulla.</div>
-        <div class="cta-buttons"><a href="{{url('/clases-de-prueba')}}" class="green-button mg-button w-button">Conoce como funciona</a><a href="https://api.whatsapp.com/send?phone=+56940207699&amp;text=Hola,%20quiero%20tomar%20las%20clases%20gratis" target="_blank" class="green-button mg-button w-button">Solicita via Whatsapp</a></div>
+        <div class="cta-buttons"><a href="{{url('/clases-de-prueba')}}" class="green-button mg-button w-button">Conoce como funciona</a><a href="https://api.whatsapp.com/send?phone=+56940207699&amp;text=Hola,%20quiero%20tomar%20las%20clases%20gratis" target="_blank" class="green-button mg-button w-button"><img class="img-whatsapp" src="../images/whatsapp_icon.svg">Solicita via WhatsApp</a></div>
       </div>
     </div>
 

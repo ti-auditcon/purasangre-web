@@ -63,7 +63,7 @@
       <div class="cta-options-inner">
         <div id="w-node-6f19680799e3-0af2eacb" class="item-option bg-option-1">
           <h2 class="title-cta-option heading-2 white-cta-title">Reserva tus 3 clases <br>de Prueba gratis</h2>
-          <div class="text-cta-option">Tenemos horarios especiales para quienes quieren vivir la experiencia Pura Sangre junto a la comunidad en una clase real.</div><a href="https://api.whatsapp.com/send?phone=+56940207699&amp;text=Hola,%20quiero%20tomar%20las%20clases%20gratis" target="_blank" class="green-button w-button">Solicita via WhatsApp</a>
+          <div class="text-cta-option">Tenemos horarios especiales para quienes quieren vivir la experiencia Pura Sangre junto a la comunidad en una clase real.</div><a href="https://api.whatsapp.com/send?phone=+56940207699&amp;text=Hola,%20quiero%20tomar%20las%20clases%20gratis" target="_blank" class="green-button w-button"><img class="img-whatsapp" src="../images/whatsapp_icon.svg">Solicita via WhatsApp</a>
           <div class="cta-option-text-2">o llamanos al +569 402 07 699</div>
         </div>
         <div id="w-node-91bdddb7b430-0af2eacb" class="item-option bg-option-2">
