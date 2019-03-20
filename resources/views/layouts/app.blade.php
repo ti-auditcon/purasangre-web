@@ -38,7 +38,8 @@
   <body class="body overflow-hidden">
 
     <div class="box-loading loader animate fadeIn">
-      <img src="../images/puff.svg">
+      {{-- <img src="../images/puff.svg"> --}}
+      <img src="../images/loading_icon.gif">
     </div>
 
     <main class="page">
