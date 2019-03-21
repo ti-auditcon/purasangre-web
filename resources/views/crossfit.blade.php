@@ -18,7 +18,9 @@
     <div class="air-grid">
       <div class="title-section-wrapper first-title">
         <div class="title-section-wrapper-inner">
-          <h1 class="heading title-section clipped">CAMBIAR ESTO</h1>
+          <h1 class="heading title-section-quote">
+            Movimientos funcionales constantemente variados y ejecutados a alta intensidad.
+          </h1>
         </div>
       </div>
       <div class="item-wrapper">
@@ -50,7 +52,7 @@
       </div>
       <div class="habilidades-wrapper">
         <div class="habilidades">
-          <h3 class="habilidades-text">HABILIDADES</h3>
+          {{-- <h3 class="habilidades-title">Habilidades</h3> --}}
           <h3 class="habilidades-text">Resistencia Cardiovascular y Respiratoria    -    Fuerza    -    Flexibilidad    -    Potencia    -    Velocidad    -    Coordinación    -    Agilidad    -    Equilibrio y Precisión</h3>
         </div>
       </div>
@@ -105,7 +107,7 @@
         <div class="text-block-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vulputate, mi nec efficitur vulputate, augue leo molestie urna, quis aliquet leo magna eu nulla.</div>
         <div class="cta-buttons">
           <a href="{{url('/clases-de-prueba')}}" class="green-button mg-button w-button">Conoce como funciona</a>
-          <a href="https://api.whatsapp.com/send?phone=+56940207699&amp;text=Hola,%20quiero%20tomar%20las%20clases%20gratis" target="_blank" class="green-button mg-button w-button" id="boton-whatsapp-cta">
+          <a href="https://api.whatsapp.com/send?phone=+56940207699&amp;text=Hola,%20quiero%20contratarlas%20clases%20gratis" target="_blank" class="green-button mg-button w-button" id="boton-whatsapp-cta">
             <img class="img-whatsapp" src="../images/whatsapp_icon.svg">
             Solicita via WhatsApp
           </a>

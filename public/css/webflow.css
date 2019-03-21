@@ -381,17 +381,37 @@ input[type="reset"] {
 .w-form {
   margin: 0 0 15px;
 }
-.w-form-done {
+.w-form-loading {
   display: none;
-  padding: 20px;
+  padding: 14px;
   text-align: center;
   background-color: #dddddd;
+  transition: all ease 0.4s;
+  margin-top: 22px;
+}
+.w-form-done {
+  display: none;
+  padding: 14px;
+  text-align: center;
+  background-color: #dddddd;
+  transition: all ease 0.4s;
+  margin-top: 22px;
 }
 .w-form-fail {
   display: none;
   margin-top: 10px;
   padding: 10px;
   background-color: #ffdede;
+  transition: all ease 0.4s;
+  margin-top: 22px;
+}
+.form-alert {
+  display: none;
+  width: 100%;
+  margin-bottom: 14px;
+}
+.back-no-tan-big {
+  background-size: 200% !important;
 }
 label {
   display: block;
@@ -410,7 +430,7 @@ label {
   color: #333333;
   vertical-align: middle;
   background-color: #ffffff;
-  border: 1px solid #cccccc;
+  border: 1px solid #c4c4c4;
 }
 .w-input:-moz-placeholder,
 .w-select:-moz-placeholder {
@@ -431,7 +451,7 @@ label {
 }
 .w-input:focus,
 .w-select:focus {
-  border-color: #3898EC;
+  border-color: #333333;
   outline: 0;
 }
 .w-input[disabled],

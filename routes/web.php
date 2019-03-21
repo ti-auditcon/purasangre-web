@@ -42,3 +42,5 @@ Route::get('/clases-de-prueba', function () {
 Route::get('/contacto', function () {
     return view('contacto');
 });
+
+Route::post('/enviado', 'MailController@sendmail')->name('ruta');

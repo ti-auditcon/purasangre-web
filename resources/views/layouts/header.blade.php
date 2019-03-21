@@ -14,11 +14,14 @@
 
           </a>
           <div data-w-id="0380b759-73f0-6903-6b0a-78083510070c" class="dropdown-content">
+            <a href="{{url('/crossfit')}}" class="link-menu dropdown-link-menu w-inline-block">
+              <div class="text-menu">¿Qué es el CrossFit?</div>
+            </a>
             <a href="{{url('/conocenos')}}" class="link-menu dropdown-link-menu w-inline-block">
               <div class="text-menu">Conócenos</div>
             </a>
-            <a href="{{url('/crossfit')}}" class="link-menu dropdown-link-menu w-inline-block">
-              <div class="text-menu">¿Qué es el CrossFit?</div>
+            <a href="{{url('/equipo')}}" class="link-menu dropdown-link-menu w-inline-block">
+              <div class="text-menu">Equipo</div>
             </a>
             <a href="{{url('/planes')}}" class="link-menu dropdown-link-menu w-inline-block">
               <div class="text-menu">Planes</div>
