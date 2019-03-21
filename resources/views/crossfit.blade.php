@@ -18,12 +18,13 @@
     <div class="air-grid">
       <div class="title-section-wrapper first-title">
         <div class="title-section-wrapper-inner">
-          <h1 class="heading title-section clipped">EL DEPORTE <br>DEL FITNESS</h1>
+          <h1 class="heading title-section clipped">CAMBIAR ESTO</h1>
         </div>
       </div>
       <div class="item-wrapper">
         <div id="w-node-bbe444900989-4eaaa2ee" class="img img-deporte-fitness"></div>
         <div id="w-node-bbe44490098a-4eaaa2ee" class="data">
+          <h1 class="heading title-section clipped">EL DEPORTE <br>DEL FITNESS</h1>
           <div class="text-block-5"><strong>CrossFit</strong> es un estilo de vida caracterizado por ejercicios seguros y eficaces y una nutrición sana. <br><br>Se puede utilizar para lograr cualquier objetivo, desde mejorar la salud hasta perder peso o aumentar el rendimiento. Funciona para todo tipo de persona: personas que recién están comenzando y personas que se han capacitado durante años.</div>
         </div>
       </div>
@@ -49,7 +50,8 @@
       </div>
       <div class="habilidades-wrapper">
         <div class="habilidades">
-          <h3 class="habilidades-text">Resistencia Cardiovascular y Respiratoria    -    Energía    -    Fuerza    -    Flexibilidad    -    Potencia    -    Velocidad    -    Coordinación    -    Agilidad    -    Equilibrio y Precisión</h3>
+          <h3 class="habilidades-text">HABILIDADES</h3>
+          <h3 class="habilidades-text">Resistencia Cardiovascular y Respiratoria    -    Fuerza    -    Flexibilidad    -    Potencia    -    Velocidad    -    Coordinación    -    Agilidad    -    Equilibrio y Precisión</h3>
         </div>
       </div>
       <div class="item-wrapper">

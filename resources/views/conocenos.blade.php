@@ -20,7 +20,9 @@
           <div id="w-node-265797c8f437-cf5d8cad" class="img img-equipo"></div>
           <div id="w-node-265797c8f438-cf5d8cad" class="data">
             <h1 class="heading title-section clipped">NUESTRO <br>EQUIPO</h1>
-            <div class="text-block-5">Lorem ipsum dolor sit amet, consectetur adipiscing elit.<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vulputate, mi nec efficitur vulputate, augue leo molestie urna, quis aliquet leo magna eu nulla. Cras suscipit a quam quis mollis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. </div><a href="{{url('/equipo')}}" class="green-button w-button">Conoce al Equipo</a></div>
+            <div class="text-block-5">Lorem ipsum dolor sit amet, consectetur adipiscing elit.<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vulputate, mi nec efficitur vulputate, augue leo molestie urna, quis aliquet leo magna eu nulla. Cras suscipit a quam quis mollis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. </div>
+              <a href="{{url('/equipo')}}" class="green-button w-button">Conoce al Equipo</a>
+            </div>
         </div>
         <div class="title-section-wrapper mg-top">
           <div class="title-section-wrapper-inner">
@@ -90,6 +92,7 @@
           <div id="w-node-250d504b0523-cf5d8cad" class="data">
             <h1 class="heading title-section clipped special-margin">NUTRICIONISTA <br>QUE POTENCIA <br>TUS OBJETIVOS</h1>
             <div class="text-block-5">Lorem ipsum dolor sit amet, consectetur adipiscing elit.<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vulputate, mi nec efficitur vulputate, augue leo molestie urna, quis aliquet leo magna eu nulla. Cras suscipit a quam quis mollis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. </div>
+            <a href="https://api.whatsapp.com/send?phone=+56940207699&amp;text=Hola,%20quiero%20reservar%20una%20hora%20con%20la%20Nutricionista" class="green-button w-button"><img class="img-whatsapp" src="../images/whatsapp_icon.svg">Reserva una hora via WhatsApp</a>
           </div>
         </div>
         <div class="item-wrapper-inv">
