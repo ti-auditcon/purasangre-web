@@ -39,7 +39,7 @@
 
     <div class="box-loading loader animate fadeIn">
       {{-- <img src="../images/puff.svg"> --}}
-      <img src="../images/loading_icon.gif">
+      <img src="../images/logo_loading.svg">
     </div>
 
     <main class="page">
