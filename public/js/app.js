@@ -81,7 +81,6 @@ $(function(){
             if (data['errors']) {
               $.each(data['errors'], function( index, value ){});
             } else {
-              // $('.mensaje-formulario .mensaje-cargando').toggleClass('d-none');
               $('.w-form-loading').css({ 'display': 'none' });
               $('.w-form-done').css({
                 'display': 'block'
