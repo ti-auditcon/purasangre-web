@@ -27,7 +27,7 @@ class MailController extends Controller
            return response()->json(['errors' => $validator->errors()->all()]);
        }
 
-      Mail::to("jberrioscifuentes@gmail.com")->send(new ContactMail($request->input()));
+      Mail::to("contacto@purasangrecrossfit.cl")->send(new ContactMail($request->input()));
 
       if (Mail::failures()) {
 
