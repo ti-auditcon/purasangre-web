@@ -36,6 +36,6 @@ class ContactMail extends Mailable
           'name' => $this->data['name'],
           'email' => $this->data['email'],
           'mensaje' => $this->data['mensaje']
-        ])->subject('Mensaje de Formulario de Contacto');
+        ])->subject('Mensaje desde Formulario de Contacto página web');
     }
 }
