@@ -12,7 +12,7 @@
   <div class="heading-page heading-clase-prueba">
       <div class="heading-page-inner">
         <h2 class="heading-title">Clases de Prueba Gratis</h2>
-        <div class="heading-desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vulputate, mi nec efficitur vulputate, augue leo molestie urna, quis aliquet leo magna eu nulla. Cras suscipit a quam quis mollis.</div>
+        <div class="heading-desc">Conoce como es una clase en el box</div>
       </div>
     </div>
     <div class="air-grid">
@@ -24,7 +24,7 @@
       <div class="item-wrapper">
         <div id="w-node-f51ca6b543ff-0af2eacb" class="img img-clases-gratis"></div>
         <div id="w-node-f51ca6b54400-0af2eacb" class="data">
-          <h3 class="subtitle">¿De qué se trata?</h3>
+          <h3 class="subtitle">¿De qué se tratan?</h3>
           <div class="text-block-5">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vulputate, mi nec efficitur vulputate, augue leo molestie urna, quis aliquet leo magna eu nulla. Cras suscipit a quam quis mollis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. <br>Lorem ipsum dolor sit amet, consectetur adipiscing elit.<br><br> Cras suscipit a quam quis mollis. Pellentesque habitant morbi tristique senectus et netus et malesuada.</div>
         </div>
       </div>
@@ -68,7 +68,7 @@
         </div>
         <div id="w-node-91bdddb7b430-0af2eacb" class="item-option bg-option-2">
           <h2 class="title-cta-option heading-2 white-cta-title">Revisa nuestros <br>horarios</h2>
-          <div class="text-cta-option">Tenemos horarios especiales para quienes quieren vivir la experiencia Pura Sangre junto a la comunidad en una clase real.</div><a href="{{url('/horarios')}}" class="green-button w-button">Ver horarios</a>
+          <div class="text-cta-option">Nuestros horarios estan diseñados para que convalides tu día a día con el entrenamiento efectivo del CrossFit.</div><a href="{{url('/horarios')}}" class="green-button w-button">Ver horarios</a>
           <div class="cta-option-text-2">o llamanos al <a href="tel:+56940207699">+569 402 07 699</a></div>
         </div>
       </div>

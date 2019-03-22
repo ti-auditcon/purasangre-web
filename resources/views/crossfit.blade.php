@@ -27,14 +27,14 @@
         <div id="w-node-bbe444900989-4eaaa2ee" class="img img-deporte-fitness"></div>
         <div id="w-node-bbe44490098a-4eaaa2ee" class="data">
           <h1 class="heading title-section clipped">EL DEPORTE <br>DEL FITNESS</h1>
-          <div class="text-block-5"><strong>CrossFit</strong> es un estilo de vida caracterizado por ejercicios seguros y eficaces y una nutrición sana. <br><br>Se puede utilizar para lograr cualquier objetivo, desde mejorar la salud hasta perder peso o aumentar el rendimiento. Funciona para todo tipo de persona: personas que recién están comenzando y personas que se han capacitado durante años.</div>
+          <div class="text-block-5"><strong>CrossFit</strong> es un estilo de vida caracterizado por ejercicios seguros y eficaces combinados con una nutrición sana. <br><br>Se puede utilizar para lograr cualquier objetivo, desde mejorar la salud hasta perder peso o aumentar el rendimiento. Funciona para todo tipo de persona: personas que recién están comenzando y personas que se han capacitado durante años.</div>
         </div>
       </div>
       <div class="item-wrapper-inv">
         <div class="data-inv">
           <div class="data-inv-inner">
             <h3 class="subtitle">Ejercicios de la vida diaria</h3>
-            <div class="text-block-5">La magia está en los movimientos. Los entrenamientos son diferentes cada día y se modifican para ayudar a cada atleta a lograr sus objetivos. <strong>CrossFit</strong> usa movimientos seguros, efectivos y eficientes similares a los que usas en el día a día.</div>
+            <div class="text-block-5">La magia está en los movimientos. Los entrenamientos son diferentes cada día y se modifican para ayudar a cada atleta a lograr sus objetivos. <strong>CrossFit</strong> usa movimientos seguros, efectivos y eficientes, similares a los que usas en el día a día.</div>
             <div class="disciplinas-wrapper">
               <div class="item-disciplina"><img src="images/ico-haltero.svg" alt="" class="img-disciplina">
                 <h5 class="title-disciplina">Halterofilia</h5>
@@ -60,7 +60,7 @@
         <div id="w-node-bbe4449009a2-4eaaa2ee" class="img img-entrenamiento-diferente"></div>
         <div id="w-node-bbe4449009a3-4eaaa2ee" class="data">
           <h3 class="subtitle">Adaptabilidad y desafío</h3>
-          <div class="text-block-5">Los entrenamientos de CrossFit se pueden adaptar para personas de cualquier edad y nivel de condición física. Los niveles de intensidad se ajustan para desafiar a la persona y mejorar la forma física de forma segura.<br></div>
+          <div class="text-block-5">Los entrenamientos de CrossFit se pueden adaptar para personas de cualquier edad y nivel de condición física. Los niveles de intensidad se ajustan para desafiar a la persona y mejorar el estado físico de forma segura.<br></div>
         </div>
       </div>
       <div class="item-wrapper-inv">
@@ -104,7 +104,7 @@
     <div class="banner-promo bg-section">
       <div class="banner-promo-inner">
         <h1 class="heading-2 white-cta-title">3 Clases de prueba<br>GRATIS</h1>
-        <div class="text-block-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vulputate, mi nec efficitur vulputate, augue leo molestie urna, quis aliquet leo magna eu nulla.</div>
+        <div class="text-block-2">Si quieres transformar tu vida, Pura Sangre CrossFit es para tí, No importa en que condición fisica te encuentres, unete ahora y no te daras cuenta como los resultados llegan por si solos.</div>
         <div class="cta-buttons">
           <a href="{{url('/clases-de-prueba')}}" class="green-button mg-button w-button">Conoce como funciona</a>
           <a href="https://api.whatsapp.com/send?phone=+56940207699&amp;text=Hola,%20quiero%20contratar%20las%20clases%20gratis" target="_blank" class="green-button mg-button w-button" id="boton-whatsapp-cta">

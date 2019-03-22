@@ -25,7 +25,7 @@
     <div class="banner-promo-inner">
       <h2 class="heading-2 cta-title clipped">3 Clases de Prueba<br>GRATIS</h2>
 
-      <div class="text-block-2 only-cta-title">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vulputate, mi nec efficitur vulputate, augue leo molestie urna, quis aliquet leo magna eu nulla.</div>
+      <div class="text-block-2 only-cta-title">Si quieres transformar tu vida, Pura Sangre CrossFit es para tí, No importa en que condición fisica te encuentres, unete ahora  y no te daras cuenta como los resultados llegan por si solos.</div>
       <div class="cta-buttons">
         <a href="{{url('/clases-de-prueba')}}" class="green-button mg-button w-button">Conoce como funciona</a>
         <a href="https://api.whatsapp.com/send?phone=+56940207699&amp;text=Hola,%20quiero%20contratar%20las%20clases%20gratis" id="boton-whatsapp-cta" target="_blank" class="green-button mg-button w-button"><img class="img-whatsapp" src="../images/whatsapp_icon.svg">Solicitar via Whatsapp</a>
@@ -36,14 +36,14 @@
   <div class="cta-big cta-crossfit">
     <div class="cta-big-inner">
       <h1 class="title-big-cta">¿Qué es el <br>CrossFit?</h1>
-      <div class="text-block-3">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vulputate, mi nec efficitur vulputate, augue leo molestie urna, quis aliquet leo magna eu nulla. Cras suscipit a quam quis mollis. Pellentesque habitant morbi.</div><a href="{{url('/crossfit')}}" class="green-button w-button">Conoce más</a></div>
+      <div class="text-block-3">CrossFit es un programa de acondicionamiento físico basado en movimientos funcionales constantemente variados y ejecutados a alta intensidad, es universalmente escalable para cualquier persona, nivel y estado de fisico.</div><a href="{{url('/crossfit')}}" class="green-button w-button">Conoce más</a></div>
   </div>
 
   <section class="planes">
     <div class="cards-inner">
       <div class="planes-heading">
         <h1 class="heading title-section clipped">PLANES A <br>TU MEDIDA</h1>
-        <div class="text-block disclaimer-heading">Ya no existen las excusas. <br>Tenemos planes que se adaptan a tu tiempo y a tu bolsillo. Ven a vivir la experiencia del CrossFit con nosotros.</div>
+        <div class="text-block disclaimer-heading">Ya no existen las excusas. <br>Tenemos planes que se adaptan a tu tiempo y a tu bolsillo. <br>Ven a vivir la experiencia del CrossFit con nosotros.</div>
       </div>
       <div class="cards">
         <div id="w-node-0703020e6b19-b4aeb525" class="card-promo card-promo-bg1">
@@ -139,13 +139,23 @@
         </a>
       </div>
     </div>
+    <div class="item-wrapper-inv">
+      <div class="data-inv">
+        <h1 class="heading title-section clipped special-margin">NUTRICIONISTA <br>QUE POTENCIA <br>TUS OBJETIVOS</h1>
+        <div id="w-node-250d504b0523-cf5d8cad" class="data-inv-inner">
+          <div class="text-block-5">Lorem ipsum dolor sit amet, consectetur adipiscing elit.<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vulputate, mi nec efficitur vulputate, augue leo molestie urna, quis aliquet leo magna eu nulla.</div>
+          <a href="https://api.whatsapp.com/send?phone=+56940207699&amp;text=Hola,%20quiero%20reservar%20una%20hora%20con%20la%20Nutricionista" class="green-button w-button"><img class="img-whatsapp" src="../images/whatsapp_icon.svg">Reserva una hora via WhatsApp</a>
+        </div>
+      </div>
+      <div id="w-node-250d504b0522-cf5d8cad" class="img-inv img-nutricionista"></div>
+    </div>
   </div>
 
   <div class="banner-promo bg-section">
     <div class="banner-promo-inner">
       <h1 class="heading-2 white-cta-title">Entrena con Nosotros</h1>
-      <div class="text-block-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vulputate, mi nec efficitur vulputate, augue leo molestie urna, quis aliquet leo magna eu nulla.</div>
-      <div class="cta-buttons"><a href="{{url('/clases-de-prueba')}}" class="green-button w-button">Conoce como funciona</a></div>
+      <div class="text-block-2">En nuestras clases de prueba, podras experimentar un entrenamiento distinto, funcional y entretenido.</div>
+      <div class="cta-buttons"><a href="{{url('/clases-de-prueba')}}" class="green-button w-button">Conoce más Detalles</a></div>
     </div>
   </div>
 
