@@ -151,7 +151,7 @@
         <div class="text-block-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vulputate, mi nec efficitur vulputate, augue leo molestie urna, quis aliquet leo magna eu nulla.</div>
         <div class="cta-buttons">
           <a href="{{url('/clases-de-prueba')}}" class="green-button mg-button w-button">Conoce como funciona</a>
-          <a href="https://api.whatsapp.com/send?phone=+56940207699&amp;text=Hola,%20quiero%20contratarlas%20clases%20gratis" target="_blank" class="green-button mg-button w-button" id="boton-whatsapp-cta">
+          <a href="https://api.whatsapp.com/send?phone=+56940207699&amp;text=Hola,%20quiero%20contratar%20las%20clases%20gratis" target="_blank" class="green-button mg-button w-button" id="boton-whatsapp-cta">
             <img class="img-whatsapp" src="../images/whatsapp_icon.svg">Solicita via WhatsApp</a>
           </div>
       </div>
