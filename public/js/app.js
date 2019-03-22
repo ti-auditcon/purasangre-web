@@ -95,6 +95,7 @@ $(function(){
 
           }
         ).fail(function(data){
+          $('.w-form-loading').css({ 'display': 'none' });
           $('.w-form-fail').css({
             'display': 'block'
           })
