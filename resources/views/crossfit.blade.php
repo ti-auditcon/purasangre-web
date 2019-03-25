@@ -27,7 +27,7 @@
         <div id="w-node-bbe444900989-4eaaa2ee" class="img img-deporte-fitness"></div>
         <div id="w-node-bbe44490098a-4eaaa2ee" class="data">
           <h1 class="heading title-section clipped">EL DEPORTE <br>DEL FITNESS</h1>
-          <div class="text-block-5"><strong>CrossFit</strong> es un estilo de vida caracterizado por ejercicios seguros y eficaces combinados con una nutrición sana. <br><br>Se puede utilizar para lograr cualquier objetivo, desde mejorar la salud hasta perder peso o aumentar el rendimiento. Funciona para todo tipo de persona: personas que recién están comenzando y personas que se han capacitado durante años.</div>
+          <div class="text-block-5"><strong>CrossFit</strong> es un estilo de vida caracterizado por ejercicios seguros y eficaces combinados con una nutrición sana. <br><br>Se puede utilizar para lograr cualquier objetivo, desde mejorar la salud hasta perder peso o aumentar el rendimiento en tu vida diaria o en otras disciplinas. Funciona para todo tipo de persona: personas que recién están comenzando y deportistas.</div>
         </div>
       </div>
       <div class="item-wrapper-inv">

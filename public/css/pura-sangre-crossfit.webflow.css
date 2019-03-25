@@ -400,6 +400,7 @@
   width: 49%;
   font-size: 19px;
   line-height: 28px;
+  margin-bottom: 8px;
 }
 
 .cta-big-inner {
@@ -841,7 +842,7 @@
 
 .text-block-5 {
   width: 70%;
-  margin-top: 28px;
+  margin-top: 22px;
   margin-bottom: 28px;
   font-size: 19px;
   line-height: 28px;
