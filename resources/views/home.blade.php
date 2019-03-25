@@ -10,7 +10,7 @@
       {{-- Estas son las diapos --}}
       <a href="{{url('/planes')}}" class="slide-1 w-slide"></a>
       <a href="{{url('/prueba')}}" class="slide-2 w-slide"></a>
-      <a href="{{url('/app')}}" class="slide-3 w-slide"></a>
+      <a href="{{url('/app')}}" class="slide-3 w-slide" target="_blank"></a>
     </div>
     <div class="w-slider-arrow-left">
       <div class="icon-2 w-icon-slider-left"></div>
