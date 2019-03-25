@@ -35,12 +35,16 @@ Route::get('/equipo', function () {
     return view('equipo');
 });
 
-Route::get('/clases-de-prueba', function () {
-    return view('clases-de-prueba');
+Route::get('/prueba', function () {
+    return view('prueba');
 });
 
 Route::get('/contacto', function () {
     return view('contacto');
+});
+
+Route::get('/app', function () {
+    return view('app');
 });
 
 Route::post('/enviado', 'MailController@sendmail')->name('ruta');

@@ -9,8 +9,8 @@
     <div class="mask w-slider-mask">
       {{-- Estas son las diapos --}}
       <a href="{{url('/planes')}}" class="slide-1 w-slide"></a>
-      <a href="{{url('/clases-de-prueba')}}" class="slide-2 w-slide"></a>
-      <a href="http://onelink.to/qzuwc6" class="slide-3 w-slide"></a>
+      <a href="{{url('/prueba')}}" class="slide-2 w-slide"></a>
+      <a href="{{url('/app')}}" class="slide-3 w-slide"></a>
     </div>
     <div class="w-slider-arrow-left">
       <div class="icon-2 w-icon-slider-left"></div>
@@ -27,7 +27,7 @@
 
       <div class="text-block-2 only-cta-title">Si quieres transformar tu vida, Pura Sangre CrossFit es para tí, No importa en que condición fisica te encuentres, unete ahora  y no te daras cuenta como los resultados llegan por si solos.</div>
       <div class="cta-buttons">
-        <a href="{{url('/clases-de-prueba')}}" class="green-button mg-button w-button">Conoce como funciona</a>
+        <a href="{{url('/prueba')}}" class="green-button mg-button w-button">Conoce como funciona</a>
         <a href="https://api.whatsapp.com/send?phone=+56940207699&amp;text=Hola,%20quiero%20contratar%20las%20clases%20gratis" id="boton-whatsapp-cta" target="_blank" class="green-button mg-button w-button"><img class="img-whatsapp" src="../images/whatsapp_icon.svg">Solicitar via Whatsapp</a>
       </div>
     </div>
@@ -155,7 +155,7 @@
     <div class="banner-promo-inner">
       <h1 class="heading-2 white-cta-title">Entrena con Nosotros</h1>
       <div class="text-block-2">En nuestras clases de prueba, podras experimentar un entrenamiento distinto, funcional y entretenido.</div>
-      <div class="cta-buttons"><a href="{{url('/clases-de-prueba')}}" class="green-button w-button">Conoce más Detalles</a></div>
+      <div class="cta-buttons"><a href="{{url('/prueba')}}" class="green-button w-button">Conoce más Detalles</a></div>
     </div>
   </div>
 

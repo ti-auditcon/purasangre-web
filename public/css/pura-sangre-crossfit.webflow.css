@@ -986,8 +986,8 @@
 }
 
 .heading-page.heading-clase-prueba {
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .75)), to(rgba(0, 0, 0, .75))), url('../images/clases-de-prueba-test.jpg');
-  background-image: linear-gradient(180deg, rgba(0, 0, 0, .75), rgba(0, 0, 0, .75)), url('../images/clases-de-prueba-test.jpg');
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .75)), to(rgba(0, 0, 0, .75))), url('../images/prueba-test.jpg');
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, .75), rgba(0, 0, 0, .75)), url('../images/prueba-test.jpg');
   background-position: 0px 0px, 50% 0%;
   background-size: auto, 1440px;
 }
@@ -9959,6 +9959,260 @@
     width: 48px;
   }
 }
+
+.page-app {
+  width: 100vw;
+  height: 100vh;
+  position: relative;
+  background: rgba(0, 0, 0, 0.65);
+}
+.page-app::before {
+  content: '';
+  position: absolute;
+  z-index: -1;
+  width: 100%;
+  height: 100%;
+  background: url('../images/back-app-page.jpg');
+  background-size: cover;
+}
+.page-app .app-inner {
+  display: grid;
+  grid-template-columns: 0.8fr 1.2fr;
+  width: 65%;
+  max-width: 860px;
+  max-height: 540px;
+  height: 68%;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  background: white;
+  border-radius: 4px;
+  overflow: hidden;
+}
+.app-inner .app-img {
+  background: url('../images/app-image.jpg');
+  background-size: cover;
+  background-position: center;
+}
+.app-inner .app-data {
+  padding: 38px 50px;
+  width: 95%;
+}
+.app-data a:first-child {
+  margin-right: 6px;
+}
+.app-data h6 {
+  margin-bottom: 6px;
+  font-size: 16px;
+}
+.app-data .highlight {
+  background-image: linear-gradient(129deg, #e32f89, #a108ff);
+  background-clip: text;
+  -webkit-background-clip: text;
+  text-fill-color: transparent;
+  -webkit-text-fill-color: transparent;
+}
+.app-data h1 {
+  margin-top: 0;
+  margin-bottom: 20px;
+  font-size: 36px;
+  line-height: 42px;
+}
+.app-data p {
+  font-size: 15px;
+  line-height: 21px;
+  margin-bottom: 18px;
+}
+.app-data .checklist {
+  color: #333;
+  width: 100%;
+  margin-bottom: 28px;
+}
+.app-data .checklist .checklist-item {
+  font-size: 15px;
+  line-height: 21px;
+}
+.app-data img {
+  width: 124px;
+}
+.app-data .checklist .checklist-item-wrapper {
+  margin-bottom: 7px;
+}
+.app-data .checklist .checklist-item-wrapper img {
+  width: 14px;
+  margin-right: 12px;
+}
+
+@media (max-width: 1300px) {
+  .page-app {
+  }
+  .page-app::before {
+  }
+  .page-app .app-inner {
+    /* width: 65%; */
+    height: 76%;
+  }
+  .app-inner .app-img {
+  }
+  .app-inner .app-data {
+    /* padding: 38px 50px;
+    width: 95%; */
+  }
+  .app-data a:first-child {
+  }
+  .app-data h6 {
+  }
+  .app-data .highlight {
+  }
+  .app-data h1 {
+  }
+  .app-data p {
+  }
+  .app-data .checklist {
+  }
+  .app-data .checklist .checklist-item {
+  }
+  .app-data img {
+  }
+  .app-data .checklist .checklist-item-wrapper {
+  }
+  .app-data .checklist .checklist-item-wrapper img {
+  }
+}
+
+@media (max-width: 991px) {
+  .page-app {
+  }
+  .page-app::before {
+  }
+  .page-app .app-inner {
+    width: 72%;
+    height: 85%;
+    max-height: 100%;
+  }
+  .app-inner .app-img {
+  }
+  .app-inner .app-data {
+    width: 100%;
+  }
+  .app-data a:first-child {
+  }
+  .app-data h6 {
+  }
+  .app-data .highlight {
+  }
+  .app-data h1 {
+  }
+  .app-data p {
+  }
+  .app-data .checklist {
+  }
+  .app-data .checklist .checklist-item {
+  }
+  .app-data img {
+  }
+  .app-data .checklist .checklist-item-wrapper {
+  }
+  .app-data .checklist .checklist-item-wrapper img {
+  }
+}
+
+@media (max-width: 768px) {
+  .page-app {
+  }
+  .page-app::before {
+  }
+  .page-app .app-inner {
+    grid-template-columns: 1fr;
+    width: 72%;
+    height: 90%;
+    max-height: 100%;
+    overflow: scroll;
+  }
+  .app-inner .app-img {
+    height: 260px;
+  }
+  .app-inner .app-data {
+    padding: 34px 44px;
+  }
+  .app-data a:first-child {
+  }
+  .app-data h6 {
+  }
+  .app-data .highlight {
+  }
+  .app-data h1 {
+    font-size: 30px;
+    line-height: 34px;
+  }
+  .app-data p {
+    margin-bottom: 0;
+  }
+  .app-data .checklist {
+    margin-top: 22px;
+  }
+  .app-data .checklist .checklist-item {
+  }
+  .app-data img {
+  }
+  .app-data .checklist .checklist-item-wrapper {
+  }
+  .app-data .checklist .checklist-item-wrapper img {
+  }
+}
+
+@media (max-width: 479px) {
+  .page-app {
+  }
+  .page-app::before {
+  }
+  .page-app .app-inner {
+    /* grid-template-columns: 1fr; */
+    width: 100%;
+    max-width: 100%;
+    height: 100%;
+    max-height: 100%;
+    /* height: 90%; */
+    /* max-height: 100%; */
+    overflow: scroll;
+  }
+  .app-inner .app-img {
+    /* height: 260px; */
+  }
+  .app-inner .app-data {
+    padding: 34px 30px 60px;
+  }
+  .app-data a:first-child {
+  }
+  .app-data h6 {
+  }
+  .app-data .highlight {
+  }
+  .app-data h1 {
+    /* font-size: 30px;
+    line-height: 34px; */
+  }
+  .app-data p {
+    /* margin-bottom: 0; */
+  }
+  .app-data .checklist {
+    /* margin-top: 22px; */
+  }
+  .app-data .checklist .checklist-item {
+  }
+  .app-data img {
+  }
+  .app-data .checklist .checklist-item-wrapper {
+  }
+  .app-data .checklist .checklist-item-wrapper img {
+    margin-right: 8px;
+    margin-top: -5px;
+  }
+}
+
 
 /*
 

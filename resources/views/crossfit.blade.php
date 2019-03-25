@@ -106,7 +106,7 @@
         <h1 class="heading-2 white-cta-title">3 Clases de prueba<br>GRATIS</h1>
         <div class="text-block-2">Si quieres transformar tu vida, Pura Sangre CrossFit es para tí, No importa en que condición fisica te encuentres, unete ahora y no te daras cuenta como los resultados llegan por si solos.</div>
         <div class="cta-buttons">
-          <a href="{{url('/clases-de-prueba')}}" class="green-button mg-button w-button">Conoce como funciona</a>
+          <a href="{{url('/prueba')}}" class="green-button mg-button w-button">Conoce como funciona</a>
           <a href="https://api.whatsapp.com/send?phone=+56940207699&amp;text=Hola,%20quiero%20contratar%20las%20clases%20gratis" target="_blank" class="green-button mg-button w-button" id="boton-whatsapp-cta">
             <img class="img-whatsapp" src="../images/whatsapp_icon.svg">
             Solicita via WhatsApp
