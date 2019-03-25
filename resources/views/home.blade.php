@@ -130,7 +130,27 @@
       <div id="w-node-53a399b43162-b4aeb525" class="img air-img-app"></div>
       <div id="w-node-53a399b43163-b4aeb525" class="data">
         <h1 class="heading title-section clipped">NUESTRA <br>APP</h1>
-        <div class="text-block-5">Con nuestra app vivirás la experiencia completa de Pura Sangre CrossFit. Podrás reservar clases, ver el workout del día, conocer tu asistencia, pagos y compañeros asistentes al box.</div>
+        <div class="text-block-5">
+          Con nuestra app puedes organizar tus tiempos y mantener la constancia de tu entrenamiento para lograr tus objetivos.
+          Con ella podrás:
+        </div>
+        <div class="checklist checklist-app">
+          <div class="checklist-item-wrapper"><img src="images/check-icon-inv.svg" alt="" class="check-icon">
+            <div class="checklist-item">Reservar clases y conocer tu asistencia</div>
+          </div>
+          <div class="checklist-item-wrapper"><img src="images/check-icon-inv.svg" alt="" class="check-icon">
+            <div class="checklist-item">Ver el workout del día y quienes asistirán</div>
+          </div>
+          <div class="checklist-item-wrapper"><img src="images/check-icon-inv.svg" id="w-node-5d72265f089b-4eaaa2ee" alt="" class="check-icon">
+            <div id="w-node-5d72265f089c-4eaaa2ee" class="checklist-item">Revisar historial de pagos e información de tu plan</div>
+          </div>
+          <div class="checklist-item-wrapper"><img src="images/check-icon-inv.svg" id="w-node-5d72265f089f-4eaaa2ee" alt="" class="check-icon">
+            <div id="w-node-5d72265f08a0-4eaaa2ee" class="checklist-item">Registrar tus tiempos, pesos y notas de cada clase</div>
+          </div>
+          <div class="checklist-item-wrapper"><img src="images/check-icon-inv.svg" id="w-node-d363095ca7aa-4eaaa2ee" alt="" class="check-icon">
+            <div id="w-node-d363095ca7ab-4eaaa2ee" class="checklist-item">Recibir notificaciones de reservas y noticias del box</div>
+          </div>
+        </div>
         <a href="https://play.google.com/store/apps/details?id=purasangrecrossfit.app.com&amp;hl=es" class="w-inline-block" id="boton-app-android">
           <img src="images/google-play-badge-2.png" alt="" class="image-7 app-icon">
         </a>
@@ -143,7 +163,7 @@
       <div class="data-inv">
         <h1 class="heading title-section clipped special-margin">NUTRICIONISTA <br>QUE POTENCIA <br>TUS OBJETIVOS</h1>
         <div id="w-node-250d504b0523-cf5d8cad" class="data-inv-inner">
-          <div class="text-block-5">Lorem ipsum dolor sit amet, consectetur adipiscing elit.<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vulputate, mi nec efficitur vulputate, augue leo molestie urna, quis aliquet leo magna eu nulla.</div>
+          <div class="text-block-5">Con nuestra asesoría nutricional llevamos tu entrenamiento al siguiente nivel. Medimos, evaluamos y planificamos según tu estado nutricional. <br>Te ayudamos a comprender cómo funciona tu metabolismo para que puedas tomar control de tu alimentación y lograr tus objetivos a corto plazo. </div>
           <a href="https://api.whatsapp.com/send?phone=+56940207699&amp;text=Hola,%20quiero%20reservar%20una%20hora%20con%20la%20Nutricionista" class="green-button w-button"><img class="img-whatsapp" src="../images/whatsapp_icon.svg">Reserva una hora via WhatsApp</a>
         </div>
       </div>
