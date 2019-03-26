@@ -53,12 +53,69 @@
         </div>
         <div class="img-inv img-disciplinas"></div>
       </div>
-      <div class="habilidades-wrapper">
-        <div class="habilidades">
-          {{-- <h3 class="habilidades-title">Habilidades</h3> --}}
-          <h3 class="habilidades-text">Resistencia Cardiovascular y Respiratoria    -    Fuerza    -    Flexibilidad    -    Potencia    -    Velocidad    -    Coordinación    -    Agilidad    -    Equilibrio    -    Precisión    -    Estamina</h3>
+    </div>
+
+    <div class="cta-big cta-crossfit cta-habilidades">
+      <div class="cta-big-inner">
+        <h1 class="title-big-cta">10 Habilidades <br>que Desarrollaras <br>con el CrossFit</h1>
+        <div class="checklist">
+          <div class="checklist-item-wrapper"><img src="images/check-icon.svg" alt="" class="check-icon">
+            <div class="checklist-item">Resistencia cardiovalcular y respiratoria</div>
+          </div>
+          <div class="checklist-item-wrapper"><img src="images/check-icon.svg" alt="" class="check-icon">
+            <div class="checklist-item">Fuerza</div>
+          </div>
+          <div class="checklist-item-wrapper"><img src="images/check-icon.svg" alt="" class="check-icon">
+            <div class="checklist-item">Flexibilidad</div>
+          </div>
+          <div class="checklist-item-wrapper"><img src="images/check-icon.svg" id="w-node-5d72265f089b-4eaaa2ee" alt="" class="check-icon">
+            <div class="checklist-item">Potencia</div>
+          </div>
+          <div class="checklist-item-wrapper"><img src="images/check-icon.svg" id="w-node-5d72265f089f-4eaaa2ee" alt="" class="check-icon">
+            <div class="checklist-item">Velocidad</div>
+          </div>
+          <div class="checklist-item-wrapper"><img src="images/check-icon.svg" id="w-node-d363095ca7aa-4eaaa2ee" alt="" class="check-icon">
+            <div class="checklist-item">Coordinación</div>
+          </div>
+          <div class="checklist-item-wrapper"><img src="images/check-icon.svg" id="w-node-d363095ca7aa-4eaaa2ee" alt="" class="check-icon">
+            <div class="checklist-item">Agilidad</div>
+          </div>
+          <div class="checklist-item-wrapper"><img src="images/check-icon.svg" id="w-node-d363095ca7aa-4eaaa2ee" alt="" class="check-icon">
+            <div class="checklist-item">Equilibrio</div>
+          </div>
+          <div class="checklist-item-wrapper"><img src="images/check-icon.svg" id="w-node-d363095ca7aa-4eaaa2ee" alt="" class="check-icon">
+            <div class="checklist-item">Precisión</div>
+          </div>
+          <div class="checklist-item-wrapper"><img src="images/check-icon.svg" id="w-node-d363095ca7aa-4eaaa2ee" alt="" class="check-icon">
+            <div class="checklist-item">Estamina</div>
+          </div>
         </div>
       </div>
+    </div>
+
+
+    <div class="air-grid">
+      {{-- <div class="habilidades-wrapper">
+        <div class="habilidades">
+          <div class="habilidades-title">
+            <h1>10 Habilidades <br>que Desarrollaras <br>con el CrossFit</h1>
+          </div>
+          <div class="habilidades-data">
+            <h3 class="habilidades-text">
+              <img src="images/check-icon.svg" class="check-icon">Resistencia<br>
+              <img src="images/check-icon.svg" class="check-icon">Fuerza<br>
+              <img src="images/check-icon.svg" class="check-icon">Flexibilidad<br>
+              <img src="images/check-icon.svg" class="check-icon">Potencia<br>
+              <img src="images/check-icon.svg" class="check-icon">Velocidad<br>
+              <img src="images/check-icon.svg" class="check-icon">Coordinación<br>
+              <img src="images/check-icon.svg" class="check-icon">Agilidad<br>
+              <img src="images/check-icon.svg" class="check-icon">Equilibrio<br>
+              <img src="images/check-icon.svg" class="check-icon">Precisión<br>
+              <img src="images/check-icon.svg" class="check-icon">Estamina
+            </h3>
+          </div>
+        </div>
+      </div> --}}
       <div class="item-wrapper">
         <div id="w-node-bbe4449009a2-4eaaa2ee" class="img img-entrenamiento-diferente"></div>
         <div id="w-node-bbe4449009a3-4eaaa2ee" class="data">
