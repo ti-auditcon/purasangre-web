@@ -62,7 +62,7 @@
       <div class="item-wrapper">
         <div id="w-node-bbe4449009a2-4eaaa2ee" class="img img-entrenamiento-diferente"></div>
         <div id="w-node-bbe4449009a3-4eaaa2ee" class="data">
-          <h3 class="subtitle">Adaptabilidad y desafío</h3>
+          <h3 class="subtitle">Adaptable y Desafiante</h3>
           <div class="text-block-5">Los entrenamientos de CrossFit se pueden adaptar para personas de cualquier edad y nivel de condición física. Los niveles de intensidad se ajustan para desafiar a la persona y mejorar el estado físico de forma segura.<br></div>
         </div>
       </div>
