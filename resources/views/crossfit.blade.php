@@ -37,7 +37,7 @@
         <div class="data-inv">
           <div class="data-inv-inner">
             <h3 class="subtitle">Ejercicios de la vida diaria</h3>
-            <div class="text-block-5">La magia está en los movimientos. Los entrenamientos son diferentes cada día y se modifican para ayudar a cada atleta a lograr sus objetivos. <strong>CrossFit</strong> usa movimientos funcionales y efectivos similares a los que usas en tu día a día.</div>
+            <div class="text-block-5">La magia está en los movimientos. Los entrenamientos son diferentes cada día y se modifican para ayudar a cada persona a lograr sus objetivos. <strong>CrossFit</strong> usa movimientos funcionales y efectivos similares a los que usas en tu día a día.</div>
             <div class="disciplinas-wrapper">
               <div class="item-disciplina"><img src="images/ico-haltero.svg" alt="" class="img-disciplina">
                 <h5 class="title-disciplina">Halterofilia</h5>
