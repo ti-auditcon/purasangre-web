@@ -204,18 +204,10 @@
 }
 
 .planes-heading {
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
   display: flex;
   margin-bottom: 52px;
-  -webkit-box-pack: justify;
-  -webkit-justify-content: space-between;
-  -ms-flex-pack: justify;
   justify-content: space-between;
-  -webkit-flex-wrap: nowrap;
-  -ms-flex-wrap: nowrap;
-  flex-wrap: nowrap;
+  flex-wrap: wrap;
 }
 
 .cards {
@@ -331,18 +323,22 @@
 }
 
 .heading.title-section {
-  background-image: -webkit-gradient(linear, left top, right top, from(hsla(330.12658227848107, 97.53%, 52.35%, 1.00)), to(hsla(291.57894736842104, 100.00%, 33.53%, 1.00)));
+  /* background-image: -webkit-gradient(linear, left top, right top, from(hsla(330.12658227848107, 97.53%, 52.35%, 1.00)), to(hsla(291.57894736842104, 100.00%, 33.53%, 1.00))); */
   background-image: linear-gradient(90deg, hsla(330.12658227848107, 97.53%, 52.35%, 1.00), hsla(291.57894736842104, 100.00%, 33.53%, 1.00));
   font-size: 62px;
   margin-bottom: 14px;
   line-height: 63px;
 }
 
+.heading.title-section.mg-bottom {
+  margin-bottom: 30px;
+}
+
 .heading.title-section.clipped {
   display: inline-block;
   width: auto;
   margin-top: 0px;
-  background-image: -webkit-gradient(linear, left top, right top, from(hsla(330.12658227848107, 97.53%, 52.35%, 1.00)), to(hsla(291.57894736842104, 100.00%, 33.53%, 1.00)));
+  /* background-image: -webkit-gradient(linear, left top, right top, from(hsla(330.12658227848107, 97.53%, 52.35%, 1.00)), to(hsla(291.57894736842104, 100.00%, 33.53%, 1.00))); */
   background-image: linear-gradient(90deg, hsla(330.12658227848107, 97.53%, 52.35%, 1.00), hsla(291.57894736842104, 100.00%, 33.53%, 1.00));
   letter-spacing: -0.04em;
 }

@@ -42,7 +42,7 @@
   <section class="planes">
     <div class="cards-inner">
       <div class="planes-heading">
-        <h1 class="heading title-section clipped">PLANES A <br>TU MEDIDA</h1>
+        <h1 class="heading title-section clipped mg-bottom">PLANES A TU MEDIDA</h1>
         <div class="text-block disclaimer-heading">Ya no existen las excusas. <br>Tenemos planes que se adaptan a tu tiempo y a tu bolsillo.</div>
       </div>
       <div class="cards">
