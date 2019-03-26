@@ -12,7 +12,7 @@
   <div class="heading-page heading-crossfit">
       <div class="heading-page-inner">
         <h2 class="heading-title">¿Qué es el CrossFit?</h2>
-        <div class="heading-desc">Aprende en pocas palabras qué es el CrossFit y porque es tan efectivo.</div>
+        <div class="heading-desc">Aprende en pocas palabras qué es el CrossFit y porque es para ti</div>
       </div>
     </div>
     <div class="air-grid">
@@ -27,14 +27,17 @@
         <div id="w-node-bbe444900989-4eaaa2ee" class="img img-deporte-fitness"></div>
         <div id="w-node-bbe44490098a-4eaaa2ee" class="data">
           <h1 class="heading title-section clipped">EL DEPORTE <br>DEL FITNESS</h1>
-          <div class="text-block-5"><strong>CrossFit</strong> es un estilo de vida caracterizado por ejercicios seguros y eficaces combinados con una nutrición sana. <br><br>Se puede utilizar para lograr cualquier objetivo, desde mejorar la salud hasta perder peso o aumentar el rendimiento en tu vida diaria o en otras disciplinas. Funciona para todo tipo de persona: personas que recién están comenzando y deportistas.</div>
+          <div class="text-block-5">
+            <strong>CrossFit</strong> es un estilo de vida caracterizado por ejercicios seguros y eficaces combinados con una nutrición sana.<br><br>
+            Se puede utilizar para lograr cualquier objetivo, desde mejorar la salud hasta perder peso o aumentar el rendimiento en tu vida diaria o en otras disciplinas. Funciona para todo tipo de personas: personas que recién están comenzando y deportistas.
+          </div>
         </div>
       </div>
       <div class="item-wrapper-inv">
         <div class="data-inv">
           <div class="data-inv-inner">
             <h3 class="subtitle">Ejercicios de la vida diaria</h3>
-            <div class="text-block-5">La magia está en los movimientos. Los entrenamientos son diferentes cada día y se modifican para ayudar a cada atleta a lograr sus objetivos. <strong>CrossFit</strong> usa movimientos funcionales y efectivos, similares a los que usas en tu día a día.</div>
+            <div class="text-block-5">La magia está en los movimientos. Los entrenamientos son diferentes cada día y se modifican para ayudar a cada atleta a lograr sus objetivos. <strong>CrossFit</strong> usa movimientos funcionales y efectivos similares a los que usas en tu día a día.</div>
             <div class="disciplinas-wrapper">
               <div class="item-disciplina"><img src="images/ico-haltero.svg" alt="" class="img-disciplina">
                 <h5 class="title-disciplina">Halterofilia</h5>
@@ -67,7 +70,13 @@
         <div class="data-inv">
           <div class="data-inv-inner">
             <h3 class="subtitle">Salud y estilo de vida</h3>
-            <div class="text-block-5">El estilo de vida del <strong>CrossFit</strong> es una combinación de alimentación saludable y ejercicio. Esta la clave para el buen estado físico y la salud a largo plazo.</div>
+            <div class="text-block-5">
+
+              El estilo de vida del <strong>CrossFit</strong> es una combinación de alimentación saludable y ejercicio. Esta es la clave para combatir enfermedades como:
+              la diabetes, la hipertensión, cardiovasculares, entre otras, que actualmente van en aumento y que se relacionan directamente con el estilo
+              de vida actual, la mala alimentación y la baja actividad física.
+
+            </div>
           </div>
         </div>
         <div class="img-inv img-salud"></div>
@@ -76,7 +85,12 @@
         <div id="w-node-bbe4449009c6-4eaaa2ee" class="img img-comunidad"></div>
         <div id="w-node-bbe4449009c7-4eaaa2ee" class="data">
           <h3 class="subtitle">Comunidad</h3>
-          <div class="text-block-5">La comunidad del CrossFit esta formada por personas que se animan y se motivan entre sí en cada clase, a medida que trabajan para alcanzar sus objetivos. Entrena con amigos.</div><a href="{{url('/conocenos')}}" class="green-button w-button">Conoce sobre nosotros</a></div>
+          <div class="text-block-5">
+            Si existe algún gran punto diferenciador entre CrossFit y otras disciplinas de entrenamiento, es el hecho de que en la base de todo lo que hacemos, está <strong>la Comunidad</strong>.<br><br>
+            La comunidad del CrossFit esta formada por personas que se animan y se motivan entre sí en cada clase, a medida que trabajan juntos para alcanzar sus objetivos. Entrena con amigos.
+          </div>
+          <a href="{{url('/conocenos')}}" class="green-button w-button">Conoce sobre nosotros</a>
+        </div>
       </div>
     </div>
     <div class="cta-big cta-crossfit cta-benefcios">
@@ -84,19 +98,22 @@
         <h1 class="title-big-cta">Beneficios del<br>CrossFit</h1>
         <div class="checklist">
           <div class="checklist-item-wrapper"><img src="images/check-icon.svg" alt="" class="check-icon">
-            <div class="checklist-item">Disminuye los porcentajes de grasa y activa tu metabolismo</div>
+            <div class="checklist-item">Incrementa tu autoestima y seguridad manteniéndote alegre y positivo</div>
           </div>
           <div class="checklist-item-wrapper"><img src="images/check-icon.svg" alt="" class="check-icon">
-            <div class="checklist-item">Gana masa muscular con ejercicios funcionales.</div>
+            <div class="checklist-item">Gana masa muscular con ejercicios efectivos y entretenidos</div>
           </div>
           <div class="checklist-item-wrapper"><img src="images/check-icon.svg" id="w-node-5d72265f089b-4eaaa2ee" alt="" class="check-icon">
-            <div id="w-node-5d72265f089c-4eaaa2ee" class="checklist-item">Aumenta tu energía y agilidad en el día a día</div>
+            <div id="w-node-5d72265f089c-4eaaa2ee" class="checklist-item">Conoce gente perseverante y motivada por el deporte y la vida sana</div>
           </div>
           <div class="checklist-item-wrapper"><img src="images/check-icon.svg" id="w-node-5d72265f089f-4eaaa2ee" alt="" class="check-icon">
-            <div id="w-node-5d72265f08a0-4eaaa2ee" class="checklist-item">Incrementa tu autoestima y seguridad manteniendote alegre y positivo</div>
+            <div id="w-node-5d72265f08a0-4eaaa2ee" class="checklist-item">Disminuye los porcentajes de grasa y activa tu metabolismo</div>
           </div>
           <div class="checklist-item-wrapper"><img src="images/check-icon.svg" id="w-node-d363095ca7aa-4eaaa2ee" alt="" class="check-icon">
-            <div id="w-node-d363095ca7ab-4eaaa2ee" class="checklist-item">Conoce gente perseverante y motivada por el deporte y la vida sana</div>
+            <div id="w-node-d363095ca7ab-4eaaa2ee" class="checklist-item">Baja el stress del día a día y libera endorfinas</div>
+          </div>
+          <div class="checklist-item-wrapper"><img src="images/check-icon.svg" id="w-node-d363095ca7aa-4eaaa2ee" alt="" class="check-icon">
+            <div id="w-node-d363095ca7ab-4eaaa2ee" class="checklist-item">Aumenta tu energía y agilidad</div>
           </div>
         </div>
       </div>

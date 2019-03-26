@@ -12,19 +12,23 @@
   <div class="heading-page heading-conocenos">
         <div class="heading-page-inner">
           <h2 class="heading-title">Conoce el único box certificado de la región</h2>
-          <div class="heading-desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vulputate, mi nec efficitur vulputate, augue leo molestie urna, quis aliquet leo magna eu nulla. Cras suscipit a quam quis mollis.</div>
+          <div class="heading-desc">Entrena en instalaciones ideadas para el CrossFit, únicas a nivel nacional con un equipo de Profesionales Certificados y motivados por lo que hacen</div>
         </div>
       </div>
-      <div class="air-grid">
+      <div class="air-grid air-grid-special">
         <div class="item-wrapper">
           <div id="w-node-265797c8f437-cf5d8cad" class="img img-equipo"></div>
           <div id="w-node-265797c8f438-cf5d8cad" class="data">
             <h1 class="heading title-section clipped">NUESTRO <br>EQUIPO</h1>
-            <div class="text-block-5">Lorem ipsum dolor sit amet, consectetur adipiscing elit.<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vulputate, mi nec efficitur vulputate, augue leo molestie urna, quis aliquet leo magna eu nulla. Cras suscipit a quam quis mollis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. </div>
+            <div class="text-block-5">
+              Somos un grupo de personas especializadas, apasionadas por el deporte y la <strong>vida sana</strong>. Nuestro compromiso con ayudarte a lograr tus metas,
+              es lo que nos separa de otros gimnasios. Motivados por enseñar y ofrecer salud a las personas. Buscamos encontrar el equilibrio en cada uno
+              de nuestros alumnos de forma efectiva y entretenida.
+            </div>
               <a href="{{url('/equipo')}}" class="green-button w-button">Conoce al Equipo</a>
             </div>
         </div>
-        <div class="title-section-wrapper mg-top">
+        <div class="title-section-wrapper mg-top pd-1">
           <div class="title-section-wrapper-inner">
             <h1 class="heading title-section clipped">LA<br>COMUNIDAD</h1>
           </div>
@@ -33,7 +37,7 @@
           <div class="data-inv">
             <div class="data-inv-inner">
               <h3 class="subtitle">Sin Egos</h3>
-              <div class="text-block-5">En Pura Sangre fomentamos el compañerismo, alentándote al desafío mientras nos divertimos.<br>‍<br>Cuando comiences a entrenar, un coach te enseñará como ajustar todos los entrenamientos a tu nivel de condición física actual. ºSin egos, aquí compites contra ti mismo.<br></div>
+              <div class="text-block-5">CrossFit te pone a prueba cada día. Compite contigo, potencia tus capacidades y los resultados llegaran. En Pura Sangre fomentamos la humildad en los entrenamientos, dejando el ego afuera.</div>
             </div>
           </div>
           <div class="img-inv img-sin-egos"></div>
@@ -42,7 +46,7 @@
           <div id="w-node-c50777a8f605-cf5d8cad" class="img img-companerismo"></div>
           <div id="w-node-c50777a8f606-cf5d8cad" class="data">
             <h3 class="subtitle">Compañerismo</h3>
-            <div class="text-block-5">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vulputate, mi nec efficitur vulputate, augue leo molestie urna, quis aliquet leo magna eu nulla. Cras suscipit a quam quis mollis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. <br>Lorem ipsum dolor sit amet, consectetur adipiscing elit.<br><br> Cras suscipit a quam quis mollis. Pellentesque habitant morbi tristique senectus et netus et malesuada.</div>
+            <div class="text-block-5">En Pura Sangre fomentamos el compañerismo, alentándote al desafío mientras nos divertimos.</div>
           </div>
         </div>
         <div class="item-wrapper-inv">
@@ -91,7 +95,7 @@
           <div id="w-node-250d504b0522-cf5d8cad" class="img img-nutricionista"></div>
           <div id="w-node-250d504b0523-cf5d8cad" class="data">
             <h1 class="heading title-section clipped special-margin">NUTRICIONISTA <br>QUE POTENCIA <br>TUS OBJETIVOS</h1>
-            <div class="text-block-5">Lorem ipsum dolor sit amet, consectetur adipiscing elit.<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vulputate, mi nec efficitur vulputate, augue leo molestie urna, quis aliquet leo magna eu nulla. Cras suscipit a quam quis mollis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. </div>
+            <div class="text-block-5">Con nuestra asesoría nutricional llevamos tu entrenamiento al siguiente nivel. Medimos, evaluamos y planificamos según tu estado nutricional. <br>Te ayudamos a comprender cómo funciona tu metabolismo para que puedas tomar control de tu alimentación y lograr tus objetivos a corto plazo. </div>
             <a href="https://api.whatsapp.com/send?phone=+56940207699&amp;text=Hola,%20quiero%20reservar%20una%20hora%20con%20la%20Nutricionista" class="green-button w-button"><img class="img-whatsapp" src="../images/whatsapp_icon.svg">Reserva una hora via WhatsApp</a>
           </div>
         </div>

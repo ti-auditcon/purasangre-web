@@ -159,7 +159,7 @@
         </a>
       </div>
     </div>
-    <div class="item-wrapper-inv">
+    <div class="item-wrapper-inv mg-3">
       <div class="data-inv">
         <h1 class="heading title-section clipped special-margin">NUTRICIONISTA <br>QUE POTENCIA <br>TUS OBJETIVOS</h1>
         <div id="w-node-250d504b0523-cf5d8cad" class="data-inv-inner">
