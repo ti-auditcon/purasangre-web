@@ -4,7 +4,13 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta content="width=device-width, initial-scale=1" name="viewport">
-    <title>Pura Sangre App</title>
+    <title>Pura Sangre CrossFit App - Vive la experiencia completa Pura Sangre</title>
+
+    <meta content="Vive la experiencia completa de Pura Sangre CrossFit. Con la app podrás controlar tus tiempos, asistencia, pagos y reservas en el box." name="description">
+    <meta content="Pura Sangre CrossFit App" property="og:title">
+    <meta content="Vive la experiencia completa de Pura Sangre CrossFit. Con la app podrás controlar tus tiempos, asistencia, pagos y reservas en el box." property="og:description">
+    <meta content="summary" name="twitter:card">
+
     <link href="css/normalize.css" rel="stylesheet" type="text/css">
     <link href="css/webflow.css" rel="stylesheet" type="text/css">
     <link href="css/pura-sangre-crossfit.webflow.css" rel="stylesheet" type="text/css">

@@ -1,9 +1,9 @@
 @extends('layouts.app')
 @section('page-title')
   <title>Contacto - Pura Sangre CrossFit</title>
-  <meta content="contacto meta" name="description">
+  <meta content="Instalaciones únicas a nivel nacional y un equipo siempre dispuesto y capacitado. Contacta con nosotros o visitanos en el box. Somos Pura Sangre CrossFit" name="description">
   <meta content="Contacto - Pura Sangre CrossFit" property="og:title">
-  <meta content="contacto meta" property="og:description">
+  <meta content="Instalaciones únicas a nivel nacional y un equipo siempre dispuesto y capacitado. Contacta con nosotros o visitanos en el box. Somos Pura Sangre CrossFit" property="og:description">
   <meta content="summary" name="twitter:card">
   <meta name="csrf-token" content="{{ csrf_token() }}">
 @endsection

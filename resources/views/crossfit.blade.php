@@ -1,9 +1,9 @@
 @extends('layouts.app')
 @section('page-title')
   <title>Qué es el CrossFit - Pura Sangre CrossFit</title>
-  <meta content="que es el crossfit meta" name="description">
+  <meta content="CrossFit es un estilo de vida caracterizado por ejercicios seguros y eficaces combinados con una nutrición sana." name="description">
   <meta content="Qué es el CrossFit - Pura Sangre CrossFit" property="og:title">
-  <meta content="que es el crossfit meta" property="og:description">
+  <meta content="CrossFit es un estilo de vida caracterizado por ejercicios seguros y eficaces combinados con una nutrición sana." property="og:description">
   <meta content="summary" name="twitter:card">
 @endsection
 
@@ -57,7 +57,7 @@
 
     <div class="cta-big cta-crossfit cta-habilidades">
       <div class="cta-big-inner">
-        <h1 class="title-big-cta">10 Habilidades <br>que Desarrollaras <br>con el CrossFit</h1>
+        <h1 class="title-big-cta">10 Habilidades <br>que Desarrollaras <br>con CrossFit</h1>
         <div class="checklist">
           <div class="checklist-item-wrapper"><img src="images/check-icon.svg" alt="" class="check-icon">
             <div class="checklist-item">Resistencia cardiovalcular y respiratoria</div>
@@ -129,7 +129,7 @@
             <h3 class="subtitle">Salud y estilo de vida</h3>
             <div class="text-block-5">
 
-              El estilo de vida del <strong>CrossFit</strong> es una combinación de alimentación saludable y ejercicio. Esta es la clave para combatir enfermedades como:
+              El estilo de vida del <strong>CrossFit</strong> es una combinación de alimentación saludable y ejercicio. Esta es la clave para combatir la obesidad, el sobrepeso y enfermedades como:
               la diabetes, la hipertensión, cardiovasculares, entre otras, que actualmente van en aumento y que se relacionan directamente con el estilo
               de vida actual, la mala alimentación y la baja actividad física.
 
@@ -178,7 +178,7 @@
     <div class="banner-promo bg-section">
       <div class="banner-promo-inner">
         <h1 class="heading-2 white-cta-title">3 Clases de prueba<br>GRATIS</h1>
-        <div class="text-block-2">Si quieres transformar tu vida, Pura Sangre CrossFit es para tí, No importa en que condición fisica te encuentres, unete ahora y no te daras cuenta como los resultados llegan por si solos.</div>
+        <div class="text-block-2"><strong>Si quieres transformar tu vida, Pura Sangre CrossFit es para ti.</strong><br> No importa en que condición fisica te encuentres, unete ahora y no te daras cuenta como los resultados llegan por si solos.</div>
         <div class="cta-buttons">
           <a href="{{url('/prueba')}}" class="green-button mg-button w-button">Conoce como funciona</a>
           <a href="https://api.whatsapp.com/send?phone=+56940207699&amp;text=Hola,%20quiero%20contratar%20las%20clases%20gratis" target="_blank" class="green-button mg-button w-button" id="boton-whatsapp-cta">

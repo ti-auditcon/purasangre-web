@@ -1,9 +1,9 @@
 @extends('layouts.app')
 @section('page-title')
   <title>Clases de Prueba - Pura Sangre CrossFit</title>
-  <meta content="clases de prueba meta" name="description">
+  <meta content="¿Cómo es una clase de CrossFit? ¿Qué es una clase de prueba? averígualo y ven a entrenar con nosotros. El CrossFit es para ti." name="description">
   <meta content="Clases de Prueba - Pura Sangre CrossFit" property="og:title">
-  <meta content="clases de prueba meta" property="og:description">
+  <meta content="¿Cómo es una clase de CrossFit? ¿Qué es una clase de prueba? averígualo y ven a entrenar con nosotros. El CrossFit es para ti." property="og:description">
   <meta content="summary" name="twitter:card">
 @endsection
 

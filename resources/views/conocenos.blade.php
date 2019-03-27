@@ -1,9 +1,9 @@
 @extends('layouts.app')
 @section('page-title')
   <title>Conócenos - Pura Sangre CrossFit</title>
-  <meta content="conocenos meta" name="description">
+  <meta content="Entrena en instalaciones ideadas para el CrossFit, únicas a nivel nacional con un equipo de Profesionales Certificados y motivados por lo que hacen." name="description">
   <meta content="Conócenos - Pura Sangre CrossFit" property="og:title">
-  <meta content="conocenos meta" property="og:description">
+  <meta content="Entrena en instalaciones ideadas para el CrossFit, únicas a nivel nacional con un equipo de Profesionales Certificados y motivados por lo que hacen." property="og:description">
   <meta content="summary" name="twitter:card">
 @endsection
 
@@ -12,7 +12,7 @@
   <div class="heading-page heading-conocenos">
         <div class="heading-page-inner">
           <h2 class="heading-title">Conoce el único box certificado de la región</h2>
-          <div class="heading-desc">Entrena en instalaciones ideadas para el CrossFit, únicas a nivel nacional con un equipo de Profesionales Certificados y motivados por lo que hacen</div>
+          <div class="heading-desc">Entrena en instalaciones ideadas para el CrossFit, únicas a nivel nacional con un equipo de Profesionales Certificados y motivados por lo que hacen.</div>
         </div>
       </div>
       <div class="air-grid air-grid-special">
@@ -21,9 +21,9 @@
           <div id="w-node-265797c8f438-cf5d8cad" class="data">
             <h1 class="heading title-section clipped">NUESTRO <br>EQUIPO</h1>
             <div class="text-block-5">
-              Somos un grupo de personas especializadas, apasionadas por el deporte y la <strong>vida sana</strong>. Nuestro compromiso con ayudarte a lograr tus metas,
-              es lo que nos separa de otros gimnasios. Motivados por enseñar y ofrecer salud a las personas. Buscamos encontrar el equilibrio en cada uno
-              de nuestros alumnos de forma efectiva y entretenida.
+              Somos un grupo de profesionales especializados, apasionados por el deporte y la
+              <strong>vida sana</strong>, motivados por enseñar y entregar bienestar a nuestros alumnos. Nuestro compromiso con ayudarte a lograr tus metas
+              es lo que nos separa de otros gimnasios. <br><strong>Buscaremos incansablemente sacar la mejor versión de ti</strong>.
             </div>
               <a href="{{url('/equipo')}}" class="green-button w-button">Conoce al Equipo</a>
             </div>
@@ -37,7 +37,9 @@
           <div class="data-inv">
             <div class="data-inv-inner">
               <h3 class="subtitle">Sin Egos</h3>
-              <div class="text-block-5">CrossFit te pone a prueba cada día. Compite contigo, potencia tus capacidades y los resultados llegaran. En Pura Sangre fomentamos la humildad en los entrenamientos, dejando el ego afuera.</div>
+              <div class="text-block-5">CrossFit te pone a prueba cada día. Compite contigo mismo, potencia tus capacidades y los resultados llegaran.
+                En Pura Sangre fomentamos la humildad en los entrenamientos, dejando el ego afuera.
+              </div>
             </div>
           </div>
           <div class="img-inv img-sin-egos"></div>
@@ -46,14 +48,19 @@
           <div id="w-node-c50777a8f605-cf5d8cad" class="img img-companerismo"></div>
           <div id="w-node-c50777a8f606-cf5d8cad" class="data">
             <h3 class="subtitle">Compañerismo</h3>
-            <div class="text-block-5">En Pura Sangre fomentamos el compañerismo, alentándote al desafío mientras nos divertimos.</div>
+            <!-- <div class="text-block-5">En Pura Sangre fomentamos el compañerismo, alentándote al desafío mientras nos divertimos.</div> -->
+            <div class="text-block-5">
+
+            </div>
           </div>
         </div>
         <div class="item-wrapper-inv">
           <div class="data-inv">
             <div class="data-inv-inner">
               <h3 class="subtitle">Pasarlo Bien</h3>
-              <div class="text-block-5">No creemos que hacer ejercicio deba ser algo tedioso y aburrido, con el pasar del tiempo eso agota. <br><br>Distintos ejercicios, <br><br>Además cada cierto tiempo realizamos actividades extra para compartir, comer y tomar algo rico. </div>
+              <div class="text-block-5">
+                No creemos que hacer ejercicio deba ser algo tedioso y aburrido, con el pasar del tiempo eso agota y desmotiva. <br><br>Distintos ejercicios, <br><br>Además cada cierto tiempo realizamos actividades extra para compartir, comer y tomar algo rico.
+              </div>
             </div>
           </div>
           <div class="img-inv img-pasarlo-bien"></div>
@@ -112,7 +119,7 @@
       <div class="banner-promo bg-section">
         <div class="banner-promo-inner">
           <h1 class="heading-2 white-cta-title">3 Clases de prueba<br>GRATIS</h1>
-          <div class="text-block-2">Si quieres transformar tu vida, Pura Sangre CrossFit es para tí, No importa en que condición fisica te encuentres, unete ahora y no te daras cuenta como los resultados llegan por si solos.</div>
+          <div class="text-block-2"><strong>Si quieres transformar tu vida, Pura Sangre CrossFit es para ti.</strong><br> No importa en que condición fisica te encuentres, unete ahora y no te daras cuenta como los resultados llegan por si solos.</div>
           <div class="cta-buttons">
             <a href="{{url('/prueba')}}" class="green-button mg-button w-button">Conoce como funciona</a>
             <a href="https://api.whatsapp.com/send?phone=+56940207699&amp;text=Hola,%20quiero%20contratar%20las%20clases%20gratis" target="_blank" class="green-button mg-button w-button" id="boton-whatsapp-cta">
