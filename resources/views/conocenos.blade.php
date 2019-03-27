@@ -31,6 +31,7 @@
         <div class="title-section-wrapper mg-top pd-1">
           <div class="title-section-wrapper-inner">
             <h1 class="heading title-section clipped">LA<br>COMUNIDAD</h1>
+            <p class="text-line-1">"Si quieres llegar pronto, viaja solo, si quieres llegar lejos, viaja acompañado"</p>
           </div>
         </div>
         <div class="item-wrapper-inv">
