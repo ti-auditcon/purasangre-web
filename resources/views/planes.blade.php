@@ -1,10 +1,10 @@
 @extends('layouts.app')
 @section('page-title')
-  <title>Planes - Pura Sangre CrossFit</title>
-  <meta content="Nuestros planes de CrossFit se adecuan a cada persona, con horarios flexibles y variados. El CrossFit es para ti." name="description">
-  <meta content="Planes - Pura Sangre CrossFit" property="og:title">
-  <meta content="Nuestros planes de CrossFit se adecuan a cada persona, con horarios flexibles y variados. El CrossFit es para ti." property="og:description">
-  <meta content="summary" name="twitter:card">
+<title>Planes - Pura Sangre CrossFit</title>
+<meta content="Nuestros planes de CrossFit se adecuan a cada persona, con horarios flexibles y variados. El CrossFit es para ti." name="description">
+<meta content="Planes - Pura Sangre CrossFit" property="og:title">
+<meta content="Nuestros planes de CrossFit se adecuan a cada persona, con horarios flexibles y variados. El CrossFit es para ti." property="og:description">
+<meta content="summary" name="twitter:card">
 @endsection
 
 @section('content')

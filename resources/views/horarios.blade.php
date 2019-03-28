@@ -3,11 +3,11 @@
 @section('html-data') data-wf-page="5c8138f2f2a0f7105b381181" data-wf-site="5c794f25eb8c47a447aeb524" @endsection
 
 @section('page-title')
-  <title>Horarios - Pura Sangre CrossFit</title>
-  <meta content="Revisa nuestros horarios y las diferentes clases que encontrarás en ellos. El CrossFit es para ti." name="description">
-  <meta content="Horarios - Pura Sangre CrossFit" property="og:title">
-  <meta content="Revisa nuestros horarios y las diferentes clases que encontrarás en ellos. El CrossFit es para ti." property="og:description">
-  <meta content="summary" name="twitter:card">
+<title>Horarios - Pura Sangre CrossFit</title>
+<meta content="Revisa nuestros horarios y las diferentes clases que encontrarás en ellos. El CrossFit es para ti." name="description">
+<meta content="Horarios - Pura Sangre CrossFit" property="og:title">
+<meta content="Revisa nuestros horarios y las diferentes clases que encontrarás en ellos. El CrossFit es para ti." property="og:description">
+<meta content="summary" name="twitter:card">
 @endsection
 
 @section('content')

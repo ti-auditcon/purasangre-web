@@ -1,10 +1,10 @@
 @extends('layouts.app')
 @section('page-title')
-  <title>Clases de Prueba - Pura Sangre CrossFit</title>
-  <meta content="¿Cómo es una clase de CrossFit? ¿Qué es una clase de prueba? averígualo y ven a entrenar con nosotros. El CrossFit es para ti." name="description">
-  <meta content="Clases de Prueba - Pura Sangre CrossFit" property="og:title">
-  <meta content="¿Cómo es una clase de CrossFit? ¿Qué es una clase de prueba? averígualo y ven a entrenar con nosotros. El CrossFit es para ti." property="og:description">
-  <meta content="summary" name="twitter:card">
+<title>Clases de Prueba - Pura Sangre CrossFit</title>
+<meta content="¿Cómo es una clase de CrossFit? ¿Qué es una clase de prueba? averígualo y ven a entrenar con nosotros. El CrossFit es para ti." name="description">
+<meta content="Clases de Prueba - Pura Sangre CrossFit" property="og:title">
+<meta content="¿Cómo es una clase de CrossFit? ¿Qué es una clase de prueba? averígualo y ven a entrenar con nosotros. El CrossFit es para ti." property="og:description">
+<meta content="summary" name="twitter:card">
 @endsection
 
 @section('content')
@@ -37,7 +37,10 @@
         <div class="data-inv">
           <div class="data-inv-inner">
             <h3 class="subtitle">Warmup</h3>
-            <div class="text-block-5">Calentamiento. Su principal objetivo es la de preparar al cuerpo para rendir durante el esfuerzo al que va a ser sometido de la manera más eficiente y segura posible.</div>
+            <div class="text-block-5">
+              Calentamiento. Su principal objetivo es la de preparar al cuerpo para rendir durante
+              el esfuerzo al que va a ser sometido de la manera más eficiente y segura posible.
+            </div>
           </div>
         </div>
         <div class="img-inv img-warmup"></div>
@@ -46,14 +49,20 @@
         <div id="w-node-250d504b0522-0af2eacb" class="img img-skills"></div>
         <div id="w-node-250d504b0523-0af2eacb" class="data">
           <h3 class="subtitle">Skills</h3>
-          <div class="text-block-5">Habilidades, cuando aprendemos, trabajamos y mejoramos las técnicas de ejecución de los diferentes ejercicios.</div>
+          <div class="text-block-5">
+            Habilidades, cuando aprendemos, trabajamos y mejoramos las técnicas de
+            ejecución de los diferentes ejercicios.
+          </div>
         </div>
       </div>
       <div class="item-wrapper-inv">
         <div class="data-inv">
           <div class="data-inv-inner">
             <h3 class="subtitle">Workout</h3>
-            <div class="text-block-5">Es el acrónimo en inglés de "entrenamiento del día" y como su nombre lo indica, es el entrenamiento que cambia día a día.</div>
+            <div class="text-block-5">
+              Es el acrónimo en inglés de "entrenamiento del día" y como su nombre lo indica,
+              es el entrenamiento que cambia día a día.
+            </div>
           </div>
         </div>
         <div class="img-inv img-workout"></div>

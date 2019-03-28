@@ -1,10 +1,10 @@
   @extends('layouts.app')
   @section('page-title')
-    <title>Nuestro Equipo - Pura Sangre CrossFit</title>
-    <meta content="Somos un grupo de profesionales especializados, apasionados por el deporte y la vida sana, motivados por enseñar y entregar bienestar a nuestros alumnos. Nuestro compromiso con ayudarte a lograr tus metas es lo que nos separa de otros gimnasios." name="description">
-    <meta content="Nuestro Equipo - Pura Sangre CrossFit" property="og:title">
-    <meta content="Somos un grupo de profesionales especializados, apasionados por el deporte y la vida sana, motivados por enseñar y entregar bienestar a nuestros alumnos. Nuestro compromiso con ayudarte a lograr tus metas es lo que nos separa de otros gimnasios." property="og:description">
-    <meta content="summary" name="twitter:card">
+  <title>Nuestro Equipo - Pura Sangre CrossFit</title>
+  <meta content="Somos un grupo de profesionales especializados, apasionados por el deporte y la vida sana, motivados por enseñar y entregar bienestar a nuestros alumnos. Nuestro compromiso con ayudarte a lograr tus metas es lo que nos separa de otros gimnasios." name="description">
+  <meta content="Nuestro Equipo - Pura Sangre CrossFit" property="og:title">
+  <meta content="Somos un grupo de profesionales especializados, apasionados por el deporte y la vida sana, motivados por enseñar y entregar bienestar a nuestros alumnos. Nuestro compromiso con ayudarte a lograr tus metas es lo que nos separa de otros gimnasios." property="og:description">
+  <meta content="summary" name="twitter:card">
   @endsection
 
   @section('content')

@@ -368,6 +368,9 @@
     font-size: 54px;
     line-height: 64px;
   }
+  .heading.title-section.mg-bottom {
+    margin-bottom: 0px;
+  }
 }
 
 @media (max-width: 991px){

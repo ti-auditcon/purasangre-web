@@ -1,10 +1,10 @@
 @extends('layouts.app')
 @section('page-title')
-  <title>Pura Sangre CrossFit</title>
-  <meta content="Si quieres transformar tu vida, Pura Sangre CrossFit es para ti. No importa en que condición física te encuentres, únete a nuestra familia y no te darás cuenta como los resultados llegan por si solos." name="description">
-  <meta content="Pura Sangre CrossFit" property="og:title">
-  <meta content="Si quieres transformar tu vida, Pura Sangre CrossFit es para ti. No importa en que condición física te encuentres, únete a nuestra familia y no te darás cuenta como los resultados llegan por si solos." property="og:description">
-  <meta content="summary" name="twitter:card">
+<title>Pura Sangre CrossFit</title>
+<meta content="Si quieres transformar tu vida, Pura Sangre CrossFit es para ti. No importa en que condición física te encuentres, únete a nuestra familia y no te darás cuenta como los resultados llegan por si solos." name="description">
+<meta content="Pura Sangre CrossFit" property="og:title">
+<meta content="Si quieres transformar tu vida, Pura Sangre CrossFit es para ti. No importa en que condición física te encuentres, únete a nuestra familia y no te darás cuenta como los resultados llegan por si solos." property="og:description">
+<meta content="summary" name="twitter:card">
 @endsection
 
 @section('content')

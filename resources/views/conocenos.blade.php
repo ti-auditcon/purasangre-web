@@ -1,10 +1,10 @@
 @extends('layouts.app')
 @section('page-title')
-  <title>Conócenos - Pura Sangre CrossFit</title>
-  <meta content="Entrena en instalaciones ideadas para el CrossFit, únicas a nivel nacional con un equipo de Profesionales Certificados y motivados por lo que hacen." name="description">
-  <meta content="Conócenos - Pura Sangre CrossFit" property="og:title">
-  <meta content="Entrena en instalaciones ideadas para el CrossFit, únicas a nivel nacional con un equipo de Profesionales Certificados y motivados por lo que hacen." property="og:description">
-  <meta content="summary" name="twitter:card">
+<title>Conócenos - Pura Sangre CrossFit</title>
+<meta content="Entrena en instalaciones ideadas para el CrossFit, únicas a nivel nacional con un equipo de Profesionales Certificados y motivados por lo que hacen." name="description">
+<meta content="Conócenos - Pura Sangre CrossFit" property="og:title">
+<meta content="Entrena en instalaciones ideadas para el CrossFit, únicas a nivel nacional con un equipo de Profesionales Certificados y motivados por lo que hacen." property="og:description">
+<meta content="summary" name="twitter:card">
 @endsection
 
 @section('content')
