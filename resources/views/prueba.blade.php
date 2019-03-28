@@ -28,7 +28,7 @@
           <div class="text-block-5">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vulputate, mi nec efficitur vulputate, augue leo molestie urna, quis aliquet leo magna eu nulla. Cras suscipit a quam quis mollis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. <br>Lorem ipsum dolor sit amet, consectetur adipiscing elit.<br><br> Cras suscipit a quam quis mollis. Pellentesque habitant morbi tristique senectus et netus et malesuada.</div>
         </div>
       </div>
-      <div class="title-section-wrapper">
+      <div class="title-section-wrapper pd-1">
         <div class="title-section-wrapper-inner mg-top-special">
           <h1 class="heading title-section clipped">ASÍ ES UNA <br>CLASE EN EL BOX</h1>
         </div>
@@ -37,7 +37,7 @@
         <div class="data-inv">
           <div class="data-inv-inner">
             <h3 class="subtitle">Warmup</h3>
-            <div class="text-block-5">Calentamiento</div>
+            <div class="text-block-5">Calentamiento. Su principal objetivo es la de preparar al cuerpo para rendir durante el esfuerzo al que va a ser sometido de la manera más eficiente y segura posible.</div>
           </div>
         </div>
         <div class="img-inv img-warmup"></div>
@@ -46,14 +46,14 @@
         <div id="w-node-250d504b0522-0af2eacb" class="img img-skills"></div>
         <div id="w-node-250d504b0523-0af2eacb" class="data">
           <h3 class="subtitle">Skills</h3>
-          <div class="text-block-5">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vulputate, mi nec efficitur vulputate, augue leo molestie urna, quis aliquet leo magna eu nulla. Cras suscipit a quam quis mollis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. <br>Lorem ipsum dolor sit amet, consectetur adipiscing elit.<br><br> Cras suscipit a quam quis mollis. Pellentesque habitant morbi tristique senectus et netus et malesuada.</div>
+          <div class="text-block-5">Habilidades, cuando aprendemos, trabajamos y mejoramos las técnicas de ejecución de los diferentes ejercicios.</div>
         </div>
       </div>
       <div class="item-wrapper-inv">
         <div class="data-inv">
           <div class="data-inv-inner">
             <h3 class="subtitle">Workout</h3>
-            <div class="text-block-5">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vulputate, mi nec efficitur vulputate, augue leo molestie urna, quis aliquet leo magna eu nulla. Cras suscipit a quam quis mollis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. <br>Lorem ipsum dolor sit amet, consectetur adipiscing elit.<br><br> Cras suscipit a quam quis mollis. Pellentesque habitant morbi tristique senectus et netus et malesuada.</div>
+            <div class="text-block-5">Es el acrónimo en inglés de "entrenamiento del día" y como su nombre lo indica, es el entrenamiento que cambia día a día.</div>
           </div>
         </div>
         <div class="img-inv img-workout"></div>

@@ -13,7 +13,7 @@
   <div class="heading-page heading-contacto">
     <div class="heading-page-inner">
       <h2 class="heading-title">Contacto</h2>
-      <div class="heading-desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vulputate, mi nec efficitur vulputate, augue leo molestie urna, quis aliquet leo magna eu nulla. Cras suscipit a quam quis mollis.</div>
+      <div class="heading-desc">Aquí encontrarás nuestra información y medios de contacto.</div>
     </div>
   </div>
   <div class="air-grid">
@@ -25,7 +25,7 @@
     <div class="form-content">
       <div class="form-content-inner">
         <div class="form-data">
-          <div class="form-data-text">Cras suscipit a quam quis mollis. Pellentesque habitant morbi tristique senectus et netus et malesuada.</div>
+          <div class="form-data-text">En Pura Sangre CrossFit nos interesa saber de ti. ¿Tienes alguna duda o consulta? Escríbenos y te responderemos a la brevedad.</div>
           <div class="form-data-text">
             <strong>Pura Sangre CrossFit</strong><br>
             <a href="https://goo.gl/maps/6fcspf8UE7P2" class="link-5">Camino a Zapallar con ruta 5 sur</a><br>

@@ -12,11 +12,12 @@
     <div class="heading-page">
       <div class="heading-page-inner">
         <h2 class="heading-title">Nuestro Equipo</h2>
-        <div class="heading-desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vulputate, mi nec efficitur vulputate, augue leo molestie urna, quis aliquet leo magna eu nulla. Cras suscipit a quam quis mollis.</div>
+        <div class="heading-desc">Profesionales con trayectoria reconocida, referentes en Chile, únicos en la región.</div>
       </div>
     </div>
     <div class="team-cards">
       <div class="team-cards-inner">
+
         <div class="team-card">
           <div id="w-node-18e63dd87af7-65cc393a" class="card-img card-coto"></div>
           <div id="w-node-200fdd9ca065-65cc393a" class="card-data">
@@ -28,6 +29,7 @@
             </div>
           </div>
         </div>
+
         <div class="team-card">
           <div id="w-node-02b4b975399e-65cc393a" class="card-img card-mike"></div>
           <div id="w-node-02b4b975399f-65cc393a" class="card-data">
@@ -39,6 +41,28 @@
             </div>
           </div>
         </div>
+
+        <div class="team-card">
+          <div id="w-node-02b4b975399e-65cc393a" class="card-img card-mike"></div>
+          <div id="w-node-02b4b975399f-65cc393a" class="card-data">
+            <h2 class="card-team-title clipped">Joaquín Muñoz</h2>
+            <h5 class="card-team-cargo">Coach</h5>
+            <div class="info-data">
+              <div id="w-node-02b4b97539a5-65cc393a" class="card-team-text">tehto</div>
+              <div id="w-node-02b4b97539ac-65cc393a" class="card-team-text">
+                <strong>Certificaciones</strong><br>
+                - Coach CrossFit Level 1<br>
+                - Coach CrossFit Mobility<br>
+                - Coach CrossFit Gymnastic<br>
+                - Coach CrossFit Weightlifting<br>
+                - Coach CrossFit Aerobic Capacity<br>
+                - Ex coach Dyplon CrossFit<br>
+                - Ex coach Forza CrossFit<br>
+              </div>
+            </div>
+          </div>
+        </div>
+
         <div class="team-card">
           <div id="w-node-024e7e3bec96-65cc393a" class="card-img card-vania"></div>
           <div id="w-node-024e7e3bec97-65cc393a" class="card-data">
@@ -50,6 +74,31 @@
             </div>
           </div>
         </div>
+
+        <div class="team-card">
+          <div id="w-node-024e7e3bec96-65cc393a" class="card-img card-vania"></div>
+          <div id="w-node-024e7e3bec97-65cc393a" class="card-data">
+            <h2 class="card-team-title clipped">Daniela</h2>
+            <h5 class="card-team-cargo">Recepcionista</h5>
+            <div class="info-data">
+              <div id="w-node-024e7e3bec9d-65cc393a" class="card-team-text">tehto</div>
+              <div id="w-node-024e7e3beca4-65cc393a" class="card-team-text">tehto</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="team-card">
+          <div id="w-node-024e7e3bec96-65cc393a" class="card-img card-vania"></div>
+          <div id="w-node-024e7e3bec97-65cc393a" class="card-data">
+            <h2 class="card-team-title clipped">Don Hernán</h2>
+            <h5 class="card-team-cargo">...</h5>
+            <div class="info-data">
+              <div id="w-node-024e7e3bec9d-65cc393a" class="card-team-text">tehto.</div>
+              <div id="w-node-024e7e3beca4-65cc393a" class="card-team-text">tehto</div>
+            </div>
+          </div>
+        </div>
+
       </div>
     </div>
     <div class="banner-promo bg-section">

@@ -15,7 +15,7 @@
   <div class="heading-page heading-horarios">
     <div class="heading-page-inner">
       <h2 class="heading-title">Nuestros Horarios</h2>
-      <div class="heading-desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vulputate, mi nec efficitur vulputate, augue leo molestie urna, quis aliquet leo magna eu nulla. Cras suscipit a quam quis mollis.</div>
+      <div class="heading-desc">Conoce nuestros horarios disponibles en las distintas clases que tenemos para ti.</div>
     </div>
   </div>
   <div class="horarios-wrapper">

@@ -31,7 +31,7 @@
         <div class="title-section-wrapper mg-top pd-1">
           <div class="title-section-wrapper-inner">
             <h1 class="heading title-section clipped">LA<br>COMUNIDAD</h1>
-            <p class="text-line-1">"Si quieres llegar pronto, viaja solo, si quieres llegar lejos, viaja acompañado"</p>
+            <p class="text-line-1"> <strong>"Si quieres llegar pronto, viaja solo, si quieres llegar lejos, viaja acompañado"</strong> </p>
           </div>
         </div>
         <div class="item-wrapper-inv">
@@ -51,7 +51,11 @@
             <h3 class="subtitle">Compañerismo</h3>
             <!-- <div class="text-block-5">En Pura Sangre fomentamos el compañerismo, alentándote al desafío mientras nos divertimos.</div> -->
             <div class="text-block-5">
-
+              El ambiente que se respira a diario en nuestro Box es de rigurosidad técnica y de máximo esfuerzo, pero también de compañerismo, de espíritu de superación, de diversión y de retos conseguidos y compartidos.<br>
+              <br>
+              Pertenecer a esta comunidad implica que contarás con compañeros que te apoyan, te animan y te dan aliento. En el momento en que te integras a Pura Sangre, pasas a ser parte de una gran familia que te ayudará a superar metas que creías imposibles.<br>
+              <br>
+              No importa de donde vengas o en qué trabajes, acá serás uno más de los nuestros.
             </div>
           </div>
         </div>
@@ -60,7 +64,12 @@
             <div class="data-inv-inner">
               <h3 class="subtitle">Pasarlo Bien</h3>
               <div class="text-block-5">
-                No creemos que hacer ejercicio deba ser algo tedioso y aburrido, con el pasar del tiempo eso agota y desmotiva. <br><br>Distintos ejercicios, <br><br>Además cada cierto tiempo realizamos actividades extra para compartir, comer y tomar algo rico.
+                No creemos que hacer ejercicio deba ser algo tedioso y aburrido, con el pasar del tiempo eso agota y desmotiva.
+                Acá en Pura Sangre somos diferentes a otros gimnasios, cada día es distinto, sin rutinas, con momentos para compartir
+                sin perder nuestros objetivos. <br>
+                <br>
+                Además, celebramos acontecimientos importantes para pasarlo bien, competir o simplemente comer y tomar algo rico como,
+                cumpleaños, fiestas patrias, aniversario, halloween, entre otras, que harán de Pura Sangre una gran experiencia para ti.
               </div>
             </div>
           </div>
@@ -111,7 +120,11 @@
           <div class="data-inv">
             <h1 class="heading title-section clipped special-margin">SOMOS<br>PARTNERS</h1>
             <div class="data-inv-inner">
-              <div class="text-block-5">Lorem ipsum dolor sit amet, consectetur adipiscing elit.<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vulputate, mi nec efficitur vulputate, augue leo molestie urna, quis aliquet leo magna eu nulla. Cras suscipit a quam quis mollis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. </div>
+              <div class="text-block-5">
+                Contamos con el apoyo de grandes marcas y equipos especializados, que en sus distintas áreas nos ayudan a dar un mejor servicio a nuestra comunidad.<br>
+                <br>
+                Además nuestros alumnos cuentan con <strong>beneficios exclusivos</strong> que les permitirán acceder a servicios integrales y de entretención.
+              </div>
             </div>
           </div>
           <div class="img-inv img-partners"></div>

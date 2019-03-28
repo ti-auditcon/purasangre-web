@@ -12,7 +12,7 @@
     <div class="heading-page heading-planes">
       <div class="heading-page-inner">
         <h2 class="heading-title">Nuestros Planes</h2>
-        <div class="heading-desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vulputate, mi nec efficitur vulputate, augue leo molestie urna, quis aliquet leo magna eu nulla. Cras suscipit a quam quis mollis.</div>
+        <div class="heading-desc">Tenemos el plan perfecto para ti, según tu presupuesto, objetivos y necesidades.</div>
       </div>
     </div>
     <div class="page-planes-wrapper">
@@ -27,7 +27,7 @@
               <div class="featured-promo">
                 <div class="text-block-10">Mejor<br>Opción</div><img src="images/best.svg" alt="" class="image-9"></div>
             </div>
-            <div class="plan-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vulputate, mi nec efficitur vulputate, augue leo molestie urna, quis aliquet leo magna eu nulla.</div>
+            <div class="plan-text">Atrévete a cambiar tu vida con un plan diseñado para quienes buscan los mejores resultados. Puedes reservar una clase al día, en cualquier horario, todos los días de la semana. Sin dudas, el plan más conveniente.</div>
             <div class="content content-page">
               <div class="horario">
                 <div class="content-hd">Lunes a Viernes</div>
@@ -53,7 +53,7 @@
               </div>
               <div class="featured"></div>
             </div>
-            <div class="plan-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vulputate, mi nec efficitur vulputate, augue leo molestie urna, quis aliquet leo magna eu nulla.</div>
+            <div class="plan-text">Un plan especial para quienes no pueden asistir todos los días. Permite compatibilizar tu familia, trabajo y el entrenamiento en el box.</div>
             <div class="content content-page">
               <div class="horario">
                 <div class="content-hd">Lunes a Viernes</div>
@@ -102,11 +102,13 @@
                   <h5 class="title-card-type">Mensual</h5>
                 </div>
               </div>
-              <div class="plan-text">Ven a desestrezarte de la rutina del estudio en el box a un precio especial para estudiantes. Puedes reservar una hora cada día en los horarios indicados.</div>
+              <div class="plan-text">
+                Potencia tus estudios de la mejor forma, un cuerpo sano es una mente sana, rinde al 100%. Puedes reservar todos los días en los horarios indicados.
+              </div>
               <div class="content content-page">
                 <div class="horario">
                   <div class="content-hd">Lunes a Viernes</div>
-                  <h4 class="content-content">07:00 - 12:00 hrs<br>17:00 - 18:00 hrs</h4>
+                  <h4 class="content-content">07:00 a 12:00 hrs o<br>17:00 a 18:00 hrs</h4>
                 </div>
                 <div class="valor">
                   <div class="content-hd">Valor</div>
