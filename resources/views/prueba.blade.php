@@ -25,7 +25,17 @@
         <div id="w-node-f51ca6b543ff-0af2eacb" class="img img-clases-gratis"></div>
         <div id="w-node-f51ca6b54400-0af2eacb" class="data">
           <h3 class="subtitle">¿De qué se tratan?</h3>
-          <div class="text-block-5">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vulputate, mi nec efficitur vulputate, augue leo molestie urna, quis aliquet leo magna eu nulla. Cras suscipit a quam quis mollis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. <br>Lorem ipsum dolor sit amet, consectetur adipiscing elit.<br><br> Cras suscipit a quam quis mollis. Pellentesque habitant morbi tristique senectus et netus et malesuada.</div>
+          <div class="text-block-5">
+            Para que experimentes el CrossFit y tomes la desición de cambiar tu vida,
+            te regalamos 3 Clases Gratis, estas pueden ser tomadas durante una semana en cualquier horario a convenir. <br>
+            <br>
+            Las clases serán asistidas y guiadas por nuestros Coach para introducirte en cada movimiento a trabajar.
+            Solo debes comunicarte por cualquiera de nuestros canales solicitando tus 3 Clases Gratis. <br>No esperes más!
+          </div>
+          <a href="https://api.whatsapp.com/send?phone=+56940207699&amp;text=Hola,%20quiero%20contratar%20las%20clases%20gratis" target="_blank" class="green-button w-button">
+            <img class="img-whatsapp" src="../images/whatsapp_icon.svg">
+            Solicita via WhatsApp
+          </a>
         </div>
       </div>
       <div class="title-section-wrapper pd-1">
