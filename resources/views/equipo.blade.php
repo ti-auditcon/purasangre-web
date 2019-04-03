@@ -9,7 +9,7 @@
 
   @section('content')
 
-    <div class="heading-page">
+    <div class="heading-page heading-equipo">
       <div class="heading-page-inner">
         <h2 class="heading-title">Nuestro Equipo</h2>
         <div class="heading-desc">Profesionales con trayectoria reconocida, referentes en Chile, únicos en la región.</div>
@@ -43,7 +43,7 @@
         </div>
 
         <div class="team-card">
-          <div id="w-node-02b4b975399e-65cc393a" class="card-img card-mike"></div>
+          <div id="w-node-02b4b975399e-65cc393a" class="card-img card-joaquin"></div>
           <div id="w-node-02b4b975399f-65cc393a" class="card-data">
             <h2 class="card-team-title clipped">Joaquín Muñoz</h2>
             <h5 class="card-team-cargo">Coach</h5>
@@ -76,7 +76,7 @@
         </div>
 
         <div class="team-card">
-          <div id="w-node-024e7e3bec96-65cc393a" class="card-img card-vania"></div>
+          <div id="w-node-024e7e3bec96-65cc393a" class="card-img card-daniela"></div>
           <div id="w-node-024e7e3bec97-65cc393a" class="card-data">
             <h2 class="card-team-title clipped">Daniela</h2>
             <h5 class="card-team-cargo">Recepcionista</h5>
@@ -88,7 +88,7 @@
         </div>
 
         <div class="team-card">
-          <div id="w-node-024e7e3bec96-65cc393a" class="card-img card-vania"></div>
+          <div id="w-node-024e7e3bec96-65cc393a" class="card-img card-hernan"></div>
           <div id="w-node-024e7e3bec97-65cc393a" class="card-data">
             <h2 class="card-team-title clipped">Don Hernán</h2>
             <h5 class="card-team-cargo">...</h5>
