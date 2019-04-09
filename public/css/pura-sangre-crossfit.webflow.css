@@ -560,9 +560,9 @@
 }
 
 .img.img-clases-gratis {
-  background-image: url('../images/example-bg.png');
+  background-image: url('../images/img-gratis-tratan.jpg');
   background-position: 0px 0px;
-  background-size: 125px;
+  background-size: cover;
 }
 
 .img.img-skills {
@@ -1035,13 +1035,11 @@
 
 .heading-page {
   width: 100%;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .75)), to(rgba(0, 0, 0, .75)));
   background-image: linear-gradient(180deg, rgba(0, 0, 0, .75), rgba(0, 0, 0, .75));
   text-align: center;
 }
 
 .heading-page.heading-clase-prueba {
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .75)), to(rgba(0, 0, 0, .75))), url('../images/prueba-test.jpg');
   background-image: linear-gradient(180deg, rgba(0, 0, 0, .75), rgba(0, 0, 0, .75)), url('../images/prueba-test.jpg');
   background-position: 0px 0px, 50% 0%;
   background-repeat: no-repeat;
@@ -1056,38 +1054,34 @@
 }
 
 .heading-page.heading-conocenos {
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .75)), to(rgba(0, 0, 0, .75))), url('../images/heading-conocenos.jpg');
   background-image: linear-gradient(180deg, rgba(0, 0, 0, .75), rgba(0, 0, 0, .75)), url('../images/heading-conocenos.jpg');
   background-position: 0px 0px, 50% 0%;
   background-size: auto, cover;
 }
 
 .heading-page.heading-planes {
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .75)), to(rgba(0, 0, 0, .75))), url('../images/heading-planes.jpg');
   background-image: linear-gradient(180deg, rgba(0, 0, 0, .75), rgba(0, 0, 0, .75)), url('../images/heading-planes.jpg');
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
 }
 
 .heading-page.heading-horarios {
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .75)), to(rgba(0, 0, 0, .75))), url('../images/heading-horarios.jpg');
   background-image: linear-gradient(180deg, rgba(0, 0, 0, .75), rgba(0, 0, 0, .75)), url('../images/heading-horarios.jpg');
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
 }
 
 .heading-page.heading-crossfit {
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .75)), to(rgba(0, 0, 0, .75))), url('../images/heading-crossfit-2-compressor.jpg');
   background-image: linear-gradient(180deg, rgba(0, 0, 0, .75), rgba(0, 0, 0, .75)), url('../images/heading-crossfit-2-compressor.jpg');
   background-position: 0px 0px, 50% 30%;
   background-size: auto, cover;
 }
 
 .heading-page.heading-contacto {
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .75)), to(rgba(0, 0, 0, .75))), url('../images/heading-contacto.jpg');
   background-image: linear-gradient(180deg, rgba(0, 0, 0, .75), rgba(0, 0, 0, .75)), url('../images/heading-contacto.jpg');
-  background-position: 0px 0px, 50% 100%;
-  background-size: auto, cover;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 .heading-page-inner {
@@ -1499,15 +1493,13 @@
 
 .plan-card-img {
   width: 45%;
-  background-image: url('../images/img-plan-12s.jpg'), -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .5)), to(rgba(0, 0, 0, .5)));
   background-image: url('../images/img-plan-12s.jpg'), linear-gradient(180deg, rgba(0, 0, 0, .5), rgba(0, 0, 0, .5));
   background-position: 50% 50%, 0px 0px;
   background-size: cover, auto;
 }
 
 .plan-card-img.plan-img-fullfit {
-  background-image: url('../images/img-plan-full.jpg'), -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .5)), to(rgba(0, 0, 0, .5)));
-  background-image: url('../images/img-plan-full.jpg'), linear-gradient(180deg, rgba(0, 0, 0, .5), rgba(0, 0, 0, .5));
+  background-image: url('../images/19.jpg'), linear-gradient(180deg, rgba(0, 0, 0, .5), rgba(0, 0, 0, .5));
   background-position: 50% 50%, 0px 0px;
   background-size: cover, auto;
 }
@@ -1543,25 +1535,21 @@
   border-width: 1px;
   border-color: #d6d6d6;
   border-radius: 4px;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(#f7f7f7), to(#f7f7f7));
   background-image: linear-gradient(180deg, #f7f7f7, #f7f7f7);
 }
 
 .mini-img {
   height: 380px;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .5)), to(rgba(0, 0, 0, .5)));
   background-image: linear-gradient(180deg, rgba(0, 0, 0, .5), rgba(0, 0, 0, .5));
 }
 
 .mini-img.img-plan-am {
-  background-image: url('../images/19.jpg'), -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .5)), to(rgba(0, 0, 0, .5)));
   background-image: url('../images/19.jpg'), linear-gradient(180deg, rgba(0, 0, 0, .5), rgba(0, 0, 0, .5));
   background-position: 50% 50%, 0px 0px;
   background-size: cover, auto;
 }
 
 .mini-img.img-plan-estudiantes {
-  background-image: url('../images/img-estudiantes.jpg'), -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .5)), to(rgba(0, 0, 0, .5)));
   background-image: url('../images/img-estudiantes.jpg'), linear-gradient(180deg, rgba(0, 0, 0, .5), rgba(0, 0, 0, .5));
   background-position: 50% 50%, 0px 0px;
   background-size: cover, auto;
@@ -2150,7 +2138,7 @@
 }
 
 .menu-item.trigger-dropdown {
-  padding-bottom: 0px;
+  padding-bottom: 20px;
 }
 
 .item-text {
@@ -2847,6 +2835,9 @@
     -webkit-align-items: center;
     -ms-flex-align: center;
     align-items: center;
+  }
+  .menu-item.trigger-dropdown {
+    padding-bottom: 0;
   }
   .cta-big.cta-crossfit {
     background-image: linear-gradient(180deg, rgba(0, 0, 0, .7), rgba(0, 0, 0, .7)), url('../images/heading-conocenos.jpg');
