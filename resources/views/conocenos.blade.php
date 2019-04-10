@@ -96,7 +96,7 @@
               <div class="slide-item-gallery slide-16 w-slide"></div>
               <div class="slide-item-gallery slide-17 w-slide"></div>
               <div class="slide-item-gallery slide-18 w-slide"></div>
-              <div class="slide-item-gallery slide-19 w-slide"></div>
+              {{-- <div class="slide-item-gallery slide-19 w-slide"></div> --}}
               <div class="slide-item-gallery slide-20 w-slide"></div>
             </div>
             <div class="w-slider-arrow-left">
