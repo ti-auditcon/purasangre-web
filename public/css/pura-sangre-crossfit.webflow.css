@@ -353,7 +353,7 @@
   line-height: 69px;
   letter-spacing: -0.03em;
   width: 95%;
-  margin-bottom: 40px;
+  margin-bottom: 46px;
   background-image: linear-gradient(115deg, #0075c9, #00bfc9);
   background-clip: text;
   -webkit-background-clip: text;
@@ -395,7 +395,7 @@
   .heading.title-section-quote {
     margin-top: 12px;
     font-size: 33px;
-    width: 90%;
+    width: 95%;
     line-height: 42px;
     /* letter-spacing: -0.04em; */
     /* margin-bottom: 54px; */
@@ -469,7 +469,7 @@
 }
 
 .air-grid {
-  padding-top: 100px;
+  padding-top: 90px;
   padding-bottom: 83px;
 }
 
@@ -3577,7 +3577,7 @@
     grid-template-columns: 1fr;
   }
   .data {
-    margin-bottom: 58px;
+    margin-bottom: 40px;
     padding-right: 20px;
     padding-left: 20px;
   }

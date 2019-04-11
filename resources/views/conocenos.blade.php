@@ -11,8 +11,8 @@
 
   <div class="heading-page heading-conocenos">
         <div class="heading-page-inner">
-          <h2 class="heading-title">Conoce el único box certificado de la región</h2>
-          <div class="heading-desc">Entrena en instalaciones ideadas para el CrossFit, únicas a nivel nacional con un equipo de Profesionales Certificados y motivados por lo que hacen.</div>
+          <h2 class="heading-title">Conoce al único box certificado de la región</h2>
+          <div class="heading-desc">Entrena en un gimnacio con instalaciones ideadas para el CrossFit, únicas a nivel nacional con un equipo de Profesionales Certificados y motivados por lo que hacen.</div>
         </div>
       </div>
       <div class="air-grid air-grid-special">
@@ -23,7 +23,9 @@
             <div class="text-block-5">
               Somos un grupo de profesionales especializados, apasionados por el deporte y la
               <strong>vida sana</strong>, motivados por enseñar y entregar bienestar a nuestros alumnos. Nuestro compromiso con ayudarte a lograr tus metas
-              es lo que nos separa de otros gimnasios. <br><strong>Buscaremos incansablemente sacar la mejor versión de ti</strong>.
+              es lo que nos separa de otros gimnasios. <br><strong>Somos Pura Sangre y buscaremos
+                {{-- incansablemente  --}}
+                sacar la mejor versión de ti</strong>.
             </div>
               <a href="{{url('/equipo')}}" class="green-button w-button">Conoce al Equipo</a>
             </div>

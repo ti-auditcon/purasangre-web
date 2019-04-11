@@ -12,7 +12,7 @@
     <div class="heading-page heading-planes">
       <div class="heading-page-inner">
         <h2 class="heading-title">Nuestros Planes</h2>
-        <div class="heading-desc">Tenemos el plan perfecto para ti, según tu presupuesto, objetivos y necesidades.</div>
+        <div class="heading-desc">En Pura Sangre tenemos los planes y precios perfectos para ti, según tu presupuesto, objetivos y necesidades.</div>
       </div>
     </div>
     <div class="page-planes-wrapper">

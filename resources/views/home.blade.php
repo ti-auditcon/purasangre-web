@@ -40,14 +40,21 @@
   <div class="cta-big cta-crossfit">
     <div class="cta-big-inner">
       <h1 class="title-big-cta">¿Qué es el <br>CrossFit?</h1>
-      <div class="text-block-3">CrossFit es un programa de acondicionamiento físico basado en movimientos funcionales constantemente variados y ejecutados a alta intensidad, es escalable para cualquier persona, nivel y estado de fisico.</div><a href="{{url('/crossfit')}}" class="green-button w-button">Conoce más</a></div>
+      <div class="text-block-3">
+        CrossFit es un programa de acondicionamiento físico basado en movimientos funcionales constantemente variados y ejecutados a alta intensidad,
+        es escalable para cualquier persona, nivel y estado de fisico.<br>
+        Más que un gimnasio, sin egos, solo entrenamiento funcional.
+      </div>
+      <a href="{{url('/crossfit')}}" class="green-button w-button">Conoce más</a>
+    </div>
   </div>
 
   <section class="planes">
     <div class="cards-inner">
       <div class="planes-heading">
         <h1 class="heading title-section clipped mg-bottom">PLANES A TU MEDIDA</h1>
-        <div class="text-block disclaimer-heading">Ya no existen las excusas. <br>Tenemos planes que se adaptan a tu tiempo y a tu bolsillo.</div>
+        <div class="text-block disclaimer-heading">Ya no existen las excusas. <br>Tenemos planes y precios que se adaptan a tu tiempo y a tu bolsillo.</div>
+        {{-- <div class="text-block disclaimer-heading">Ya no existen las excusas. <br>Tenemos planes que se adaptan a tu tiempo y a tu bolsillo.</div> --}}
       </div>
       <div class="cards">
         <div id="w-node-0703020e6b19-b4aeb525" class="card-promo card-promo-bg1">
@@ -177,7 +184,8 @@
 
   <div class="banner-promo bg-section">
     <div class="banner-promo-inner">
-      <h1 class="heading-2 white-cta-title">Entrena con Nosotros</h1>
+      <h6 style="color: white; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 0; font-size: 13px; font-weight: 400;">CrossFit en Curicó</h6>
+      <h1 class="heading-2 white-cta-title">Entrena con Nosotros.<br>Sé un Pura Sangre.</h1>
       <div class="text-block-2">En nuestras clases de prueba, podras experimentar un entrenamiento distinto, funcional y entretenido.</div>
       <div class="cta-buttons"><a href="{{url('/prueba')}}" class="green-button w-button">Conoce más Detalles</a></div>
     </div>

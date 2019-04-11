@@ -120,7 +120,11 @@
         <div id="w-node-bbe4449009a2-4eaaa2ee" class="img img-entrenamiento-diferente"></div>
         <div id="w-node-bbe4449009a3-4eaaa2ee" class="data">
           <h3 class="subtitle">Adaptable y Desafiante</h3>
-          <div class="text-block-5">Los entrenamientos de CrossFit se pueden adaptar para personas de cualquier edad y nivel de condición física. Los niveles de intensidad se ajustan para desafiar a la persona y mejorar el estado físico de forma segura.<br></div>
+          <div class="text-block-5">
+            Los entrenamientos de CrossFit se pueden adaptar para personas de cualquier edad
+            y nivel de condición física. Los niveles de intensidad se ajustan para desafiar a la persona y mejorar
+            el estado físico de forma segura.
+          </div>
         </div>
       </div>
       <div class="item-wrapper-inv">
@@ -129,9 +133,10 @@
             <h3 class="subtitle">Salud y estilo de vida</h3>
             <div class="text-block-5">
 
-              El estilo de vida del <strong>CrossFit</strong> es una combinación de alimentación saludable y ejercicio. Esta es la clave para combatir la obesidad, el sobrepeso y enfermedades como:
-              la diabetes, la hipertensión, cardiovasculares, entre otras, que actualmente van en aumento y que se relacionan directamente con el estilo
-              de vida actual, la mala alimentación y la baja actividad física.
+              El estilo de vida del <strong>CrossFit</strong> es una combinación de alimentación saludable y ejercicio.
+              Esta es la clave para combatir la obesidad, el sobrepeso y enfermedades como:
+              la diabetes, la hipertensión, cardiovasculares, entre otras, que actualmente van en aumento y que se relacionan
+              directamente con el estilo de vida actual, la mala alimentación y la baja actividad física.
 
             </div>
           </div>
@@ -143,8 +148,11 @@
         <div id="w-node-bbe4449009c7-4eaaa2ee" class="data">
           <h3 class="subtitle">Comunidad</h3>
           <div class="text-block-5">
-            Si existe algún gran punto diferenciador entre CrossFit y otras disciplinas de entrenamiento, es el hecho de que en la base de todo lo que hacemos, está <strong>la Comunidad</strong>.<br><br>
-            La comunidad del CrossFit esta formada por personas que se animan y se motivan entre sí en cada clase, a medida que trabajan juntos para alcanzar sus objetivos. Entrena con amigos.
+            Si existe algún gran punto diferenciador entre CrossFit y otras disciplinas de entrenamiento, es el hecho de
+            que en la base de todo lo que hacemos, está <strong>la Comunidad</strong>.
+            <br><br>
+            La comunidad de Pura Sangre esta formada por personas que se animan y se motivan entre sí en cada clase, a medida
+            que trabajan juntos para alcanzar sus objetivos. Entrena con amigos.
           </div>
           <a href="{{url('/conocenos')}}" class="green-button w-button">Conoce sobre nosotros</a>
         </div>
