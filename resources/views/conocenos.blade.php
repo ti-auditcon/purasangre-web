@@ -12,7 +12,7 @@
   <div class="heading-page heading-conocenos">
         <div class="heading-page-inner">
           <h2 class="heading-title">Conoce al único box certificado de la región</h2>
-          <div class="heading-desc">Entrena en un gimnacio con instalaciones ideadas para el CrossFit, únicas a nivel nacional con un equipo de Profesionales Certificados y motivados por lo que hacen.</div>
+          <div class="heading-desc">Entrena en un gimnasio con instalaciones ideadas para el CrossFit, únicas a nivel nacional con un equipo de Profesionales Certificados y motivados por lo que hacen.</div>
         </div>
       </div>
       <div class="air-grid air-grid-special">
