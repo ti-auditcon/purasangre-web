@@ -42,8 +42,8 @@
       <h1 class="title-big-cta">¿Qué es el <br>CrossFit?</h1>
       <div class="text-block-3">
         CrossFit es un programa de acondicionamiento físico basado en movimientos funcionales constantemente variados y ejecutados a alta intensidad,
-        es escalable para cualquier persona, nivel y estado de fisico.<br>
-        Más que un gimnasio, sin egos, solo entrenamiento funcional.
+        es adaptable para cualquier persona, nivel y estado de fisico.<br>
+        En CrossFit rompemos la rutina de un gimnasio. <br>Atrévete a conocerlo.
       </div>
       <a href="{{url('/crossfit')}}" class="green-button w-button">Conoce más</a>
     </div>

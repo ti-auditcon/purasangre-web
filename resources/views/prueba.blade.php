@@ -12,7 +12,7 @@
   <div class="heading-page heading-clase-prueba">
       <div class="heading-page-inner">
         <h2 class="heading-title">Clases de Prueba Gratis</h2>
-        <div class="heading-desc">Conoce como es una clase en el box</div>
+        <div class="heading-desc">Conoce como es una clase en Pura Sangre CrossFit Curicó</div>
       </div>
     </div>
     <div class="air-grid">
@@ -46,10 +46,10 @@
       <div class="item-wrapper-inv">
         <div class="data-inv">
           <div class="data-inv-inner">
-            <h3 class="subtitle">Warmup</h3>
+            <h3 class="subtitle">Warm Up</h3>
             <div class="text-block-5">
-              Calentamiento. Su principal objetivo es la de preparar al cuerpo para rendir durante
-              el esfuerzo al que va a ser sometido de la manera más eficiente y segura posible.
+              En español significa Calentamiento. Su principal objetivo es entregar una preparación general, suave y progresiva.
+              Alistando nuestro cuerpo para el esfuerzo al que va a ser sometido, más adelante durante la clase, de la manera más eficiente y segura posible.
             </div>
           </div>
         </div>
@@ -60,18 +60,17 @@
         <div id="w-node-250d504b0523-0af2eacb" class="data">
           <h3 class="subtitle">Skills</h3>
           <div class="text-block-5">
-            Habilidades, cuando aprendemos, trabajamos y mejoramos las técnicas de
-            ejecución de los diferentes ejercicios.
+            Es una parte fundamental de la clases, ya que se desarrollan habilidades, aprendemos teoría, trabajamos y mejoramos las técnicas de ejecución de los diferentes ejercicios.
           </div>
         </div>
       </div>
       <div class="item-wrapper-inv">
         <div class="data-inv">
           <div class="data-inv-inner">
-            <h3 class="subtitle">Workout</h3>
+            <h3 class="subtitle">W.O.D (Workout of the day)</h3>
             <div class="text-block-5">
-              Es el acrónimo en inglés de "entrenamiento del día" y como su nombre lo indica,
-              es el entrenamiento que cambia día a día.
+              En español significa "entrenamiento del día", pensado día a día para que nunca se repita, es el peack de la clase.
+              Es la parte más intensa del entrenamiento. Donde pondrás a prueba todas la habilidades trabajadas previamente, para darlo todo junto con tus compañeros.
             </div>
           </div>
         </div>
