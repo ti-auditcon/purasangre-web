@@ -109,6 +109,11 @@
   animation-fill-mode: both;
 }
 
+.fast {
+  -webkit-animation-duration: 0.5s;
+  animation-duration: 0.5s;
+}
+
 @-webkit-keyframes fadeInDown {
   from {
     opacity: 0;
@@ -139,6 +144,42 @@
   -webkit-animation-name: fadeInDown;
   animation-name: fadeInDown;
   animation-duration: 0.5s;
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    -webkit-transform: translate3d(0, 100%, 0);
+    transform: translate3d(0, 100%, 0);
+  }
+
+  to {
+    opacity: 1;
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+.fadeInUp {
+  -webkit-animation-name: fadeInUp;
+  animation-name: fadeInUp;
+}
+
+@keyframes fadeOutDown {
+  from {
+    opacity: 1;
+  }
+
+  to {
+    opacity: 0;
+    -webkit-transform: translate3d(0, 100%, 0);
+    transform: translate3d(0, 100%, 0);
+  }
+}
+
+.fadeOutDown {
+  -webkit-animation-name: fadeOutDown;
+  animation-name: fadeOutDown;
 }
 
 .banner-promo {
@@ -201,6 +242,95 @@
 .cta-big.cta-crossfit.cta-habilidades {
   background-image: linear-gradient(93deg, #000 21%, transparent 61%), url('../images/img-habilidades.jpg');
   background-size: auto, cover;
+}
+
+
+/***************
+****  Promo  ****
+****************/
+
+.promo {
+  display: none;
+  position: fixed;
+  bottom: 0;
+  /* background: black; */
+  background: linear-gradient(90deg, hsla(330.12658227848107, 97.53%, 52.35%, 1.00), hsla(291.57894736842104, 100.00%, 33.53%, 1.00));
+  /* color: white; */
+  color: white;
+  width: 100%;
+  margin: auto;
+  text-align: center;
+  transition: all ease 1s;
+}
+
+.promo .inner-promo {
+  padding: 26px 14px;
+  position: relative;
+}
+
+.promo .inner-promo .close {
+  position: absolute;
+  right: 8px;
+  top: 3px;
+  font-size: 28px;
+  font-weight: 700;
+  color: rgba(255, 255, 255, 0.6);
+  cursor: pointer;
+}
+
+.promo .inner-promo p {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  font-size: 17px;
+  letter-spacing: 0.7px;
+  line-height: 20px;
+  font-weight: 700;
+  margin-bottom: 15px;
+  /* background: linear-gradient(115deg, #0075c9, #00bfc9);
+  background-clip: text;
+  -webkit-background-clip: text;
+  text-fill-color: transparent;
+  -webkit-text-fill-color: transparent; */
+}
+
+.promo .inner-promo .button-promo {
+  /* background: linear-gradient(to right, #1E8C02 0.1%, #2CB10B 52.02%, #2AD300 101.15%); */
+  background: #2CB10B;
+  color: white;
+  text-decoration: none;
+  padding: 8px 18px;
+  border-radius: 2px;
+  display: inline-block;
+  margin: 0 4px;
+  /* margin-top: 14px; */
+}
+
+.promo .inner-promo .button-promo-no-gracias {
+  background: #1B1B1B;
+  color: white;
+  text-decoration: none;
+  padding: 8px 18px;
+  border-radius: 2px;
+  display: inline-block;
+  margin: 0 4px;
+  /* margin-top: 14px; */
+}
+
+@media (min-width: 991px) {
+  .promo .inner-promo {
+    padding: 16px 0;
+  }
+  .promo .inner-promo p {
+    display: inline-block;
+    margin-bottom: 0;
+    margin-right: 16px;
+    font-size: 16px;
+  }
+  .promo .inner-promo .button-promo,
+  .promo .inner-promo .button-promo-no-gracias {
+    padding: 8px 20px;
+  }
 }
 
 .planes {
@@ -369,7 +499,7 @@
     line-height: 64px;
   }
   .heading.title-section.mg-bottom {
-    margin-bottom: 0px;
+    margin-bottom: 16px;
   }
 }
 
@@ -2666,7 +2796,7 @@
     padding: 40px 38px;
   }
   .plan-page-cta-button {
-    padding: 8px 12px;
+    padding: 11px 12px;
     -webkit-align-self: end;
     -ms-flex-item-align: end;
     -ms-grid-row-align: end;
@@ -2801,6 +2931,9 @@
   .logo {
     width: 69px;
   }
+  .guereber {
+    margin-bottom: 20px;
+  }
   .menu {
     position: relative;
     overflow: hidden;
@@ -2847,6 +2980,9 @@
     background-image: linear-gradient(93deg, rgba(0, 0, 0, .7), rgba(0, 0, 0, .7)), url('../images/img-beneficios.jpg');
     background-size: auto, cover;
   }
+  .cta-big.cta-crossfit.cta-habilidades {
+    background-image: linear-gradient(93deg, rgba(0, 0, 0, .7), rgba(0, 0, 0, .7)), url('../images/img-habilidades.jpg');
+  }
   .planes-heading {
     -webkit-flex-wrap: wrap;
     -ms-flex-wrap: wrap;
@@ -2871,7 +3007,10 @@
   }
   .text-block.disclaimer-heading {
     width: 100%;
-    margin-top: 27px;
+    margin-top: 20px;
+  }
+  .planes-heading {
+    margin-bottom: 32px;
   }
   .cta-big-inner {
     width: 90%;
@@ -2897,7 +3036,8 @@
   }
   .item-wrapper {
     padding-top: 0px;
-    padding-bottom: 64px;
+    /* padding-bottom: 64px; */
+    padding-bottom: 18px;
     grid-row-gap: 44px;
     grid-template-areas: ".";
     -ms-grid-columns: 1fr;
@@ -3103,7 +3243,7 @@
   .item-wrapper-inv {
     height: auto;
     margin-top: auto;
-    margin-bottom: auto;
+    margin-bottom: -16px;
     padding-top: 0px;
     padding-bottom: 58px;
     -webkit-box-orient: vertical;
@@ -3262,7 +3402,7 @@
     padding-left: 34px;
   }
   .form-content {
-    margin-top: 47px;
+    margin-top: -18px;
   }
   .form-content-inner {
     padding-right: 34px;
@@ -3271,6 +3411,9 @@
     grid-template-columns: 1fr;
     -ms-grid-rows: auto auto;
     grid-template-rows: auto auto;
+  }
+  .the-form {
+    margin-bottom: 44px;
   }
   .form-data {
     margin-bottom: 18px;
@@ -3504,7 +3647,7 @@
     padding-top: 56px;
   }
   .planes-heading {
-    margin-bottom: 48px;
+    margin-bottom: 32px;
   }
   .featured {
     position: absolute;
@@ -3513,6 +3656,10 @@
     right: 14px;
     bottom: 0%;
     width: auto;
+  }
+  .banner-promo.bg-section {
+    padding-top: 78px;
+    padding-bottom: 92px;
   }
   .content.content-page {
     margin-top: 32px;
@@ -3526,6 +3673,9 @@
     width: 100%;
     margin-bottom: 8px;
   }
+  .the-form {
+    margin-bottom: 0;
+  }
   .valor {
     width: 100%;
     -webkit-align-self: flex-start;
@@ -3538,7 +3688,7 @@
     padding-left: 20px;
   }
   .heading.title-section {
-    margin-bottom: 22px;
+    margin-bottom: 18px;
     padding-top: 1px;
     font-size: 34px;
     line-height: 40px;
@@ -3577,9 +3727,13 @@
     grid-template-columns: 1fr;
   }
   .data {
-    margin-bottom: 40px;
+    margin-bottom: 18px;
+    /* margin-bottom: 18px; */
     padding-right: 20px;
     padding-left: 20px;
+  }
+  .img-entrenamiento-diferente {
+    display: none;
   }
   .footer-inner {
     padding-right: 20px;
@@ -3626,7 +3780,7 @@
   }
   .text-block-5 {
     width: 100%;
-    margin-bottom: 32px;
+    margin-bottom: 18px;
     line-height: 22px;
   }
   .image-2 {
@@ -3648,7 +3802,25 @@
     height: 100vh;
   }
   .title-section-wrapper.mg-top {
-    margin-bottom: 20px;
+    /* margin-bottom: 20px; */
+    margin-bottom: 38px;
+    margin-top: 0;
+  }
+  .text-line-1 {
+    width: 90%;
+    margin-top: 8px;
+  }
+  .form-data {
+    padding-right: 0;
+  }
+  .cta-big.cta-crossfit.cta-plan-personalizado {
+    background-image: linear-gradient(180deg, rgba(0, 0, 0, .7), rgba(0, 0, 0, .7)), url(../images/img-personalizado.jpg);;
+    background-position: 0px 0px, 50% 50%;
+    background-size: auto, cover;
+  }
+  .team-cards-inner {
+    padding-top: 40px;
+    padding-bottom: 10px;
   }
   .title-section-wrapper.first-title {
     margin-top: 0px;
@@ -3666,7 +3838,8 @@
     line-height: 34px;
   }
   .data-inv {
-    margin-bottom: 42px;
+    /* margin-bottom: 42px; */
+    margin-bottom: 52px;
     padding-right: 20px;
     padding-left: 20px;
   }
@@ -10274,6 +10447,9 @@
     /* margin-bottom: 4px; */
     margin-left: 0;
     margin-right: 0;
+    display: flex;
+    justify-content: flex-start;
+    text-align: left;
   }
   .checklist-app .checklist-item-wrapper .checklist-item {
     /* color: #333; */
@@ -10281,6 +10457,7 @@
     line-height: 28px; */
     /* margin-bottom: 0; */
     /* font-weight: 400; */
+    text-align: left;
   }
   .page-app {
   }

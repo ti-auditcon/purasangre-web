@@ -154,7 +154,7 @@
             La comunidad de Pura Sangre esta formada por personas que se animan y se motivan entre sí en cada clase, a medida
             que trabajan juntos para alcanzar sus objetivos. Entrena con amigos.
           </div>
-          <a href="{{url('/conocenos')}}" class="green-button w-button">Conoce sobre nosotros</a>
+          <a href="{{url('/conocenos')}}" class="green-button w-button guereber">Conoce sobre nosotros</a>
         </div>
       </div>
     </div>

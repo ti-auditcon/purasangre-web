@@ -1,5 +1,9 @@
 $(function(){
 
+  // var prom = true;
+  // localStorage.setItem("promo", prom);
+  // localStorage.getItem("promo");
+
   $(document).ready(function() {
 
     setTimeout(function() {
@@ -12,9 +16,26 @@ $(function(){
       var scroll = $(window).scrollTop();
       if (scroll >= 500) {
         $('header.main-header').addClass('darkHeader fadeInDown');
+
+        if (localStorage.getItem('wasVisited') !== "yes") {
+            //
+            // localStorage.setItem('wasVisited', 1);
+            $('.promo').css({
+              'display': 'block'
+            });
+            $('.promo').addClass('fadeInUp');
+        } else {
+            //
+        }
       } else {
         $('header.main-header').removeClass('darkHeader fadeInDown');
       }
+    });
+
+    $('.button-promo-no-gracias').click(function(){
+      localStorage.setItem("wasVisited", "yes");
+      $('.promo').removeClass('fadeInUp');
+      $('.promo').addClass('fadeOutDown');
     });
 
   });

@@ -69,7 +69,7 @@
           <div class="data-inv-inner">
             <h3 class="subtitle">W.O.D (Workout of the day)</h3>
             <div class="text-block-5">
-              En español significa "entrenamiento del día", pensado día a día para que nunca se repita, es el peack de la clase.
+              En español significa "entrenamiento del día", pensado día a día para que nunca se repita, es el peak de la clase.
               Es la parte más intensa del entrenamiento. Donde pondrás a prueba todas la habilidades trabajadas previamente, para darlo todo junto con tus compañeros.
             </div>
           </div>

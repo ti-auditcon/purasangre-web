@@ -175,7 +175,7 @@
         <h1 class="heading title-section clipped special-margin">NUTRICIONISTA <br>QUE POTENCIA <br>TUS OBJETIVOS</h1>
         <div id="w-node-250d504b0523-cf5d8cad" class="data-inv-inner">
           <div class="text-block-5">Con nuestra asesoría nutricional llevamos tu entrenamiento al siguiente nivel. Medimos, evaluamos y planificamos según tu estado nutricional. <br>Te ayudamos a comprender cómo funciona tu metabolismo para que puedas tomar control de tu alimentación y lograr tus objetivos a corto plazo. </div>
-          <a href="https://api.whatsapp.com/send?phone=+56940207699&amp;text=Hola,%20quiero%20reservar%20una%20hora%20con%20la%20Nutricionista" class="green-button w-button"><img class="img-whatsapp" src="../images/whatsapp_icon.svg">Reserva una hora via WhatsApp</a>
+          <a href="https://api.whatsapp.com/send?phone=+56940207699&amp;text=Hola,%20quiero%20reservar%20una%20hora%20con%20la%20Nutricionista" class="green-button w-button guereber"><img class="img-whatsapp" src="../images/whatsapp_icon.svg">Reserva una hora via WhatsApp</a>
         </div>
       </div>
       <div id="w-node-250d504b0522-cf5d8cad" class="img-inv img-nutricionista"></div>
