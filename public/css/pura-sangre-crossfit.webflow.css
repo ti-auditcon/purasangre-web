@@ -2666,7 +2666,7 @@
   .heading.title-section {
     display: inline-block;
     width: auto;
-    max-width: 90%;
+    max-width: 95%;
     margin-top: 0px;
     font-size: 50px;
     line-height: 54px;
@@ -10401,6 +10401,11 @@
   width: 14px;
   margin-right: 12px;
 }
+.checklist-app-nutri {
+  margin-top: 20px;
+  margin-bottom: 26px;
+  width: 90% !important;
+}
 
 @media (max-width: 1300px) {
   .checklist-app {
@@ -10570,6 +10575,10 @@
   .page-app {
   }
   .page-app::before {
+  }
+  .checklist-app-nutri {
+    margin-bottom: 20px;
+    width: 100%;
   }
   .page-app .app-inner {
     /* grid-template-columns: 1fr; */

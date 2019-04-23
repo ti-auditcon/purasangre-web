@@ -172,9 +172,41 @@
     </div>
     <div class="item-wrapper-inv mg-3">
       <div class="data-inv">
-        <h1 class="heading title-section clipped special-margin">NUTRICIONISTA <br>QUE POTENCIA <br>TUS OBJETIVOS</h1>
+        {{-- <h1 class="heading title-section clipped special-margin">NUTRICIONISTA <br>QUE POTENCIA <br>TUS OBJETIVOS</h1> --}}
+        <h1 class="heading title-section clipped special-margin">
+          SERVICIOS<br>
+          NUTRICIONALES
+        </h1>
         <div id="w-node-250d504b0523-cf5d8cad" class="data-inv-inner">
-          <div class="text-block-5">Con nuestra asesoría nutricional llevamos tu entrenamiento al siguiente nivel. Medimos, evaluamos y planificamos según tu estado nutricional. <br>Te ayudamos a comprender cómo funciona tu metabolismo para que puedas tomar control de tu alimentación y lograr tus objetivos a corto plazo. </div>
+          <div class="text-block-5">
+            Lleva tu entrenamiento al siguiente nivel con nuestra nutricionista que potenciará tus objetivos.<br>
+            Consulta Nutricional consiste en:
+          </div>
+          <div class="checklist checklist-app checklist checklist-app-nutri">
+            <div class="checklist-item-wrapper"><img src="images/check-icon-inv.svg" alt="" class="check-icon">
+              <div class="checklist-item">
+                Entrevista social y clinica
+              </div>
+            </div>
+            <div class="checklist-item-wrapper"><img src="images/check-icon-inv.svg" alt="" class="check-icon">
+              <div class="checklist-item">
+                Encuesta Alimentaria
+              </div>
+            </div>
+            <div class="checklist-item-wrapper"><img src="images/check-icon-inv.svg" id="w-node-5d72265f089b-4eaaa2ee" alt="" class="check-icon">
+              <div class="checklist-item">
+                Evaluacion nutricional con bioimpedanciometria (porcentaje de grasa corporal, masa muscular, grasa viceral, edad biologica).
+              </div>
+            </div>
+            <div class="checklist-item-wrapper"><img src="images/check-icon-inv.svg" id="w-node-5d72265f089f-4eaaa2ee" alt="" class="check-icon">
+              <div class="checklist-item">
+                Entrega de pauta personalizada acorde a requerimientos nutricionales y enfermedades asociadas.
+              </div>
+            </div>
+            {{-- <div class="checklist-item-wrapper"><img src="images/check-icon-inv.svg" id="w-node-d363095ca7aa-4eaaa2ee" alt="" class="check-icon">
+              <div id="w-node-d363095ca7ab-4eaaa2ee" class="checklist-item">Recibir notificaciones de reservas y noticias del box</div>
+            </div> --}}
+          </div>
 
 
           <div class="cta-big-precio-wrapper cta-big-precio-wrapper-nutri">

@@ -29,7 +29,7 @@
             Para que experimentes el CrossFit y tomes la desición de cambiar tu vida,
             te regalamos 3 Clases Gratis, estas pueden ser tomadas durante una semana en cualquier horario a convenir. <br>
             <br>
-            Las clases serán asistidas y guiadas por nuestros Coach para introducirte en cada movimiento a trabajar.
+            A diferencia de los gimnasios, las clases serán asistidas y guiadas por nuestros Coach para introducirte en cada movimiento a trabajar.
             Solo debes comunicarte por cualquiera de nuestros canales solicitando tus 3 Clases Gratis. <br>No esperes más!
           </div>
           <a href="https://api.whatsapp.com/send?phone=+56940207699&amp;text=Hola,%20quiero%20pedir%20las%20clases%20gratis" target="_blank" class="green-button w-button">

@@ -1,8 +1,8 @@
 $(function(){
 
   // var prom = true;
-  // localStorage.setItem("promo", prom);
-  // localStorage.getItem("promo");
+  // sessionStorage.setItem("promo", prom);
+  // sessionStorage.getItem("promo");
 
   $(document).ready(function() {
 
@@ -17,9 +17,9 @@ $(function(){
       if (scroll >= 500) {
         $('header.main-header').addClass('darkHeader fadeInDown');
 
-        if (localStorage.getItem('wasVisited') !== "yes") {
+        if (sessionStorage.getItem('wasVisited') !== "yes") {
             //
-            // localStorage.setItem('wasVisited', 1);
+            // sessionStorage.setItem('wasVisited', 1);
             $('.promo').css({
               'display': 'block'
             });
@@ -33,13 +33,13 @@ $(function(){
     });
 
     $('.button-promo-no-gracias').click(function(){
-      localStorage.setItem("wasVisited", "yes");
+      sessionStorage.setItem("wasVisited", "yes");
       $('.promo').removeClass('fadeInUp');
       $('.promo').addClass('fadeOutDown');
     });
 
     $('.button-promo').click(function(){
-      localStorage.setItem("wasVisited", "yes");
+      sessionStorage.setItem("wasVisited", "yes");
       $('.promo').removeClass('fadeInUp');
       $('.promo').addClass('fadeOutDown');
     });
