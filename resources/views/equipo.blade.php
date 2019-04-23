@@ -80,9 +80,9 @@
               <div id="w-node-024e7e3beca4-65cc393a" class="card-team-text">
                 <strong>Certificaciones</strong><br>
                 {{-- Especialista en actividad física, ejercicio y tratamiento de la Obesidad:<br> --}}
-                - Curso Antropometría ISAK 1<br>
-                - Curso tratamiento de la Obesidad<br>
-                - Curso de Nutrición aplicada al ejercicio físico y suplementación.<br>
+                - Antropometría ISAK 1<br>
+                - Tratamiento de la Obesidad<br>
+                - Nutrición aplicada al ejercicio físico y suplementación.<br>
                 {{-- Especialista en enfermedad renal<br> --}}
                 - Diplomada en Nutrición para la enfermedad renal<br>
                 {{-- Especialista en medicina complementaria:<br> --}}
