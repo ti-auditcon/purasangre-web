@@ -3405,6 +3405,10 @@
     width: 100%;
     margin-top: 29px;
   }
+  .cta-big-precio-wrapper-nutri {
+    /* width: 100%; */
+    margin-top: 9px;
+  }
   .cta-big-precio-contenido {
     margin-right: auto;
     margin-left: auto;
@@ -3418,6 +3422,12 @@
     -ms-flex-pack: center;
     justify-content: center;
     text-align: center;
+  }
+  .cta-big-precio-contenido-nutri {
+    -webkit-box-align: flex-start;
+    -webkit-align-items: flex-start;
+    -ms-flex-align: flex-start;
+    align-items: flex-start;
   }
   .text-block-8 {
     display: block;

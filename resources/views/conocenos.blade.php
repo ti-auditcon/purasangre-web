@@ -118,7 +118,7 @@
 
             <div class="cta-big-precio-wrapper cta-big-precio-wrapper-nutri">
               <div class="text-block-8">Valor</div>
-              <div class="cta-big-precio-contenido">
+              <div class="cta-big-precio-contenido-nutri">
                 <h4 class="heading-4">$20.000</h4>
                 <div class="text-block-9">/consulta</div>
               </div>
