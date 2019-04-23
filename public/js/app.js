@@ -38,6 +38,12 @@ $(function(){
       $('.promo').addClass('fadeOutDown');
     });
 
+    $('.button-promo').click(function(){
+      localStorage.setItem("wasVisited", "yes");
+      $('.promo').removeClass('fadeInUp');
+      $('.promo').addClass('fadeOutDown');
+    });
+
   });
 
 // Validaciones

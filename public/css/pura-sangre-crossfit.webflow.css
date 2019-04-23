@@ -304,6 +304,11 @@
   display: inline-block;
   margin: 0 4px;
   /* margin-top: 14px; */
+  transition: all ease 0.4s;
+}
+
+.promo .inner-promo .button-promo:hover {
+  background: #26bb02;
 }
 
 .promo .inner-promo .button-promo-no-gracias {
@@ -315,6 +320,11 @@
   display: inline-block;
   margin: 0 4px;
   /* margin-top: 14px; */
+}
+
+.promo .inner-promo .button-promo-no-gracias:hover {
+  background: black;
+  transition: all ease 0.4s;
 }
 
 @media (min-width: 991px) {
