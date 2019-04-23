@@ -117,6 +117,10 @@
               SERVICIOS<br>
               NUTRICIONALES
             </h1>
+            <div class="text-block-5">
+              Lleva tu entrenamiento al siguiente nivel con nuestra nutricionista que potenciará tus objetivos.<br>
+              Consulta Nutricional consiste en:
+            </div>
 
             <div class="checklist checklist-app checklist checklist-app-nutri">
               <div class="checklist-item-wrapper"><img src="images/check-icon-inv.svg" alt="" class="check-icon">
