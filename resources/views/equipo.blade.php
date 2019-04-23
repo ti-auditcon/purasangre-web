@@ -77,7 +77,17 @@
             <h5 class="card-team-cargo">Nutricionista</h5>
             <div class="info-data">
               <div id="w-node-024e7e3bec9d-65cc393a" class="card-team-text">Vania, nuestra Nutricionista y apasionada por el deporte, lleva más de 4 años de experiencia en la práctica del CrossFit. Complementando esta disciplina con sus conocimientos en el área de la salud.<br><br><strong>Grados: </strong>Nutricionista con mención en Gestión y Calidad. Universidad Andres Bello.</div>
-              <div id="w-node-024e7e3beca4-65cc393a" class="card-team-text"><strong>Certificaciones</strong><br>- Curso Antropometría ISAK 1<br>- Coordinadora Programa Vida Sana de la comuna de Rauco.<br>- Curso tratamiento de la Obesidad<br>- Curso de Nutrición aplicada al ejercicio físico y suplementación.</div>
+              <div id="w-node-024e7e3beca4-65cc393a" class="card-team-text">
+                <strong>Certificaciones</strong><br>
+                {{-- Especialista en actividad física, ejercicio y tratamiento de la Obesidad:<br> --}}
+                - Curso Antropometría ISAK 1<br>
+                - Curso tratamiento de la Obesidad<br>
+                - Curso de Nutrición aplicada al ejercicio físico y suplementación.<br>
+                {{-- Especialista en enfermedad renal<br> --}}
+                - Diplomada en Nutrición para la enfermedad renal<br>
+                {{-- Especialista en medicina complementaria:<br> --}}
+                - Auriculoterapia china, flores de bach, reiki, biomagnetismo deportivo, pendúlo.
+              </div>
             </div>
           </div>
         </div>
@@ -88,8 +98,13 @@
             <h2 class="card-team-title clipped">Daniela</h2>
             <h5 class="card-team-cargo">Recepcionista</h5>
             <div class="info-data">
-              <div id="w-node-024e7e3bec9d-65cc393a" class="card-team-text">Dani es la encargada de la recepción y administración de nuestro box. Con su carisma, empatía y preocupación, siempre está atenta a los requerimientos de nuestros alumnos. Manteniendo el gran ambiente de comunidad de nuestro Box. Forma parte de Pura Sangre CrossFit desde Febrero del 2019.</div>
-              <div id="w-node-024e7e3beca4-65cc393a" class="card-team-text"> </div>
+              <div id="w-node-024e7e3bec9d-65cc393a" class="card-team-text">
+                Dani es la encargada de la recepción y administración de nuestro box. Con su carisma, empatía y preocupación, siempre está atenta a los requerimientos de nuestros alumnos. Manteniendo el gran ambiente de comunidad de nuestro Box. Forma parte de Pura Sangre CrossFit desde Febrero del 2019.<br><br>
+                {{-- <strong>Grados</strong>: Ingeniería en Administración de Recursos Humanos, Duoc UC. --}}
+              </div>
+              <div id="w-node-024e7e3beca4-65cc393a" class="card-team-text">
+                <strong>Grados</strong>: Ingeniería en Administración de Recursos Humanos, Duoc UC.
+              </div>
             </div>
           </div>
         </div>
@@ -116,7 +131,7 @@
         <div class="text-block-2"><strong>Si quieres transformar tu vida, Pura Sangre CrossFit es para ti.</strong><br> No importa en que condición fisica te encuentres o si nunca has ido al gimnasio, unete ahora y no te daras cuenta como los resultados llegan por si solos.</div>
         <div class="cta-buttons">
           <a href="{{url('/prueba')}}" class="green-button mg-button w-button">Conoce como funciona</a>
-          <a href="https://api.whatsapp.com/send?phone=+56940207699&amp;text=Hola,%20quiero%20contratar%20las%20clases%20gratis" target="_blank" class="green-button mg-button w-button" id="boton-whatsapp-cta">
+          <a href="https://api.whatsapp.com/send?phone=+56940207699&amp;text=Hola,%20quiero%20pedir%20las%20clases%20gratis" target="_blank" class="green-button mg-button w-button" id="boton-whatsapp-cta">
             <img class="img-whatsapp" src="../images/whatsapp_icon.svg">
             Solicita via WhatsApp
           </a>

@@ -32,7 +32,7 @@
       <div class="text-block-2 only-cta-title"><strong>Si quieres transformar tu vida, Pura Sangre CrossFit es para ti.</strong><br> No importa en que condición fisica te encuentres o si nunca has ido al gimnasio, unete ahora y no te daras cuenta como los resultados llegan por si solos.</div>
       <div class="cta-buttons">
         <a href="{{url('/prueba')}}" class="green-button mg-button w-button">Conoce como funciona</a>
-        <a href="https://api.whatsapp.com/send?phone=+56940207699&amp;text=Hola,%20quiero%20contratar%20las%20clases%20gratis" id="boton-whatsapp-cta" target="_blank" class="green-button mg-button w-button"><img class="img-whatsapp" src="../images/whatsapp_icon.svg">Solicitar via Whatsapp</a>
+        <a href="https://api.whatsapp.com/send?phone=+56940207699&amp;text=Hola,%20quiero%20pedir%20las%20clases%20gratis" id="boton-whatsapp-cta" target="_blank" class="green-button mg-button w-button"><img class="img-whatsapp" src="../images/whatsapp_icon.svg">Solicitar via Whatsapp</a>
       </div>
     </div>
   </div>
@@ -76,7 +76,7 @@
               <h4 class="content-content-promo">$45.000</h4>
               <div class="content-span-promo">/ mes</div>
             </div>
-          </div><a id="w-node-b9cf1bd2056a-b4aeb525" href="https://api.whatsapp.com/send?phone=+56940207699&amp;text=Hola,%20quiero%20contratar%20el%20plan%20Full%20Fit" id="boton-whatsapp-plan-full" target="_blank" class="plan-page-cta-button special-button w-button"><img class="img-whatsapp" src="../images/whatspp_icon_gold.svg">Contratar via WhatsApp</a><a id="w-node-cf61a32bec36-b4aeb525" href="{{url('/planes')}}" class="plan-page-cta-button special-button w-button">Más info</a></div>
+          </div><a id="w-node-b9cf1bd2056a-b4aeb525" href="https://api.whatsapp.com/send?phone=+56940207699&amp;text=Hola,%20quiero%20contratar%20el%20plan%20Full%20Fit" id="boton-whatsapp-plan-full" target="_blank" class="plan-page-cta-button special-button w-button"><img class="img-whatsapp" src="../images/whatspp_icon_gold.svg">Contratar via Whatsapp</a><a id="w-node-cf61a32bec36-b4aeb525" href="{{url('/planes')}}" class="plan-page-cta-button special-button w-button">Más info</a></div>
         <div id="w-node-92fdd296f840-b4aeb525" class="card-promo card-promo-bg-2">
           <div id="w-node-92fdd296f841-b4aeb525" class="card-promo-heading">
             <div class="title-promo">
@@ -94,7 +94,7 @@
               <h4 class="content-content-promo">$40.000</h4>
               <div class="content-span-promo">/ mes</div>
             </div>
-          </div><a id="w-node-3e5d63bb545e-b4aeb525" href="https://api.whatsapp.com/send?phone=+56940207699&amp;text=Hola,%20quiero%20contratar%20el%20plan%2012%20Sesiones" id="boton-whatsapp-plan-12" target="_blank" class="plan-page-cta-button w-button"><img class="img-whatsapp" src="../images/whatsapp_icon.svg">Contratar via WhatsApp</a><a id="w-node-81adf3ba3d49-b4aeb525" href="{{url('/planes')}}" class="plan-page-cta-button w-button">Más Info</a></div>
+          </div><a id="w-node-3e5d63bb545e-b4aeb525" href="https://api.whatsapp.com/send?phone=+56940207699&amp;text=Hola,%20quiero%20contratar%20el%20plan%2012%20Sesiones" id="boton-whatsapp-plan-12" target="_blank" class="plan-page-cta-button w-button"><img class="img-whatsapp" src="../images/whatsapp_icon.svg">Contratar via Whatsapp</a><a id="w-node-81adf3ba3d49-b4aeb525" href="{{url('/planes')}}" class="plan-page-cta-button w-button">Más Info</a></div>
         <div id="w-node-2b1b2970c38a-b4aeb525" class="card-promo card-promo-bg-3">
           <div id="w-node-2b1b2970c38b-b4aeb525" class="card-promo-heading">
             <div class="title-promo">
@@ -112,7 +112,7 @@
               <h4 class="content-content-promo">$30.000</h4>
               <div class="content-span-promo">/ mes</div>
             </div>
-          </div><a id="w-node-c15c2a838732-b4aeb525" href="https://api.whatsapp.com/send?phone=+56940207699&amp;text=Hola,%20quiero%20contratar%20el%20plan%20Full%20AM" id="boton-whatsapp-plan-am" target="_blank" class="plan-page-cta-button w-button"><img class="img-whatsapp" src="../images/whatsapp_icon.svg">Contratar via WhatsApp</a><a id="w-node-c9522a9962a4-b4aeb525" href="{{url('/planes')}}" class="plan-page-cta-button w-button">Más Info</a></div>
+          </div><a id="w-node-c15c2a838732-b4aeb525" href="https://api.whatsapp.com/send?phone=+56940207699&amp;text=Hola,%20quiero%20contratar%20el%20plan%20Full%20AM" id="boton-whatsapp-plan-am" target="_blank" class="plan-page-cta-button w-button"><img class="img-whatsapp" src="../images/whatsapp_icon.svg">Contratar via Whatsapp</a><a id="w-node-c9522a9962a4-b4aeb525" href="{{url('/planes')}}" class="plan-page-cta-button w-button">Más Info</a></div>
         <div id="w-node-1c4644ce1979-b4aeb525" class="card-promo card-promo-bg-4">
           <div id="w-node-1c4644ce197a-b4aeb525" class="card-promo-heading">
             <div class="title-promo">
@@ -130,7 +130,7 @@
               <h4 class="content-content-promo">$25.000</h4>
               <div class="content-span-promo">/ mes</div>
             </div>
-          </div><a id="w-node-48caaf867645-b4aeb525" href="https://api.whatsapp.com/send?phone=+56940207699&amp;text=Hola,%20quiero%20contratar%20el%20plan%20Estudiantes" id="boton-whatsapp-plan-estudiantes" target="_blank" class="plan-page-cta-button w-button"><img class="img-whatsapp" src="../images/whatsapp_icon.svg">Contratar via WhatsApp</a><a id="w-node-eb463b4ab61d-b4aeb525" href="{{url('/planes')}}" class="plan-page-cta-button w-button">Más Info</a></div>
+          </div><a id="w-node-48caaf867645-b4aeb525" href="https://api.whatsapp.com/send?phone=+56940207699&amp;text=Hola,%20quiero%20contratar%20el%20plan%20Estudiantes" id="boton-whatsapp-plan-estudiantes" target="_blank" class="plan-page-cta-button w-button"><img class="img-whatsapp" src="../images/whatsapp_icon.svg">Contratar via Whatsapp</a><a id="w-node-eb463b4ab61d-b4aeb525" href="{{url('/planes')}}" class="plan-page-cta-button w-button">Más Info</a></div>
       </div>
       <div class="div-block cta-planes-home"><a href="{{url('/planes')}}" class="button green-button w-button">Más info sobre planes</a></div>
     </div>
@@ -175,6 +175,17 @@
         <h1 class="heading title-section clipped special-margin">NUTRICIONISTA <br>QUE POTENCIA <br>TUS OBJETIVOS</h1>
         <div id="w-node-250d504b0523-cf5d8cad" class="data-inv-inner">
           <div class="text-block-5">Con nuestra asesoría nutricional llevamos tu entrenamiento al siguiente nivel. Medimos, evaluamos y planificamos según tu estado nutricional. <br>Te ayudamos a comprender cómo funciona tu metabolismo para que puedas tomar control de tu alimentación y lograr tus objetivos a corto plazo. </div>
+
+
+          <div class="cta-big-precio-wrapper cta-big-precio-wrapper-nutri">
+            <div class="text-block-8">Valor</div>
+            <div class="cta-big-precio-contenido">
+              <h4 class="heading-4">$20.000</h4>
+              <div class="text-block-9">/consulta</div>
+            </div>
+          </div>
+
+
           <a href="https://api.whatsapp.com/send?phone=+56940207699&amp;text=Hola,%20quiero%20reservar%20una%20hora%20con%20la%20Nutricionista" class="green-button w-button guereber"><img class="img-whatsapp" src="../images/whatsapp_icon.svg">Reserva una hora via WhatsApp</a>
         </div>
       </div>

@@ -115,6 +115,15 @@
           <div id="w-node-250d504b0523-cf5d8cad" class="data">
             <h1 class="heading title-section clipped special-margin">NUTRICIONISTA <br>QUE POTENCIA <br>TUS OBJETIVOS</h1>
             <div class="text-block-5">Con nuestra asesoría nutricional llevamos tu entrenamiento al siguiente nivel. Medimos, evaluamos y planificamos según tu estado nutricional. <br>Te ayudamos a comprender cómo funciona tu metabolismo para que puedas tomar control de tu alimentación y lograr tus objetivos a corto plazo. </div>
+
+            <div class="cta-big-precio-wrapper cta-big-precio-wrapper-nutri">
+              <div class="text-block-8">Valor</div>
+              <div class="cta-big-precio-contenido">
+                <h4 class="heading-4">$20.000</h4>
+                <div class="text-block-9">/consulta</div>
+              </div>
+            </div>
+
             <a href="https://api.whatsapp.com/send?phone=+56940207699&amp;text=Hola,%20quiero%20reservar%20una%20hora%20con%20la%20Nutricionista" class="green-button w-button"><img class="img-whatsapp" src="../images/whatsapp_icon.svg">Reserva una hora via WhatsApp</a>
           </div>
         </div>
@@ -138,7 +147,7 @@
           <div class="text-block-2"><strong>Si quieres transformar tu vida, Pura Sangre CrossFit es para ti.</strong><br> No importa en que condición fisica te encuentres o si nunca has ido al gimnasio, unete ahora y no te daras cuenta como los resultados llegan por si solos.</div>
           <div class="cta-buttons">
             <a href="{{url('/prueba')}}" class="green-button mg-button w-button">Conoce como funciona</a>
-            <a href="https://api.whatsapp.com/send?phone=+56940207699&amp;text=Hola,%20quiero%20contratar%20las%20clases%20gratis" target="_blank" class="green-button mg-button w-button" id="boton-whatsapp-cta">
+            <a href="https://api.whatsapp.com/send?phone=+56940207699&amp;text=Hola,%20quiero%20pedir%20las%20clases%20gratis" target="_blank" class="green-button mg-button w-button" id="boton-whatsapp-cta">
               <img class="img-whatsapp" src="../images/whatsapp_icon.svg">
               Solicita via WhatsApp
             </a>

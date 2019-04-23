@@ -947,7 +947,7 @@
 
 .content-span {
   display: inline-block;
-  margin-left: 6px;
+  /* margin-left: 6px; */
   font-size: 16px;
   line-height: 18px;
   letter-spacing: -0.03em;
@@ -1482,21 +1482,21 @@
 @media (max-width: 1300px){
   .slider-3 {
     /* height: 350px; */
-    height: 620px;
+    height: 540px;
   }
 }
 
 @media (max-width: 768px){
   .slider-3 {
     /* height: 350px; */
-    height: 500px;
+    height: 400px;
   }
 }
 
 @media (max-width: 479px){
   .slider-3 {
     /* height: 350px; */
-    height: 320px;
+    height: 280px;
   }
 }
 
@@ -1648,7 +1648,7 @@
   max-width: 1320px;
   margin-right: auto;
   margin-left: auto;
-  padding: 87px 62px;
+  padding: 87px 62px 40px;
 }
 
 .plan-card-img {
@@ -1659,6 +1659,12 @@
 }
 
 .plan-card-img.plan-img-fullfit {
+  background-image: url('../images/_img-full.jpg'), linear-gradient(180deg, rgba(0, 0, 0, .5), rgba(0, 0, 0, .5));
+  background-position: 95% 50%, 0% 0%;
+  background-size: cover, auto;
+}
+
+.plan-card-img.plan-img-diario {
   background-image: url('../images/_img-full.jpg'), linear-gradient(180deg, rgba(0, 0, 0, .5), rgba(0, 0, 0, .5));
   background-position: 95% 50%, 0% 0%;
   background-size: cover, auto;
@@ -1687,6 +1693,7 @@
   grid-template-columns: 1fr 1fr;
   -ms-grid-rows: auto;
   grid-template-rows: auto;
+  margin-bottom: 46px;
 }
 
 .plan-card-mini {
@@ -1801,6 +1808,10 @@
   width: 40%;
   margin-bottom: 32px;
   color: #fff;
+}
+
+.cta-big-precio-wrapper-nutri {
+  color: #000;
 }
 
 .cta-big-precio-contenido {
@@ -2822,6 +2833,7 @@
   .plan-card-mini-wrapper {
     grid-column-gap: 28px;
     grid-template-areas: ".";
+    margin-bottom: 21px;
   }
   .mini-data {
     padding: 40px 38px;
