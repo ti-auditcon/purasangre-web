@@ -41,6 +41,7 @@
       <div class="title-section-wrapper pd-1">
         <div class="title-section-wrapper-inner mg-top-special">
           <h1 class="heading title-section clipped">ASÍ ES UNA <br>CLASE EN EL BOX</h1>
+          <p class="text-line-1"> <strong>Box</strong>: En la jerga CrossFitera es como llamamos al gimnasio de CrossFit.</p>
         </div>
       </div>
       <div class="item-wrapper-inv">
