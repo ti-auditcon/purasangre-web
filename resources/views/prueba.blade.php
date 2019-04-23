@@ -26,7 +26,7 @@
         <div id="w-node-f51ca6b54400-0af2eacb" class="data">
           <h3 class="subtitle">¿De qué se tratan?</h3>
           <div class="text-block-5">
-            Para que experimentes el CrossFit y tomes la desición de cambiar tu vida,
+            Para que experimentes el CrossFit y tomes la decisión de cambiar tu vida,
             te regalamos 3 Clases Gratis, estas pueden ser tomadas durante una semana en cualquier horario a convenir. <br>
             <br>
             A diferencia de los gimnasios, las clases serán asistidas y guiadas por nuestros Coach para introducirte en cada movimiento a trabajar.
@@ -61,7 +61,7 @@
         <div id="w-node-250d504b0523-0af2eacb" class="data">
           <h3 class="subtitle">Skills</h3>
           <div class="text-block-5">
-            Es una parte fundamental de la clases, ya que se desarrollan habilidades, aprendemos teoría, trabajamos y mejoramos las técnicas de ejecución de los diferentes ejercicios.
+            Es una parte fundamental de la clase, ya que se desarrollan habilidades, aprendemos teoría, trabajamos y mejoramos las técnicas de ejecución de los diferentes ejercicios.
           </div>
         </div>
       </div>
@@ -71,7 +71,7 @@
             <h3 class="subtitle">W.O.D (Workout of the day)</h3>
             <div class="text-block-5">
               En español significa "entrenamiento del día", pensado día a día para que nunca se repita, es el peak de la clase.
-              Es la parte más intensa del entrenamiento. Donde pondrás a prueba todas la habilidades trabajadas previamente, para darlo todo junto con tus compañeros.
+              Es la parte más intensa del entrenamiento. Donde pondrás a prueba todas las habilidades trabajadas previamente, para darlo todo junto con tus compañeros.
             </div>
           </div>
         </div>
@@ -87,7 +87,7 @@
         </div>
         <div id="w-node-91bdddb7b430-0af2eacb" class="item-option bg-option-2">
           <h2 class="title-cta-option heading-2 white-cta-title">Revisa nuestros <br>horarios</h2>
-          <div class="text-cta-option">Nuestros horarios estan diseñados para que convalides tu día a día con el entrenamiento efectivo del CrossFit.</div><a href="{{url('/horarios')}}" class="green-button w-button">Ver horarios</a>
+          <div class="text-cta-option">Nuestros horarios están diseñados para que convalides tu día a día con el entrenamiento efectivo del CrossFit.</div><a href="{{url('/horarios')}}" class="green-button w-button">Ver horarios</a>
           <div class="cta-option-text-2">o llamanos al <a href="tel:+56940207699">+569 402 07 699</a></div>
         </div>
       </div>

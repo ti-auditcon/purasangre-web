@@ -60,7 +60,7 @@
         <h1 class="title-big-cta">10 Habilidades <br>que Desarrollaras <br>con CrossFit</h1>
         <div class="checklist">
           <div class="checklist-item-wrapper"><img src="images/check-icon.svg" alt="" class="check-icon">
-            <div class="checklist-item">Resistencia cardiovalcular y respiratoria</div>
+            <div class="checklist-item">Resistencia cardiovascular y respiratoria</div>
           </div>
           <div class="checklist-item-wrapper"><img src="images/check-icon.svg" alt="" class="check-icon">
             <div class="checklist-item">Fuerza</div>
@@ -175,7 +175,7 @@
             <div id="w-node-5d72265f08a0-4eaaa2ee" class="checklist-item">Disminuye los porcentajes de grasa y activa tu metabolismo</div>
           </div>
           <div class="checklist-item-wrapper"><img src="images/check-icon.svg" id="w-node-d363095ca7aa-4eaaa2ee" alt="" class="check-icon">
-            <div id="w-node-d363095ca7ab-4eaaa2ee" class="checklist-item">Baja el stress del día a día y libera endorfinas</div>
+            <div id="w-node-d363095ca7ab-4eaaa2ee" class="checklist-item">Baja el estrés del día a día y libera endorfinas</div>
           </div>
           <div class="checklist-item-wrapper"><img src="images/check-icon.svg" id="w-node-d363095ca7aa-4eaaa2ee" alt="" class="check-icon">
             <div id="w-node-d363095ca7ab-4eaaa2ee" class="checklist-item">Aumenta tu energía y agilidad</div>
@@ -186,7 +186,7 @@
     <div class="banner-promo bg-section">
       <div class="banner-promo-inner">
         <h1 class="heading-2 white-cta-title">3 Clases de prueba<br>GRATIS</h1>
-        <div class="text-block-2"><strong>Si quieres transformar tu vida, Pura Sangre CrossFit es para ti.</strong><br> No importa en que condición fisica te encuentres o si nunca has ido al gimnasio, unete ahora y no te daras cuenta como los resultados llegan por si solos.</div>
+        <div class="text-block-2"><strong>Si quieres transformar tu vida, Pura Sangre CrossFit es para ti.</strong><br> No importa en que condición física te encuentres o si nunca has ido al gimnasio, únete ahora y no te darás cuenta como los resultados llegan por si solos.</div>
         <div class="cta-buttons">
           <a href="{{url('/prueba')}}" class="green-button mg-button w-button">Conoce como funciona</a>
           <a href="https://api.whatsapp.com/send?phone=+56940207699&amp;text=Hola,%20quiero%20pedir%20las%20clases%20gratis" target="_blank" class="green-button mg-button w-button" id="boton-whatsapp-cta">

@@ -29,7 +29,7 @@
     <div class="banner-promo-inner">
       <h2 class="heading-2 cta-title clipped">3 Clases de Prueba<br>GRATIS</h2>
 
-      <div class="text-block-2 only-cta-title"><strong>Si quieres transformar tu vida, Pura Sangre CrossFit es para ti.</strong><br> No importa en que condición fisica te encuentres o si nunca has ido al gimnasio, unete ahora y no te daras cuenta como los resultados llegan por si solos.</div>
+      <div class="text-block-2 only-cta-title"><strong>Si quieres transformar tu vida, Pura Sangre CrossFit es para ti.</strong><br> No importa en que condición física te encuentres o si nunca has ido al gimnasio, únete ahora y no te darás cuenta como los resultados llegan por si solos.</div>
       <div class="cta-buttons">
         <a href="{{url('/prueba')}}" class="green-button mg-button w-button">Conoce como funciona</a>
         <a href="https://api.whatsapp.com/send?phone=+56940207699&amp;text=Hola,%20quiero%20pedir%20las%20clases%20gratis" id="boton-whatsapp-cta" target="_blank" class="green-button mg-button w-button"><img class="img-whatsapp" src="../images/whatsapp_icon.svg">Solicitar via Whatsapp</a>
@@ -42,7 +42,7 @@
       <h1 class="title-big-cta">¿Qué es el <br>CrossFit?</h1>
       <div class="text-block-3">
         CrossFit es un programa de acondicionamiento físico basado en movimientos funcionales constantemente variados y ejecutados a alta intensidad,
-        es adaptable para cualquier persona, nivel y estado de fisico.<br>
+        es adaptable para cualquier persona, nivel y estado de físico.<br>
         En CrossFit rompemos la rutina de un gimnasio. <br>Atrévete a conocerlo.
       </div>
       <a href="{{url('/crossfit')}}" class="green-button w-button">Conoce más</a>
@@ -185,7 +185,7 @@
           <div class="checklist checklist-app checklist checklist-app-nutri">
             <div class="checklist-item-wrapper"><img src="images/check-icon-inv.svg" alt="" class="check-icon">
               <div class="checklist-item">
-                Entrevista social y clinica
+                Entrevista social y clínica
               </div>
             </div>
             <div class="checklist-item-wrapper"><img src="images/check-icon-inv.svg" alt="" class="check-icon">
@@ -195,7 +195,7 @@
             </div>
             <div class="checklist-item-wrapper"><img src="images/check-icon-inv.svg" id="w-node-5d72265f089b-4eaaa2ee" alt="" class="check-icon">
               <div class="checklist-item">
-                Evaluacion nutricional con bioimpedanciometria (porcentaje de grasa corporal, masa muscular, grasa viceral, edad biologica).
+                Evaluación nutricional con bioimpedanciometria (porcentaje de grasa corporal, masa muscular, grasa visceral, edad biológica).
               </div>
             </div>
             <div class="checklist-item-wrapper"><img src="images/check-icon-inv.svg" id="w-node-5d72265f089f-4eaaa2ee" alt="" class="check-icon">
@@ -229,7 +229,7 @@
     <div class="banner-promo-inner">
       <h6 style="color: white; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 0; font-size: 13px; font-weight: 400;">CrossFit en Curicó</h6>
       <h1 class="heading-2 white-cta-title">Entrena con Nosotros.<br>Sé un Pura Sangre.</h1>
-      <div class="text-block-2">En nuestras clases de prueba, podras experimentar un entrenamiento distinto, funcional y entretenido.</div>
+      <div class="text-block-2">En nuestras clases de prueba, podrás experimentar un entrenamiento distinto, funcional y entretenido.</div>
       <div class="cta-buttons"><a href="{{url('/prueba')}}" class="green-button w-button">Conoce más Detalles</a></div>
     </div>
   </div>

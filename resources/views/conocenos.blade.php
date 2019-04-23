@@ -71,7 +71,7 @@
                 sin perder nuestros objetivos. <br>
                 <br>
                 Además, celebramos acontecimientos importantes para pasarlo bien, competir o simplemente comer y tomar algo rico como,
-                cumpleaños, fiestas patrias, aniversario, halloween, entre otras, que harán de Pura Sangre una gran experiencia para ti.
+                cumpleaños, fiestas patrias, aniversario, Halloween, entre otras, que harán de Pura Sangre una gran experiencia para ti.
               </div>
             </div>
           </div>
@@ -125,7 +125,7 @@
             <div class="checklist checklist-app checklist checklist-app-nutri">
               <div class="checklist-item-wrapper"><img src="images/check-icon-inv.svg" alt="" class="check-icon">
                 <div class="checklist-item">
-                  Entrevista social y clinica
+                  Entrevista social y clínica
                 </div>
               </div>
               <div class="checklist-item-wrapper"><img src="images/check-icon-inv.svg" alt="" class="check-icon">
@@ -135,7 +135,7 @@
               </div>
               <div class="checklist-item-wrapper"><img src="images/check-icon-inv.svg" id="w-node-5d72265f089b-4eaaa2ee" alt="" class="check-icon">
                 <div class="checklist-item">
-                  Evaluacion nutricional con bioimpedanciometria <br>(porcentaje de grasa corporal, masa muscular, grasa viceral, edad biologica).
+                  Evaluación nutricional con bioimpedanciometria <br>(porcentaje de grasa corporal, masa muscular, grasa visceral, edad biológica).
                 </div>
               </div>
               <div class="checklist-item-wrapper"><img src="images/check-icon-inv.svg" id="w-node-5d72265f089f-4eaaa2ee" alt="" class="check-icon">
@@ -166,7 +166,7 @@
               <div class="text-block-5">
                 Contamos con el apoyo de grandes marcas y equipos especializados, que en sus distintas áreas nos ayudan a dar un mejor servicio a nuestra comunidad.<br>
                 <br>
-                Además nuestros alumnos cuentan con <strong>beneficios exclusivos</strong> que les permitirán acceder a servicios integrales y de entretención.
+                Además, nuestros alumnos cuentan con <strong>beneficios exclusivos</strong> que les permitirán acceder a servicios integrales y de entretención.
               </div>
             </div>
           </div>
@@ -176,7 +176,7 @@
       <div class="banner-promo bg-section">
         <div class="banner-promo-inner">
           <h1 class="heading-2 white-cta-title">3 Clases de prueba<br>GRATIS</h1>
-          <div class="text-block-2"><strong>Si quieres transformar tu vida, Pura Sangre CrossFit es para ti.</strong><br> No importa en que condición fisica te encuentres o si nunca has ido al gimnasio, unete ahora y no te daras cuenta como los resultados llegan por si solos.</div>
+          <div class="text-block-2"><strong>Si quieres transformar tu vida, Pura Sangre CrossFit es para ti.</strong><br> No importa en que condición física te encuentres o si nunca has ido al gimnasio, únete ahora y no te darás cuenta como los resultados llegan por si solos.</div>
           <div class="cta-buttons">
             <a href="{{url('/prueba')}}" class="green-button mg-button w-button">Conoce como funciona</a>
             <a href="https://api.whatsapp.com/send?phone=+56940207699&amp;text=Hola,%20quiero%20pedir%20las%20clases%20gratis" target="_blank" class="green-button mg-button w-button" id="boton-whatsapp-cta">
