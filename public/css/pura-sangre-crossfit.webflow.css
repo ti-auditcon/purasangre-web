@@ -251,7 +251,7 @@
 
 .promo {
   display: none;
-  position: -webkit-sticky; /* Safari */ 
+  position: -webkit-sticky; /* Safari */
   position: sticky;
   bottom: 0;
   /* background: black; */
@@ -262,6 +262,7 @@
   margin: auto;
   text-align: center;
   transition: all ease 1s;
+  z-index: 9999;
 }
 
 .promo .inner-promo {
