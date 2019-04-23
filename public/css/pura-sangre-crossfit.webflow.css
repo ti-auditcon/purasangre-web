@@ -222,7 +222,7 @@
 }
 
 .cta-big.cta-crossfit {
-  background-image: linear-gradient(93deg, #000 21%, transparent 61%), url('../images/heading-conocenos.jpg');
+  background-image: linear-gradient(93deg, #000 21%, transparent 61%), url('../images/heading-que-es-el-crossfit.jpg');
   background-position: 0px 0px, 50% 0%;
   background-size: auto, cover;
 }
@@ -1194,8 +1194,8 @@
 
 .heading-page.heading-conocenos {
   background-image: linear-gradient(180deg, rgba(0, 0, 0, .75), rgba(0, 0, 0, .75)), url('../images/heading-conocenos.jpg');
-  background-position: 0px 0px, 50% 0%;
-  background-size: auto, cover;
+  background-position: center;
+  background-size: cover;
 }
 
 .heading-page.heading-planes {
