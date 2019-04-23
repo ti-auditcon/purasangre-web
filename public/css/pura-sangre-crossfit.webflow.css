@@ -1476,7 +1476,28 @@
 }
 
 .slider-3 {
-  height: 650px;
+  height: 700px;
+}
+
+@media (max-width: 1300px){
+  .slider-3 {
+    /* height: 350px; */
+    height: 620px;
+  }
+}
+
+@media (max-width: 768px){
+  .slider-3 {
+    /* height: 350px; */
+    height: 500px;
+  }
+}
+
+@media (max-width: 479px){
+  .slider-3 {
+    /* height: 350px; */
+    height: 380px;
+  }
 }
 
 .team-cards-inner {
