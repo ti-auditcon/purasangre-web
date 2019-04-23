@@ -3957,7 +3957,7 @@
   }
   .galeria-slider {
     margin-top: 0px;
-    margin-bottom: 0px;
+    margin-bottom: 48px;
   }
   .team-cards-inner {
     padding-right: 20px;
@@ -10329,6 +10329,9 @@
   }
   .darkHeader .main-header-inner .logo {
     width: 48px;
+  }
+  .cta-big.cta-crossfit.cta-habilidades {
+    background-position: -640px;
   }
 }
 
