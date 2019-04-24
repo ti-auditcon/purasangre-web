@@ -36,12 +36,22 @@ $(function(){
       sessionStorage.setItem("wasVisited", "yes");
       $('.promo').removeClass('fadeInUp');
       $('.promo').addClass('fadeOutDown');
+      setTimeout(function(){
+        $('.promo').css({
+          'display': 'none'
+        });
+      }, 300);
     });
 
     $('.button-promo').click(function(){
       sessionStorage.setItem("wasVisited", "yes");
       $('.promo').removeClass('fadeInUp');
       $('.promo').addClass('fadeOutDown');
+      setTimeout(function(){
+        $('.promo').css({
+          'display': 'none'
+        });
+      }, 1000);
     });
 
   });
