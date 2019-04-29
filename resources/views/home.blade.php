@@ -163,10 +163,10 @@
           </div>
         </div>
         <a href="https://play.google.com/store/apps/details?id=purasangrecrossfit.app.com&amp;hl=es" class="w-inline-block" id="boton-app-android">
-          <img src="images/google-play-badge-2.png" alt="" class="image-7 app-icon">
+          <img src="images/google-play-badge-2.png" alt="" class="image-7 app-icon boton-app-android">
         </a>
         <a href="https://itunes.apple.com/us/app/pura-sangre-crossfit/id1447657358" class="w-inline-block" id="boton-app-ios">
-          <img src="images/d_app.png" alt="" class="mg-button-2 app-icon">
+          <img src="images/d_app.png" alt="" class="mg-button-2 app-icon boton-app-ios">
         </a>
       </div>
     </div>

@@ -14,16 +14,16 @@
     </div>
     <div id="w-node-1941aa1caff2-aa1cafe1" class="images">
       <a href="http://journal.crossfit.com/start.tpl?version=CFJ-white123x63" target="_blank" class="w-inline-block">
-        <img src="images/crossfit-journal.png" alt="" class="image-2">
+        <img src="images/crossfit-journal.png" class="image-2">
       </a>
-      <img src="images/icon_white.png" alt="" class="image-6">
+      <img src="images/icon_white.png" class="image-6">
     </div>
     <div id="w-node-1941aa1caff6-aa1cafe1" class="rrss">
-      <a href="https://www.facebook.com/purasangrecrossfit" target="_blank" class="w-inline-block" id="boton-rrss-facebook">
-        <img src="images/facebook_icon.svg" alt="" class="image-3 footer-icon-rrss">
+      <a href="https://www.facebook.com/purasangrecrossfit" target="_blank" class="w-inline-block boton-rrss-facebook" id="boton-rrss-facebook">
+        <img src="images/facebook_icon.svg" class="image-3 footer-icon-rrss">
       </a>
-      <a href="https://www.instagram.com/purasangrecf" target="_blank" class="w-inline-block" id="boton-rrss-instagram">
-        <img src="images/instagram_icon.svg" alt="" class="image-4 footer-icon-rrss">
+      <a href="https://www.instagram.com/purasangrecf" target="_blank" class="w-inline-block boton-rrss-instagram" id="boton-rrss-instagram">
+        <img src="images/instagram_icon.svg" class="image-4 footer-icon-rrss">
       </a>
     </div>
     <div id="w-node-1941aa1caffb-aa1cafe1" class="credits"><img src="images/asomic_icono.svg" alt="" class="image">
