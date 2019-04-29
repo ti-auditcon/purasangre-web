@@ -162,11 +162,11 @@
             <div id="w-node-d363095ca7ab-4eaaa2ee" class="checklist-item">Recibir notificaciones de reservas y noticias del box</div>
           </div>
         </div>
-        <a href="https://play.google.com/store/apps/details?id=purasangrecrossfit.app.com&amp;hl=es" class="w-inline-block" id="boton-app-android">
-          <img src="images/google-play-badge-2.png" alt="" class="image-7 app-icon boton-app-android">
+        <a href="https://play.google.com/store/apps/details?id=purasangrecrossfit.app.com&amp;hl=es" class="w-inline-block boton-app-android" id="boton-app-android">
+          <img src="images/google-play-badge-2.png" alt="" class="image-7 app-icon">
         </a>
-        <a href="https://itunes.apple.com/us/app/pura-sangre-crossfit/id1447657358" class="w-inline-block" id="boton-app-ios">
-          <img src="images/d_app.png" alt="" class="mg-button-2 app-icon boton-app-ios">
+        <a href="https://itunes.apple.com/us/app/pura-sangre-crossfit/id1447657358" class="w-inline-block boton-app-ios" id="boton-app-ios">
+          <img src="images/d_app.png" alt="" class="mg-button-2 app-icon">
         </a>
       </div>
     </div>
