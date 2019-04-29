@@ -4,7 +4,7 @@
       <div class="info-text">
         <strong>Pura Sangre CrossFit</strong><br>
         <a href="https://goo.gl/maps/6fcspf8UE7P2" class="link-2">Camino a Zapallar con ruta 5 sur</a><br>
-        <a href="tel:+56940207699" class="link-2" id="boton-numero">+569 402 07 699</a><br>
+        <a href="tel:+56940207699" class="link-2 boton-numero" id="boton-numero">+569 402 07 699</a><br>
         <a href="mailto:contacto@purasangrecrossfit.cl?subject=Mensaje%20desde%20purasangrecrossfit.cl" class="link-3" id="boton-email">contacto@purasangrecrossfit.cl</a>
       </div>
       <div class="info-text">
