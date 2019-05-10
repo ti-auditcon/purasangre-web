@@ -335,7 +335,14 @@
   }
 } */
 
+div#fb-root {
+    display: none;
+}
+
 @media (min-width: 991px) {
+  div#fb-root {
+      display: block;
+  }
   .promo .inner-promo {
     padding: 16px 0;
   }
