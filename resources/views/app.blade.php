@@ -13,7 +13,7 @@
 
     <link href="css/normalize.css" rel="stylesheet" type="text/css">
     <link href="css/webflow.css" rel="stylesheet" type="text/css">
-    <link href="css/pura-sangre-crossfit.webflow.css" rel="stylesheet" type="text/css">
+    <link href="css/pura-sangre-crossfit.webflow.css?v=033" rel="stylesheet" type="text/css">
 
     <link rel="apple-touch-icon-precomposed" sizes="57x57" href="fav/apple-touch-icon-57x57.png" />
     <link rel="apple-touch-icon-precomposed" sizes="114x114" href="fav/apple-touch-icon-114x114.png" />
