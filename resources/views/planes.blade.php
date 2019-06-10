@@ -16,6 +16,19 @@
       </div>
     </div>
     <div class="page-planes-wrapper">
+
+      <div class="banner-promo bg-light-image" style="border-bottom: solid 1px rgba(0,0,0, 0.05)">
+        <div class="banner-promo-inner">
+          <h2 class="heading-2 cta-title clipped">3 Clases de Prueba<br>GRATIS</h2>
+
+          <div class="text-block-2 only-cta-title"><strong>Si quieres transformar tu vida, Pura Sangre CrossFit es para ti.</strong><br> No importa en que condición física te encuentres o si nunca has ido al gimnasio, únete ahora y no te darás cuenta como los resultados llegan por si solos.</div>
+          <div class="cta-buttons">
+            <a href="{{url('/prueba')}}" class="green-button mg-button w-button">Conoce como funciona</a>
+            <a href="https://api.whatsapp.com/send?phone=+56940207699&amp;text=Hola,%20quiero%20pedir%20las%20clases%20gratis" id="boton-whatsapp-cta" target="_blank" class="green-button mg-button w-button"><img class="img-whatsapp" src="../images/whatsapp_icon.svg">Solicitar via Whatsapp</a>
+          </div>
+        </div>
+      </div>
+
       <div class="page-planes-inner">
         <div class="plan-card plan-card-special">
           <div class="plan-card-data">
@@ -185,7 +198,7 @@
         <div class="text-block-2"><strong>Si quieres transformar tu vida, Pura Sangre CrossFit es para ti.</strong><br> No importa en que condición física te encuentres o si nunca has ido al gimnasio, únete ahora y no te darás cuenta como los resultados llegan por si solos.</div>
         <div class="cta-buttons">
           <a href="{{url('/prueba')}}" class="green-button mg-button w-button">Conoce como funciona</a>
-          <a href="https://api.whatsapp.com/send?phone=+56940207699&amp;text=Hola,%20quiero%20pedir%20las%20clases%20gratis" target="_blank" class="green-button mg-button w-button" id="boton-whatsapp-cta">
+          <a href="https://api.whatsapp.com/send?phone=+56940207699&amp;text=Hola,%20quiero%20pedir%20las%20clases%20gratis" target="_blank" class="green-button mg-button w-button">
             <img class="img-whatsapp" src="../images/whatsapp_icon.svg">Solicita via WhatsApp</a>
           </div>
       </div>
