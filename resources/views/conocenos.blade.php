@@ -179,7 +179,7 @@
           <div class="text-block-2"><strong>Si quieres transformar tu vida, Pura Sangre CrossFit es para ti.</strong><br> No importa en que condición física te encuentres o si nunca has ido al gimnasio, únete ahora y no te darás cuenta como los resultados llegan por si solos.</div>
           <div class="cta-buttons">
             <a href="{{url('/prueba')}}" class="green-button mg-button w-button">Conoce como funciona</a>
-            <a href="https://api.whatsapp.com/send?phone=+56940207699&amp;text=Hola,%20quiero%20pedir%20las%20clases%20gratis" target="_blank" class="green-button mg-button w-button" id="boton-whatsapp-cta">
+            <a href="https://api.whatsapp.com/send?phone=+56940207699&amp;text=Hola,%20quiero%20pedir%20las%20clases%20gratis" target="_blank" class="green-button mg-button w-button" id="boton-whatsapp-cta-abajo">
               <img class="img-whatsapp" src="../images/whatsapp_icon.svg">
               Solicita via WhatsApp
             </a>
