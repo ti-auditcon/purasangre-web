@@ -68,7 +68,7 @@
           </div>
           <div id="w-node-f8768fa7bdd7-b4aeb525" class="content-promo">
             <div class="horario-promo">
-              <div class="content-hd-promo">Lunes a Viernes</div>
+              <div class="content-hd-promo">Lunes a Sábado</div>
               <h4 class="content-content-promo">Horario Liberado</h4>
             </div>
             <div class="valor">
@@ -86,7 +86,7 @@
           </div>
           <div id="w-node-92fdd296f84a-b4aeb525" class="content-promo">
             <div class="horario-promo">
-              <div class="content-hd-promo">Lunes a Viernes</div>
+              <div class="content-hd-promo">Lunes a Sábado</div>
               <h4 class="content-content-promo">12 Clases / mes</h4>
             </div>
             <div class="valor">
@@ -104,7 +104,7 @@
           </div>
           <div id="w-node-2b1b2970c394-b4aeb525" class="content-promo">
             <div class="horario-promo">
-              <div class="content-hd-promo">Lunes a Viernes</div>
+              <div class="content-hd-promo">Lunes a Sábado</div>
               <h4 class="content-content-promo">09:00 - 12:00 hrs</h4>
             </div>
             <div class="valor">
@@ -122,7 +122,7 @@
           </div>
           <div id="w-node-1c4644ce1983-b4aeb525" class="content-promo">
             <div class="horario-promo">
-              <div class="content-hd-promo">Lunes a Viernes</div>
+              <div class="content-hd-promo">Lunes a Sábado</div>
               <h4 class="content-content-promo">07:00 - 12:00 hrs<br>17:00 - 18:00 hrs</h4>
             </div>
             <div class="valor">

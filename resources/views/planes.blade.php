@@ -43,7 +43,7 @@
             <div class="plan-text">Atrévete a cambiar tu vida con un plan diseñado para quienes buscan los mejores resultados. Puedes reservar una clase al día, en cualquier horario, todos los días de la semana. Sin dudas, el plan más conveniente.</div>
             <div class="content content-page">
               <div class="horario">
-                <div class="content-hd">Lunes a Viernes</div>
+                <div class="content-hd">Lunes a Sábado</div>
                 <h4 class="content-content">Horario Liberado</h4>
               </div>
               <div class="valor">
@@ -69,7 +69,7 @@
             <div class="plan-text">Un plan especial para quienes no pueden asistir todos los días. Permite compatibilizar tu familia, trabajo y el entrenamiento en el box.</div>
             <div class="content content-page">
               <div class="horario">
-                <div class="content-hd">Lunes a Viernes</div>
+                <div class="content-hd">Lunes a Sábado</div>
                 <h4 class="content-content">12 Clases / mes</h4>
               </div>
               <div class="valor">
@@ -95,7 +95,7 @@
               <div class="plan-text">Especial para quienes entrenan de mañana pero no necesariamente madrugan. Puedes reservar una hora dentro de la mañana.</div>
               <div class="content content-page">
                 <div class="horario">
-                  <div class="content-hd">Lunes a Viernes</div>
+                  <div class="content-hd">Lunes a Sábado</div>
                   <h4 class="content-content">09:00 - 12:00 hrs</h4>
                 </div>
                 <div class="valor">
@@ -121,7 +121,7 @@
               </div>
               <div class="content content-page">
                 <div class="horario">
-                  <div class="content-hd">Lunes a Viernes</div>
+                  <div class="content-hd">Lunes a Sábado</div>
                   <h4 class="content-content">07:00 a 12:00 hrs o<br>17:00 a 18:00 hrs</h4>
                 </div>
                 <div class="valor">
@@ -150,7 +150,7 @@
             </div>
             <div class="content content-page">
               <div class="horario">
-                <div class="content-hd">Lunes a Viernes</div>
+                <div class="content-hd">Lunes a Sábado</div>
                 <h4 class="content-content">Horario Liberado</h4>
               </div>
               <div class="valor">
