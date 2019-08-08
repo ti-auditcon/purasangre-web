@@ -24,7 +24,7 @@
           <div class="text-block-2 only-cta-title"><strong>Si quieres transformar tu vida, Pura Sangre CrossFit es para ti.</strong><br> No importa en que condición física te encuentres o si nunca has ido al gimnasio, únete ahora y no te darás cuenta como los resultados llegan por si solos.</div>
           <div class="cta-buttons">
             <a href="{{url('/prueba')}}" class="green-button mg-button w-button">Conoce como funciona</a>
-            <a href="https://api.whatsapp.com/send?phone=+56940207699&amp;text=Hola,%20quiero%20pedir%20las%20clases%20gratis" id="boton-whatsapp-cta-arriba" target="_blank" class="green-button mg-button w-button"><img class="img-whatsapp" src="../images/whatsapp_icon.svg">Solicitar via Whatsapp</a>
+            <a href="https://wa.me/56940207699?text=Hola,%20quiero%20pedir%20las%20clases%20gratis" id="boton-whatsapp-cta-arriba" target="_blank" class="green-button mg-button w-button"><img class="img-whatsapp" src="../images/whatsapp_icon.svg">Solicitar via Whatsapp</a>
           </div>
         </div>
       </div>
@@ -52,7 +52,7 @@
                 <div class="content-span">/ mes</div>
               </div>
             </div>
-            <div class="plan-button-container"><a href="https://api.whatsapp.com/send?phone=+56940207699&amp;text=Hola,%20quiero%20contratar%20el%20plan%20Full%20Fit" target="_blank" class="plan-page-cta-button special-button w-button" id="boton-whatsapp-plan-full"><img class="img-whatsapp" src="../images/whatspp_icon_gold.svg">Contratar via Whatsapp</a></div>
+            <div class="plan-button-container"><a href="https://wa.me/56940207699?text=Hola,%20quiero%20contratar%20el%20plan%20Full%20Fit" target="_blank" class="plan-page-cta-button special-button w-button" id="boton-whatsapp-plan-full"><img class="img-whatsapp" src="../images/whatspp_icon_gold.svg">Contratar via Whatsapp</a></div>
           </div>
           <div class="plan-card-img plan-img-fullfit"></div>
         </div>
@@ -79,7 +79,7 @@
               </div>
             </div>
             <div class="plan-button-container">
-              <a href="https://api.whatsapp.com/send?phone=+56940207699&amp;text=Hola,%20quiero%20contratar%20el%20plan%2012%20Sesiones" target="_blank" class="plan-page-cta-button w-button" id="boton-whatsapp-plan-12"><img class="img-whatsapp" src="../images/whatsapp_icon.svg">Contratar via Whatsapp</a></div>
+              <a href="https://wa.me/56940207699?text=Hola,%20quiero%20contratar%20el%20plan%2012%20Sesiones" target="_blank" class="plan-page-cta-button w-button" id="boton-whatsapp-plan-12"><img class="img-whatsapp" src="../images/whatsapp_icon.svg">Contratar via Whatsapp</a></div>
           </div>
         </div>
         <div class="plan-card-mini-wrapper">
@@ -104,7 +104,7 @@
                   <div class="content-span">/ mes</div>
                 </div>
               </div>
-              <div class="plan-button-container"><a href="https://api.whatsapp.com/send?phone=+56940207699&amp;text=Hola,%20quiero%20contratar%20el%20plan%20Full%20AM" target="_blank" class="plan-page-cta-button w-button" id="boton-whatsapp-plan-am"><img class="img-whatsapp" src="../images/whatsapp_icon.svg">Contratar via Whatsapp</a></div>
+              <div class="plan-button-container"><a href="https://wa.me/56940207699?text=Hola,%20quiero%20contratar%20el%20plan%20Full%20AM" target="_blank" class="plan-page-cta-button w-button" id="boton-whatsapp-plan-am"><img class="img-whatsapp" src="../images/whatsapp_icon.svg">Contratar via Whatsapp</a></div>
             </div>
           </div>
           <div id="w-node-4d1281a24382-43a9f64e" class="plan-card-mini">
@@ -130,7 +130,7 @@
                   <div class="content-span">/ mes</div>
                 </div>
               </div>
-              <div class="plan-button-container"><a href="https://api.whatsapp.com/send?phone=+56940207699&amp;text=Hola,%20quiero%20contratar%20el%20plan%20Estudiantes" target="_blank" class="plan-page-cta-button w-button" id="boton-whatsapp-plan-estudiantes"><img class="img-whatsapp" src="../images/whatsapp_icon.svg">Contratar via Whatsapp</a></div>
+              <div class="plan-button-container"><a href="https://wa.me/56940207699?text=Hola,%20quiero%20contratar%20el%20plan%20Estudiantes" target="_blank" class="plan-page-cta-button w-button" id="boton-whatsapp-plan-estudiantes"><img class="img-whatsapp" src="../images/whatsapp_icon.svg">Contratar via Whatsapp</a></div>
             </div>
           </div>
         </div>
@@ -160,7 +160,7 @@
               </div>
             </div>
             <div class="plan-button-container">
-              <a href="https://api.whatsapp.com/send?phone=+56940207699&amp;text=Hola,%20quiero%20consultar%20por%20un%20Pase%20Diario" target="_blank" class="plan-page-cta-button w-button" id=""><img class="img-whatsapp" src="../images/whatsapp_icon.svg">Contratar via Whatsapp</a></div>
+              <a href="https://wa.me/56940207699?text=Hola,%20quiero%20consultar%20por%20un%20Pase%20Diario" target="_blank" class="plan-page-cta-button w-button" id=""><img class="img-whatsapp" src="../images/whatsapp_icon.svg">Contratar via Whatsapp</a></div>
           </div>
           <div class="plan-card-img plan-img-diario"></div>
         </div>
@@ -198,7 +198,7 @@
         <div class="text-block-2"><strong>Si quieres transformar tu vida, Pura Sangre CrossFit es para ti.</strong><br> No importa en que condición física te encuentres o si nunca has ido al gimnasio, únete ahora y no te darás cuenta como los resultados llegan por si solos.</div>
         <div class="cta-buttons">
           <a href="{{url('/prueba')}}" class="green-button mg-button w-button">Conoce como funciona</a>
-          <a href="https://api.whatsapp.com/send?phone=+56940207699&amp;text=Hola,%20quiero%20pedir%20las%20clases%20gratis" id="boton-whatsapp-cta-abajo" target="_blank" class="green-button mg-button w-button">
+          <a href="https://wa.me/56940207699?text=Hola,%20quiero%20pedir%20las%20clases%20gratis" id="boton-whatsapp-cta-abajo" target="_blank" class="green-button mg-button w-button">
             <img class="img-whatsapp" src="../images/whatsapp_icon.svg">Solicita via WhatsApp</a>
           </div>
       </div>

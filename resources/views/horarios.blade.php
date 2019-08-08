@@ -628,7 +628,7 @@
         <a href="{{url('/prueba')}}" class="green-button mg-button w-button">
           Conoce como funciona
         </a>
-        <a href="https://api.whatsapp.com/send?phone=+56940207699&amp;text=Hola,%20quiero%20pedir%20las%20clases%20gratis" target="_blank" id="boton-whatsapp-cta-abajo" class="green-button mg-button w-button">
+        <a href="https://wa.me/56940207699?text=Hola,%20quiero%20pedir%20las%20clases%20gratis" target="_blank" id="boton-whatsapp-cta-abajo" class="green-button mg-button w-button">
           <img class="img-whatsapp" src="../images/whatsapp_icon.svg">
             Solicita via WhatsApp
         </a>

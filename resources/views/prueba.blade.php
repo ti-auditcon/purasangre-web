@@ -22,7 +22,7 @@
         <div class="text-block-2 only-cta-title"><strong>Si quieres transformar tu vida, Pura Sangre CrossFit es para ti.</strong><br> No importa en que condición física te encuentres o si nunca has ido al gimnasio, únete ahora y no te darás cuenta como los resultados llegan por si solos.</div>
         <div class="cta-buttons">
           {{-- <a href="{{url('/prueba')}}" class="green-button mg-button w-button">Conoce como funciona</a> --}}
-          <a href="https://api.whatsapp.com/send?phone=+56940207699&amp;text=Hola,%20quiero%20pedir%20las%20clases%20gratis" id="boton-whatsapp-cta-arriba" target="_blank" class="green-button mg-button w-button"><img class="img-whatsapp" src="../images/whatsapp_icon.svg">Solicitar via Whatsapp</a>
+          <a href="https://wa.me/56940207699?text=Hola,%20quiero%20pedir%20las%20clases%20gratis" id="boton-whatsapp-cta-arriba" target="_blank" class="green-button mg-button w-button"><img class="img-whatsapp" src="../images/whatsapp_icon.svg">Solicitar via Whatsapp</a>
         </div>
       </div>
     </div>
@@ -44,7 +44,7 @@
             A diferencia de los gimnasios, las clases serán asistidas y guiadas por nuestros Coach para introducirte en cada movimiento a trabajar.
             Solo debes comunicarte por cualquiera de nuestros canales solicitando tus 3 Clases Gratis. <br>No esperes más!
           </div>
-          <a href="https://api.whatsapp.com/send?phone=+56940207699&amp;text=Hola,%20quiero%20pedir%20las%20clases%20gratis" target="_blank" class="green-button w-button">
+          <a href="https://wa.me/56940207699?text=Hola,%20quiero%20pedir%20las%20clases%20gratis" target="_blank" class="green-button w-button">
             <img class="img-whatsapp" src="../images/whatsapp_icon.svg">
             Solicita via WhatsApp
           </a>
@@ -95,7 +95,7 @@
         <div id="w-node-6f19680799e3-0af2eacb" class="item-option bg-option-1">
           <h2 class="title-cta-option heading-2 white-cta-title">Reserva tus 3 clases <br>de Prueba gratis</h2>
           <div class="text-cta-option">Tenemos horarios especiales para quienes quieren vivir la experiencia Pura Sangre junto a la comunidad en una clase real.</div>
-          <a href="https://api.whatsapp.com/send?phone=+56940207699&amp;text=Hola,%20quiero%20pedir%20las%20clases%20gratis" target="_blank" id="boton-whatsapp-cta-abajo" class="green-button w-button">
+          <a href="https://wa.me/56940207699?text=Hola,%20quiero%20pedir%20las%20clases%20gratis" target="_blank" id="boton-whatsapp-cta-abajo" class="green-button w-button">
             <img class="img-whatsapp" src="../images/whatsapp_icon.svg">
             Solicita via WhatsApp
           </a>
