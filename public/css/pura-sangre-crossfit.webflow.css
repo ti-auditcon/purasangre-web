@@ -1254,6 +1254,7 @@ div#fb-root {
 @media (max-width: 1300px) {
  .heading-page.heading-clase-prueba {
    background-image: url('../images/slide6-l.jpg');
+   height: 600px;
  }
 }
 
