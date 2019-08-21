@@ -11,8 +11,10 @@
 
   <div class="heading-page heading-clase-prueba">
       <div class="heading-page-inner">
-        <h2 class="heading-title">Clases de Prueba Gratis</h2>
-        <div class="heading-desc">Conoce como es una clase en Pura Sangre CrossFit Curicó</div>
+        {{-- <h2 class="heading-title">Clases de Prueba Gratis</h2>
+        <div class="heading-desc">Conoce como es una clase en Pura Sangre CrossFit Curicó</div> --}}
+        {{-- <h2 class="heading-title"></h2>
+        <div class="heading-desc"></div> --}}
       </div>
     </div>
     <div class="banner-promo bg-light-image" style="border-bottom: solid 1px rgba(0,0,0, 0.05)">
