@@ -1272,7 +1272,7 @@ div#fb-root {
 
 @media (max-width: 479px) {
  .heading-page.heading-clase-prueba {
-   height: 670px;
+   height: 100vh;
    background-image: url('../images/slide6-s.jpg');
  }
 }
