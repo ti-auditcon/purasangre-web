@@ -71,6 +71,46 @@
         </div>
 
         <div class="team-card">
+          <div id="w-node-02b4b975399e-65cc393a" class="card-img card-cata"></div>
+          <div id="w-node-02b4b975399f-65cc393a" class="card-data">
+            <h2 class="card-team-title clipped">Catalina Bravo C</h2>
+            <h5 class="card-team-cargo">Coach</h5>
+            <div class="info-data">
+              <div id="w-node-02b4b97539a5-65cc393a" class="card-team-text">
+                Tehto<br><br>
+                <strong>Grados</strong>: Profesora de Educación física
+              </div>
+              <div id="w-node-02b4b97539ac-65cc393a" class="card-team-text">
+                <strong>Certificaciones</strong><br>
+                - Magister en Motricidad<br>
+                - Coach GRIT de Less Mills<br>
+                - Atleta de Running y Trail Running<br>
+                - Corredora de Fondo<br>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="team-card">
+          <div id="w-node-02b4b975399e-65cc393a" class="card-img card-catad"></div>
+          <div id="w-node-02b4b975399f-65cc393a" class="card-data">
+            <h2 class="card-team-title clipped">Catalina Davila</h2>
+            <h5 class="card-team-cargo">Coach</h5>
+            <div class="info-data">
+              <div id="w-node-02b4b97539a5-65cc393a" class="card-team-text">
+                Tehto<br><br>
+                <strong>Grados</strong>: Profesora de Educación física y de Danza Educativa
+              </div>
+              <div id="w-node-02b4b97539ac-65cc393a" class="card-team-text">
+                <strong>Certificaciones</strong><br>
+                - Diplomado en Personal Trainer<br>
+                - Atleta Fitness<br>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="team-card">
           <div id="w-node-024e7e3bec96-65cc393a" class="card-img card-vania"></div>
           <div id="w-node-024e7e3bec97-65cc393a" class="card-data">
             <h2 class="card-team-title clipped">Vania Pérez</h2>

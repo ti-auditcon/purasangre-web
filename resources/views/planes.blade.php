@@ -30,6 +30,7 @@
       </div>
 
       <div class="page-planes-inner">
+
         <div class="plan-card plan-card-special">
           <div class="plan-card-data">
             <div class="card-heading">
@@ -56,6 +57,7 @@
           </div>
           <div class="plan-card-img plan-img-fullfit"></div>
         </div>
+
         <div class="plan-card">
           <div class="plan-card-img"></div>
           <div class="plan-card-data">
@@ -82,7 +84,9 @@
               <a href="https://wa.me/56940207699?text=Hola,%20quiero%20contratar%20el%20plan%2012%20Sesiones" target="_blank" class="plan-page-cta-button w-button" id="boton-whatsapp-plan-12"><img class="img-whatsapp" src="../images/whatsapp_icon.svg">Contratar via Whatsapp</a></div>
           </div>
         </div>
+
         <div class="plan-card-mini-wrapper">
+
           <div id="w-node-cd0ce9e33f58-43a9f64e" class="plan-card-mini">
             <div class="mini-img img-plan-am"></div>
             <div class="mini-data">
@@ -107,6 +111,7 @@
               <div class="plan-button-container"><a href="https://wa.me/56940207699?text=Hola,%20quiero%20contratar%20el%20plan%20Full%20AM" target="_blank" class="plan-page-cta-button w-button" id="boton-whatsapp-plan-am"><img class="img-whatsapp" src="../images/whatsapp_icon.svg">Contratar via Whatsapp</a></div>
             </div>
           </div>
+
           <div id="w-node-4d1281a24382-43a9f64e" class="plan-card-mini">
             <div class="mini-img img-plan-estudiantes"></div>
             <div class="mini-data">
@@ -133,6 +138,7 @@
               <div class="plan-button-container"><a href="https://wa.me/56940207699?text=Hola,%20quiero%20contratar%20el%20plan%20Estudiantes" target="_blank" class="plan-page-cta-button w-button" id="boton-whatsapp-plan-estudiantes"><img class="img-whatsapp" src="../images/whatsapp_icon.svg">Contratar via Whatsapp</a></div>
             </div>
           </div>
+          
         </div>
 
         <div class="plan-card">

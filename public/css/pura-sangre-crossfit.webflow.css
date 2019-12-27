@@ -1280,7 +1280,7 @@ div#fb-root {
 
 .heading-page.heading-equipo {
   background-image: linear-gradient(180deg, rgba(0, 0, 0, .75), rgba(0, 0, 0, .75)), url('../images/heading-equipo.jpg');
-  background-position: 0px 0px, 50% 0%;
+  background-position: 0px 0px, 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -1663,6 +1663,20 @@ div#fb-root {
 
 .card-hernan {
   background-image: url('../images/team-4.jpg');
+  /* background-position: -216px; */
+  background-position: center;
+  background-size: cover;
+}
+
+.card-cata {
+  background-image: url('../images/team-12.jpg');
+  /* background-position: -216px; */
+  background-position: center;
+  background-size: cover;
+}
+
+.card-catad {
+  background-image: url('../images/team-11.jpg');
   /* background-position: -216px; */
   background-position: center;
   background-size: cover;
