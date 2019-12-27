@@ -33,8 +33,10 @@
             <a href="mailto:contacto@purasangrecrossfit.cl?subject=Mensaje%20desde%20purasangrecrossfit.cl" class="link-4">contacto@purasangrecrossfit.cl</a>
           </div>
           <div class="form-data-text">
-            <strong>Horarios<br>
-            </strong>Lun a Vier de 07:00 a 22:00 hrs<br>Sábados de 10:00 a 14:00 hrs
+            <strong>Horarios</strong><br>
+            Lun a Vier de 07:00 a 13:00 hrs - 16:00 a 21:00 hrs<br>
+            Sábados de 08:30 a 12:00 hrs<br>
+            Domingos de 09:00 a 11:00 hrs
           </div>
           <div class="form-data-text">
             <a href="https://facebook.com/purasangrecrossfit" target="_blank" class="link-00">
