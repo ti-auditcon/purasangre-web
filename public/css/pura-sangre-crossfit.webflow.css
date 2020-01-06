@@ -485,7 +485,7 @@ div#fb-root {
 }
 
 .content.content-page {
-  margin-top: 42px;
+  margin-top: 38px;
 }
 
 .horario {
@@ -708,9 +708,16 @@ div#fb-root {
 }
 
 .img.img-equipo {
-  background-image: url('../images/img-equipo.jpg');
+  background-image: url('../images/img-equipo-2.jpg');
   background-position: 50% 50%;
   background-size: cover;
+  height: 480px;
+}
+
+@media (max-width: 1300px) {
+  .img.img-equipo {
+    height: 420px;
+  }
 }
 
 .img.img-companerismo {
@@ -1761,7 +1768,7 @@ div#fb-root {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  margin-bottom: 38px;
+  margin-bottom: 34px;
   grid-auto-columns: 1fr;
   grid-column-gap: 0px;
   grid-row-gap: 16px;
@@ -1827,7 +1834,7 @@ div#fb-root {
   display: -ms-grid;
   display: grid;
   grid-auto-columns: 1fr;
-  grid-column-gap: 38px;
+  grid-column-gap: 36px;
   grid-row-gap: 12px;
   grid-template-areas: ".";
   -ms-grid-columns: 1fr 38px 1fr;
