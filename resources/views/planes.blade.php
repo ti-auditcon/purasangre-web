@@ -31,7 +31,282 @@
 
       <div class="page-planes-inner">
 
-        <div class="plan-card plan-card-special">
+
+        <div class="plan-card-mini-wrapper">
+
+          <div class="plan-card plan-card-special">
+            <div class="plan-card-data">
+              <div class="card-heading">
+                <div class="title">
+                  <h1 class="title-card clipped special-title-card">Plan Extra Full</h1>
+                  <h5 class="title-card-type">Mensual</h5>
+                </div>
+                <div class="featured-promo">
+                  <div class="text-block-10">Mejor<br>Opción</div>
+                  <img src="images/best.svg" alt="" class="image-9">
+                </div>
+              </div>
+              <div class="plan-text">Atrévete a cambiar tu vida con un plan diseñado para quienes buscan los mejores resultados. Puedes reservar una clase al día, en cualquier horario, todos los días de la semana. Sin dudas, el plan más conveniente.</div>
+              <div class="content content-page">
+                <div class="horario">
+                  <div class="content-hd">Lunes a Sábado</div>
+                  <h4 class="content-content">Horario Liberado</h4>
+                </div>
+                <div class="valor">
+                  <div class="content-hd">Valor</div>
+                  <h4 class="content-content">$45.000</h4>
+                  <div class="content-span">/ mes</div>
+                </div>
+              </div>
+              <div class="plan-button-container">
+                <a href="https://wa.me/56940207699?text=Hola,%20quiero%20contratar%20el%20plan%20Full%20Fit" target="_blank" class="plan-page-cta-button special-button w-button" id="boton-whatsapp-plan-full"><img class="img-whatsapp" src="../images/whatspp_icon_gold.svg">
+                  Contratar via Whatsapp
+                </a>
+              </div>
+            </div>
+          </div>
+
+          <div class="plan-card">
+            <div class="mini-data">
+              <div class="card-heading">
+                <div class="title">
+                  <h1 class="title-card clipped">Plan Full</h1>
+                  <h5 class="title-card-type">Mensual</h5>
+                </div>
+              </div>
+              <div class="plan-text">
+                Especial para quienes entrenan de mañana pero no necesariamente madrugan. Puedes reservar una hora dentro de la mañana.
+              </div>
+              <div class="content content-page">
+                <div class="horario">
+                  <div class="content-hd">Lunes a Sábado</div>
+                  <h4 class="content-content">09:00 - 12:00 hrs</h4>
+                </div>
+                <div class="valor">
+                  <div class="content-hd">Valor</div>
+                  <h4 class="content-content">$30.000</h4>
+                  <div class="content-span">/ mes</div>
+                </div>
+              </div>
+              <div class="plan-button-container"><a href="https://wa.me/56940207699?text=Hola,%20quiero%20contratar%20el%20plan%20Full%20AM" target="_blank" class="plan-page-cta-button w-button" id="boton-whatsapp-plan-am"><img class="img-whatsapp" src="../images/whatsapp_icon.svg">Contratar via Whatsapp</a></div>
+            </div>
+          </div>
+
+        </div>
+
+        <div class="plan-card-mini-wrapper">
+
+          <div class="plan-card">
+            <div class="mini-data">
+              <div class="card-heading">
+                <div class="title">
+                  <h1 class="title-card clipped">Plan Estudiantes</h1>
+                  <h5 class="title-card-type">Mensual</h5>
+                </div>
+              </div>
+              <div class="plan-text">
+                Potencia tus estudios de la mejor forma, un cuerpo sano es una mente sana, rinde al 100%. Puedes reservar todos los días en los horarios indicados.
+              </div>
+              <div class="content content-page">
+                <div class="horario">
+                  <div class="content-hd">Lunes a Sábado</div>
+                  <h4 class="content-content">09:00 - 12:00 hrs</h4>
+                </div>
+                <div class="valor">
+                  <div class="content-hd">Valor</div>
+                  <h4 class="content-content">$30.000</h4>
+                  <div class="content-span">/ mes</div>
+                </div>
+              </div>
+              <div class="plan-button-container"><a href="https://wa.me/56940207699?text=Hola,%20quiero%20contratar%20el%20plan%20Full%20AM" target="_blank" class="plan-page-cta-button w-button" id="boton-whatsapp-plan-am"><img class="img-whatsapp" src="../images/whatsapp_icon.svg">Contratar via Whatsapp</a></div>
+            </div>
+          </div>
+
+          <div class="plan-card">
+            <div class="mini-data">
+              <div class="card-heading">
+                <div class="title">
+                  <h1 class="title-card clipped">Plan Full AM</h1>
+                  <h5 class="title-card-type">Mensual</h5>
+                </div>
+              </div>
+              <div class="plan-text">Especial para quienes entrenan de mañana pero no necesariamente madrugan. Puedes reservar una hora dentro de la mañana.</div>
+              <div class="content content-page">
+                <div class="horario">
+                  <div class="content-hd">Lunes a Sábado</div>
+                  <h4 class="content-content">09:00 - 12:00 hrs</h4>
+                </div>
+                <div class="valor">
+                  <div class="content-hd">Valor</div>
+                  <h4 class="content-content">$30.000</h4>
+                  <div class="content-span">/ mes</div>
+                </div>
+              </div>
+              <div class="plan-button-container"><a href="https://wa.me/56940207699?text=Hola,%20quiero%20contratar%20el%20plan%20Full%20AM" target="_blank" class="plan-page-cta-button w-button" id="boton-whatsapp-plan-am"><img class="img-whatsapp" src="../images/whatsapp_icon.svg">Contratar via Whatsapp</a></div>
+            </div>
+          </div>
+
+        </div>
+
+        <div class="plan-card-mini-wrapper">
+
+          <div class="plan-card">
+            <div class="mini-data">
+              <div class="card-heading">
+                <div class="title">
+                  <h1 class="title-card clipped">Plan 12 Sesiones</h1>
+                  <h5 class="title-card-type">Mensual</h5>
+                </div>
+              </div>
+              <div class="plan-text">Especial para quienes entrenan de mañana pero no necesariamente madrugan. Puedes reservar una hora dentro de la mañana.</div>
+              <div class="content content-page">
+                <div class="horario">
+                  <div class="content-hd">Lunes a Sábado</div>
+                  <h4 class="content-content">09:00 - 12:00 hrs</h4>
+                </div>
+                <div class="valor">
+                  <div class="content-hd">Valor</div>
+                  <h4 class="content-content">$30.000</h4>
+                  <div class="content-span">/ mes</div>
+                </div>
+              </div>
+              <div class="plan-button-container"><a href="https://wa.me/56940207699?text=Hola,%20quiero%20contratar%20el%20plan%20Full%20AM" target="_blank" class="plan-page-cta-button w-button" id="boton-whatsapp-plan-am"><img class="img-whatsapp" src="../images/whatsapp_icon.svg">Contratar via Whatsapp</a></div>
+            </div>
+          </div>
+
+          <div class="plan-card">
+            <div class="mini-data">
+              <div class="card-heading">
+                <div class="title">
+                  <h1 class="title-card clipped">Plan 8 Sesiones</h1>
+                  <h5 class="title-card-type">Mensual</h5>
+                </div>
+              </div>
+              <div class="plan-text">Especial para quienes entrenan de mañana pero no necesariamente madrugan. Puedes reservar una hora dentro de la mañana.</div>
+              <div class="content content-page">
+                <div class="horario">
+                  <div class="content-hd">Lunes a Sábado</div>
+                  <h4 class="content-content">09:00 - 12:00 hrs</h4>
+                </div>
+                <div class="valor">
+                  <div class="content-hd">Valor</div>
+                  <h4 class="content-content">$30.000</h4>
+                  <div class="content-span">/ mes</div>
+                </div>
+              </div>
+              <div class="plan-button-container"><a href="https://wa.me/56940207699?text=Hola,%20quiero%20contratar%20el%20plan%20Full%20AM" target="_blank" class="plan-page-cta-button w-button" id="boton-whatsapp-plan-am"><img class="img-whatsapp" src="../images/whatsapp_icon.svg">Contratar via Whatsapp</a></div>
+            </div>
+          </div>
+
+        </div>
+
+        <div class="plan-card-mini-wrapper">
+
+          <div class="plan-card">
+            <div class="mini-data">
+              <div class="card-heading">
+                <div class="title">
+                  <h1 class="title-card clipped">Plan Kids</h1>
+                  <h5 class="title-card-type">Mensual</h5>
+                </div>
+              </div>
+              <div class="plan-text">Especial para quienes entrenan de mañana pero no necesariamente madrugan. Puedes reservar una hora dentro de la mañana.</div>
+              <div class="content content-page">
+                <div class="horario">
+                  <div class="content-hd">Lunes a Sábado</div>
+                  <h4 class="content-content">09:00 - 12:00 hrs</h4>
+                </div>
+                <div class="valor">
+                  <div class="content-hd">Valor</div>
+                  <h4 class="content-content">$30.000</h4>
+                  <div class="content-span">/ mes</div>
+                </div>
+              </div>
+              <div class="plan-button-container"><a href="https://wa.me/56940207699?text=Hola,%20quiero%20contratar%20el%20plan%20Full%20AM" target="_blank" class="plan-page-cta-button w-button" id="boton-whatsapp-plan-am"><img class="img-whatsapp" src="../images/whatsapp_icon.svg">Contratar via Whatsapp</a></div>
+            </div>
+          </div>
+
+          <div class="plan-card">
+            <div class="mini-data">
+              <div class="card-heading">
+                <div class="title">
+                  <h1 class="title-card clipped">Plan AM</h1>
+                  <h5 class="title-card-type">Mensual</h5>
+                </div>
+              </div>
+              <div class="plan-text">Especial para quienes entrenan de mañana pero no necesariamente madrugan. Puedes reservar una hora dentro de la mañana.</div>
+              <div class="content content-page">
+                <div class="horario">
+                  <div class="content-hd">Lunes a Sábado</div>
+                  <h4 class="content-content">09:00 - 12:00 hrs</h4>
+                </div>
+                <div class="valor">
+                  <div class="content-hd">Valor</div>
+                  <h4 class="content-content">$30.000</h4>
+                  <div class="content-span">/ mes</div>
+                </div>
+              </div>
+              <div class="plan-button-container"><a href="https://wa.me/56940207699?text=Hola,%20quiero%20contratar%20el%20plan%20Full%20AM" target="_blank" class="plan-page-cta-button w-button" id="boton-whatsapp-plan-am"><img class="img-whatsapp" src="../images/whatsapp_icon.svg">Contratar via Whatsapp</a></div>
+            </div>
+          </div>
+
+        </div>
+
+        <div class="plan-card-mini-wrapper">
+
+          <div class="plan-card">
+            <div class="mini-data">
+              <div class="card-heading">
+                <div class="title">
+                  <h1 class="title-card clipped">Plan Weekend</h1>
+                  <h5 class="title-card-type">Mensual</h5>
+                </div>
+              </div>
+              <div class="plan-text">Especial para quienes entrenan de mañana pero no necesariamente madrugan. Puedes reservar una hora dentro de la mañana.</div>
+              <div class="content content-page">
+                <div class="horario">
+                  <div class="content-hd">Lunes a Sábado</div>
+                  <h4 class="content-content">09:00 - 12:00 hrs</h4>
+                </div>
+                <div class="valor">
+                  <div class="content-hd">Valor</div>
+                  <h4 class="content-content">$30.000</h4>
+                  <div class="content-span">/ mes</div>
+                </div>
+              </div>
+              <div class="plan-button-container"><a href="https://wa.me/56940207699?text=Hola,%20quiero%20contratar%20el%20plan%20Full%20AM" target="_blank" class="plan-page-cta-button w-button" id="boton-whatsapp-plan-am"><img class="img-whatsapp" src="../images/whatsapp_icon.svg">Contratar via Whatsapp</a></div>
+            </div>
+          </div>
+
+          <div class="plan-card">
+            <div class="mini-data">
+              <div class="card-heading">
+                <div class="title">
+                  <h1 class="title-card clipped">Pase Diario</h1>
+                  <h5 class="title-card-type">Mensual</h5>
+                </div>
+              </div>
+              <div class="plan-text">Especial para quienes entrenan de mañana pero no necesariamente madrugan. Puedes reservar una hora dentro de la mañana.</div>
+              <div class="content content-page">
+                <div class="horario">
+                  <div class="content-hd">Lunes a Sábado</div>
+                  <h4 class="content-content">09:00 - 12:00 hrs</h4>
+                </div>
+                <div class="valor">
+                  <div class="content-hd">Valor</div>
+                  <h4 class="content-content">$30.000</h4>
+                  <div class="content-span">/ mes</div>
+                </div>
+              </div>
+              <div class="plan-button-container"><a href="https://wa.me/56940207699?text=Hola,%20quiero%20contratar%20el%20plan%20Full%20AM" target="_blank" class="plan-page-cta-button w-button" id="boton-whatsapp-plan-am"><img class="img-whatsapp" src="../images/whatsapp_icon.svg">Contratar via Whatsapp</a></div>
+            </div>
+          </div>
+
+        </div>
+
+        
+
+        {{-- <div class="plan-card plan-card-special">
           <div class="plan-card-data">
             <div class="card-heading">
               <div class="title">
@@ -304,7 +579,7 @@
             <div class="plan-button-container">
               <a href="https://wa.me/56940207699?text=Hola,%20quiero%20contratar%20el%20plan%2012%20Sesiones" target="_blank" class="plan-page-cta-button w-button" id="boton-whatsapp-plan-12"><img class="img-whatsapp" src="../images/whatsapp_icon.svg">Contratar via Whatsapp</a></div>
           </div>
-        </div>
+        </div> --}}
 
       </div>
 

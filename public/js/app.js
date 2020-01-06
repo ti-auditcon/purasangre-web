@@ -12,23 +12,25 @@ $(function(){
        $('.box-loading img').addClass('d-none');
    }, 800);
 
-    $(window).scroll(function() {
+
+  //  Funcion Scroll Promo
+   $(window).scroll(function() {
       var scroll = $(window).scrollTop();
+
       if (scroll >= 500) {
-        $('header.main-header').addClass('darkHeader fadeInDown');
+        // $('header.main-header').addClass('darkHeader fadeInDown');
 
         if (sessionStorage.getItem('wasVisited') !== "yes") {
-            //
-            // sessionStorage.setItem('wasVisited', 1);
             $('.promo').css({
               'display': 'block'
             });
             $('.promo').addClass('fadeInUp');
         } else {
-            //
+          //
         }
+
       } else {
-        $('header.main-header').removeClass('darkHeader fadeInDown');
+        // $('header.main-header').removeClass('darkHeader fadeInDown');
       }
     });
 
@@ -42,7 +44,7 @@ $(function(){
         });
       }, 300);
     });
-
+  
     $('.button-promo').click(function(){
       sessionStorage.setItem("wasVisited", "yes");
       $('.promo').removeClass('fadeInUp');
@@ -54,9 +56,66 @@ $(function(){
       }, 1000);
     });
 
-  });
 
-// Validaciones
+
+    // Funcion Scroll Header
+    var didScroll;
+    var lastScrollTop = 0;
+    var delta = 5;
+    var navbarHeight = $('.main-header').outerHeight();
+
+    $(window).scroll(function(event){
+      didScroll = true;
+    });
+
+    setInterval(function() {
+        if (didScroll) {
+            hasScrolled();
+            didScroll = false;
+        }
+    }, 250);
+
+    function hasScrolled() {
+        var st = $(this).scrollTop();
+        
+        
+        if (st > 500) {
+          // Make sure they scroll more than delta
+          if(Math.abs(lastScrollTop - st) <= delta)
+              return;
+            
+              // If they scrolled down and are past the navbar, add class .nav-up.
+              // This is necessary so you never see what is "behind" the navbar.
+            if (st > lastScrollTop && st > navbarHeight){
+              // Scroll Down: hacia abajo
+              // $('header.main-header').addClass('darkHeader');
+              // $('header.main-header').addClass('fadeInDown');
+              $('header.main-header').removeClass('fadeInDown inDown');
+              $('.darkHeader').addClass('outUp');
+            } else {
+              // Scroll Up: hacia arriba
+              // $('.darkHeader').removeClass('fadeInDown').addClass('fadeInUp');
+              // $('header.main-header').addClass('fadeInUp');
+              $('header.main-header').addClass('darkHeader');
+              $('.darkHeader').addClass('inDown');
+              $('.darkHeader').removeClass('outUp');
+              if(st + $(window).height() < $(document).height()) {
+                  // $('.darkHeader').removeClass('fadeInUp').addClass('fadeInDown');
+              }
+          }
+
+        } else {
+          $('header.main-header').removeClass('darkHeader outUp inDown');
+        }
+        
+        lastScrollTop = st;
+    }
+
+});
+
+
+
+  // :::: Validaciones Correo ::::
   var testEmail = /^[A-Z0-9._%+-]+@([A-Z0-9-]+\.)+[A-Z]{2,4}$/i;
   var correo = $(".input-mail").val();
 
