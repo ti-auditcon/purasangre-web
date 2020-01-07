@@ -23,6 +23,10 @@ Route::get('/crossfit', function () {
     return view('crossfit');
 });
 
+Route::get('/frenetik', function () {
+    return view('frenetik');
+});
+
 Route::get('/planes', function () {
     return view('planes');
 });

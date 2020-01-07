@@ -1,9 +1,5 @@
 $(function(){
 
-  // var prom = true;
-  // sessionStorage.setItem("promo", prom);
-  // sessionStorage.getItem("promo");
-
   $(document).ready(function() {
 
     setTimeout(function() {
@@ -18,7 +14,6 @@ $(function(){
       var scroll = $(window).scrollTop();
 
       if (scroll >= 500) {
-        // $('header.main-header').addClass('darkHeader fadeInDown');
 
         if (sessionStorage.getItem('wasVisited') !== "yes") {
             $('.promo').css({
@@ -26,11 +21,9 @@ $(function(){
             });
             $('.promo').addClass('fadeInUp');
         } else {
-          //
         }
 
       } else {
-        // $('header.main-header').removeClass('darkHeader fadeInDown');
       }
     });
 
@@ -80,27 +73,17 @@ $(function(){
         
         
         if (st > 500) {
-          // Make sure they scroll more than delta
           if(Math.abs(lastScrollTop - st) <= delta)
               return;
             
-              // If they scrolled down and are past the navbar, add class .nav-up.
-              // This is necessary so you never see what is "behind" the navbar.
             if (st > lastScrollTop && st > navbarHeight){
-              // Scroll Down: hacia abajo
-              // $('header.main-header').addClass('darkHeader');
-              // $('header.main-header').addClass('fadeInDown');
               $('header.main-header').removeClass('fadeInDown inDown');
               $('.darkHeader').addClass('outUp');
             } else {
-              // Scroll Up: hacia arriba
-              // $('.darkHeader').removeClass('fadeInDown').addClass('fadeInUp');
-              // $('header.main-header').addClass('fadeInUp');
               $('header.main-header').addClass('darkHeader');
               $('.darkHeader').addClass('inDown');
               $('.darkHeader').removeClass('outUp');
               if(st + $(window).height() < $(document).height()) {
-                  // $('.darkHeader').removeClass('fadeInUp').addClass('fadeInDown');
               }
           }
 

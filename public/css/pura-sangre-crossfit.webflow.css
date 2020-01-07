@@ -450,7 +450,7 @@ div#fb-root {
 }
 
 .menu-container {
-  margin-top: -36px;
+  margin-top: -20px;
 }
 
 /* @media screen and (max-width: 991px) {
@@ -1992,113 +1992,7 @@ div#fb-root {
   line-height: 26px;
 }
 
-.horarios {
-  width: 100%;
-  max-width: 1320px;
-  margin-right: auto;
-  margin-left: auto;
-  padding: 78px 62px;
-}
-
-.horario-table {
-  display: -ms-grid;
-  display: grid;
-  -webkit-box-pack: stretch;
-  -webkit-justify-content: stretch;
-  -ms-flex-pack: stretch;
-  justify-content: stretch;
-  justify-items: center;
-  -webkit-box-align: center;
-  -webkit-align-items: center;
-  -ms-flex-align: center;
-  align-items: center;
-  -webkit-align-content: stretch;
-  -ms-flex-line-pack: stretch;
-  align-content: stretch;
-  grid-auto-columns: 1fr;
-  grid-column-gap: 3px;
-  grid-row-gap: 3px;
-  grid-template-areas: ".";
-  -ms-grid-columns: 1fr 3px 1fr 3px 1fr 3px 1fr 3px 1fr 3px 1fr 3px 1fr;
-  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
-  -ms-grid-rows: auto 3px auto 3px auto 3px auto 3px auto 3px auto 3px auto 3px auto 3px auto 3px auto 3px auto 3px auto;
-  grid-template-rows: auto auto auto auto auto auto auto auto auto auto auto auto;
-}
-
-.item-horario {
-  width: 100%;
-  height: 100%;
-  padding-top: 6px;
-  padding-bottom: 6px;
-  -webkit-align-self: center;
-  -ms-flex-item-align: center;
-  -ms-grid-row-align: center;
-  align-self: center;
-  text-align: center;
-}
-
-.item-horario.horario-header {
-  border-top: 1px solid #000;
-  border-bottom: 1px solid #000;
-}
-
-.item-horario.horario-item-header {
-  border-top: 0px none #000;
-  border-bottom: 0px none #000;
-  background-color: #4f4f4f;
-}
-
-.item-horario.item-with-content {
-  -webkit-align-self: center;
-  -ms-flex-item-align: center;
-  -ms-grid-row-align: center;
-  align-self: center;
-  background-color: #00bfc9;
-}
-
-.item-horario.item-hour {
-  background-color: #b3b3b3;
-}
-
-.horario-title {
-  color: #fff;
-  font-size: 17px;
-  letter-spacing: -0.01em;
-}
-
-.horario-item-content {
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
-  width: 100%;
-  height: 100%;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-  -webkit-flex-direction: column;
-  -ms-flex-direction: column;
-  flex-direction: column;
-  -webkit-box-pack: center;
-  -webkit-justify-content: center;
-  -ms-flex-pack: center;
-  justify-content: center;
-  -webkit-box-align: center;
-  -webkit-align-items: center;
-  -ms-flex-align: center;
-  align-items: center;
-  color: #fff;
-  font-size: 15px;
-  font-weight: 500;
-  text-align: center;
-  letter-spacing: -0.01em;
-}
-
-.horario-item-hora {
-  margin-top: 15px;
-  margin-bottom: 15px;
-  color: #000;
-  font-size: 16px;
-}
+.horaios-wrapper
 
 .disciplinas-wrapper {
   display: -webkit-box;
@@ -3628,9 +3522,6 @@ div#fb-root {
     -ms-flex-item-align: end;
     align-self: flex-end;
   }
-  .horarios {
-    padding: 42px 34px;
-  }
   .horario-table {
     display: none;
   }
@@ -4170,10 +4061,6 @@ div#fb-root {
   .checklist-item {
     line-height: 22px;
   }
-  .horarios {
-    padding-right: 20px;
-    padding-left: 20px;
-  }
   .disciplinas-wrapper {
     margin-top: 28px;
     -webkit-box-orient: horizontal;
@@ -4303,6 +4190,61 @@ div#fb-root {
   .text-block-10 {
     margin-top: 5px;
   }
+}
+
+
+.horarios-wrapper {
+  padding: 36px 20px 21px;
+}
+
+.horarios-wrapper .cat-wrapper {
+  display: flex;
+  width: 100%;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: center;
+  margin-bottom: 28px;
+}
+
+.horarios-wrapper .cat-wrapper .cat {
+  width: 50%;
+  margin-bottom: 6px;
+}
+
+.horarios-wrapper .cat-wrapper .cat .color {
+  width: 30px;
+  height: 20px;
+  /* background-color: black; */
+  display: inline-block;
+  margin-right: 4px;
+}
+
+.horarios-wrapper .cat-wrapper .crossfit .color {
+  background-color: #2D9CDB;
+}
+.horarios-wrapper .cat-wrapper .frenetik .color {
+  background-color: #EE0E8B;
+}
+.horarios-wrapper .cat-wrapper .kids .color {
+  background-color: #46BE1C;
+}
+.horarios-wrapper .cat-wrapper .barbell .color {
+  background-color: #0B788F;
+}
+.horarios-wrapper .cat-wrapper .obox .color {
+  background-color: #004373;
+}
+
+.horarios-wrapper .cat-wrapper .cat h4 {
+  margin: 0;
+  display: inline-block;
+  /* margin-bottom: 2px; */
+  font-size: 16px;
+  /* vertical-align: middle; */
+}
+
+.horarios-wrapper .horarios {
+
 }
 
 #w-node-1941aa1cafe3-aa1cafe1 {
