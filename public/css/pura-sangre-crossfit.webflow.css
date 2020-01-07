@@ -4240,12 +4240,101 @@ div#fb-root {
   display: inline-block;
   /* margin-bottom: 2px; */
   font-size: 16px;
-  /* vertical-align: middle; */
 }
 
 .horarios-wrapper .horarios {
 
 }
+
+.horarios-wrapper .horarios .day-wrapper {
+  margin-bottom: 16px;
+  display: grid;
+  grid-row-gap: 6px;
+  height: 64px;
+  overflow: hidden;
+}
+
+.horarios-wrapper .horarios .day-wrapper .item {
+  color: white;
+  padding: 18px 20px;
+}
+
+.horarios-wrapper .horarios .day-wrapper .item p {
+  margin: 0
+}
+
+.horarios-wrapper .horarios .day-wrapper .item h5 {
+  margin: 0
+}
+
+.horarios-wrapper .horarios .day-wrapper .item-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-column-gap: 6px;
+  width: 100%;
+}
+
+.horarios-wrapper .horarios .day-wrapper .day {
+  background-color: #3C3C3C;
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}
+
+.horarios-wrapper .horarios .day-wrapper .day h4 {
+  margin: 0;
+  font-size: 16px;
+}
+
+.horarios-wrapper .horarios .day-wrapper .day img {
+  width: 20px;
+}
+
+.horarios-wrapper .horarios .day-wrapper .crossfit {
+  background-color: #2D9CDB;
+}
+.horarios-wrapper .horarios .day-wrapper .frenetik {
+  background-color: #EE0E8B;
+}
+.horarios-wrapper .horarios .day-wrapper .kids {
+  background-color: #46BE1C;
+}
+.horarios-wrapper .horarios .day-wrapper .barbell {
+  background-color: #0B788F;
+}
+.horarios-wrapper .horarios .day-wrapper .obox {
+  background-color: #004373;
+}
+.horarios-wrapper .horarios .day-wrapper .void {
+  display: none;
+  background-color: #EAF4FA;
+}
+
+.horarios-wrapper .horarios .lav {}
+
+.horarios-wrapper .horarios .sab {}
+
+.horarios-wrapper .horarios .dom {}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #w-node-1941aa1cafe3-aa1cafe1 {
   -ms-grid-column: 1;

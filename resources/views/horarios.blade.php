@@ -47,126 +47,130 @@
     <div class="horarios">
       {{-- Lunes A Viernes --}}
       <div class="day-wrapper lav">
-        <div class="item day">Lunes a Viernes</div>
-        <div class="item">
+        <div class="item day">
+          <h4>Lunes a Viernes</h4>
+          <img src="images/arrow-down.svg">
+        </div>
+        <div class="item crossfit">
           <p>07:00 - 08:00 hrs</p>
           <h5>CrossFit</h5>
         </div>
-        <div class="item">
+        <div class="item crossfit">
           <p>08:00 - 09:00 hrs</p>
           <h5>CrossFit</h5>
         </div>
-        <div class="item">
+        <div class="item crossfit">
           <p>09:00 - 10:00 hrs</p>
           <h5>CrossFit</h5>
         </div>
         <div class="item-grid">
-          <div class="item">
+          <div class="item crossfit">
             <p>10:00 - 11:00 hrs</p>
             <h5>CrossFit</h5>
           </div>
-          <div class="item">
+          <div class="item frenetik">
             <p>10:00 - 11:00 hrs</p>
             <h5>Frenetik</h5>
           </div>
         </div>
-        <div class="item">
+        <div class="item kids">
           <p>11:00 - 12:00 hrs</p>
           <h5>Kids</h5>
         </div>
-        <div class="item">
+        <div class="item crossfit">
           <p>12:00 - 13:00 hrs</p>
           <h5>CrossFit</h5>
         </div>
-        <div class="item">
+        <div class="item crossfit">
           <p>13:15 - 14:15 hrs</p>
           <h5>CrossFit</h5>
         </div>
-        <div class="item">
+        <div class="item crossfit">
           <p>16:00 - 17:00 hrs</p>
           <h5>CrossFit</h5>
         </div>
-        <div class="item">
+        <div class="item crossfit">
           <p>17:00 - 18:00 hrs</p>
           <h5>CrossFit</h5>
         </div>
         <div class="item-grid">
-          <div class="item">
+          <div class="item crossfit">
             <p>18:00 - 19:00 hrs</p>
             <h5>CrossFit</h5>
           </div>
-          <div class="item">
+          <div class="item frenetik">
             <p>18:30 - 19:30 hrs</p>
             <h5>Frenetik</h5>
           </div>
         </div>
         <div class="item-grid">
-          <div class="item">
+          <div class="item crossfit">
             <p>19:00 - 20:00 hrs</p>
             <h5>CrossFit</h5>
           </div>
-          <div class="item">
+          <div class="item frenetik">
             <p>19:30 - 20:30 hrs</p>
             <h5>Frenetik</h5>
           </div>
         </div>
-        <div class="item">
+        <div class="item crossfit">
           <p>20:00 - 21:00 hrs</p>
           <h5>CrossFit</h5>
         </div>
-        <div class="item">
+        <div class="item crossfit">
           <p>21:00 - 22:00 hrs</p>
           <h5>CrossFit</h5>
         </div>
       </div>
       {{-- Sábados --}}
       <div class="day-wrapper sab">
-        <div class="item day">Sábados</div>
-        <div class="item">
-
+        <div class="item day">
+          <h4>Sábados</h4>
+          <img src="images/arrow-down.svg">
         </div>
-        <div class="item">
+        <div class="item void"></div>
+        <div class="item barbell">
           <p>08:30 - 10:00 hrs</p>
           <h5>Barbell</h5>
         </div>
-        <div class="item">
+        <div class="item crossfit">
           <p>10:00 - 11:00 hrs</p>
           <h5>CrossFit</h5>
         </div>
-        <div class="item">
+        <div class="item crossfit">
           <p>11:00 - 12:00 hrs</p>
           <h5>CrossFit</h5>
         </div>
-        <div class="item">
+        <div class="item crossfit">
           <p>12:00 - 13:00 hrs</p>
           <h5>CrossFit</h5>
         </div>
-        <div class="item">
-
-        </div>
+        <div class="item void"></div>
       </div>
       {{-- Domingos --}}
       <div class="day-wrapper dom">
-        <div class="item day">Domingos</div>
-        <div class="item">
-
+        <div class="item day">
+          <h4>Domingos</h4>
+          <img src="images/arrow-down.svg">
         </div>
-        <div class="item">
+        <div class="item void"></div>
+        <div class="item crossfit">
           <p>09:00 - 10:00 hrs</p>
           <h5>CrossFit</h5>
         </div>
-        <div class="item">
+        <div class="item crossfit">
           <p>10:00 - 11:00 hrs</p>
           <h5>CrossFit</h5>
         </div>
-        <div class="item">
+        <div class="item crossfit">
           <p>11:00 - 12:00 hrs</p>
           <h5>CrossFit</h5>
         </div>
-        <div class="item">
+        <div class="item obox">
           <p>12:00 - 13:00 hrs</p>
           <h5>Open Box</h5>
         </div>
+        <div class="item void"></div>
       </div>
     </div>
 
