@@ -145,7 +145,7 @@
           <p>12:00 - 13:00 hrs</p>
           <h5>CrossFit</h5>
         </div>
-        <div class="item void"></div>
+        <div class="item void void-2"></div>
       </div>
       {{-- Domingos --}}
       <div class="day-wrapper dom">
@@ -170,7 +170,7 @@
           <p>12:00 - 13:00 hrs</p>
           <h5>Open Box</h5>
         </div>
-        <div class="item void"></div>
+        <div class="item void void-2"></div>
       </div>
     </div>
 

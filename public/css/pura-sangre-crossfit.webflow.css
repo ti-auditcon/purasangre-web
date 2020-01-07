@@ -4197,6 +4197,12 @@ div#fb-root {
   padding: 36px 20px 21px;
 }
 
+@media (min-width: 768px){
+  .horarios-wrapper {
+    padding: 48px 60px 21px;
+  }
+}
+
 .horarios-wrapper .cat-wrapper {
   display: flex;
   width: 100%;
@@ -4246,12 +4252,28 @@ div#fb-root {
 
 }
 
+@media (min-width: 1200px) {
+  .horarios-wrapper .horarios {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-column-gap: 12px;
+  }
+}
+
 .horarios-wrapper .horarios .day-wrapper {
-  margin-bottom: 16px;
+  margin-bottom: 10px;
   display: grid;
   grid-row-gap: 6px;
   height: 64px;
   overflow: hidden;
+  /* transition: all ease 0.3s; */
+}
+
+@media (min-width: 1200px) {
+  .horarios-wrapper .horarios .day-wrapper {
+    height: auto;
+    grid-template-rows: 14fr;
+  }
 }
 
 .horarios-wrapper .horarios .day-wrapper .item {
@@ -4281,6 +4303,11 @@ div#fb-root {
   justify-content: space-between;
 }
 
+@media (min-width: 1200px) {
+  .horarios-wrapper .horarios .day-wrapper .day {
+  }
+}
+
 .horarios-wrapper .horarios .day-wrapper .day h4 {
   margin: 0;
   font-size: 16px;
@@ -4288,6 +4315,13 @@ div#fb-root {
 
 .horarios-wrapper .horarios .day-wrapper .day img {
   width: 20px;
+  transition: all ease 0.3s;
+}
+
+@media (min-width: 1200px) {
+  .horarios-wrapper .horarios .day-wrapper .day img {
+    display: none;
+  }
 }
 
 .horarios-wrapper .horarios .day-wrapper .crossfit {
@@ -4310,13 +4344,42 @@ div#fb-root {
   background-color: #EAF4FA;
 }
 
+@media (min-width: 1200px) {
+  .horarios-wrapper .horarios .day-wrapper .void {
+    display: inherit;
+  }
+}
+
 .horarios-wrapper .horarios .lav {}
 
-.horarios-wrapper .horarios .sab {}
+.horarios-wrapper .horarios .sab {
+  grid-template-rows: repeat(14, 1fr);
+}
 
-.horarios-wrapper .horarios .dom {}
+.horarios-wrapper .horarios .sab .barbell {
+  grid-area: 3 / 1 / 5 / 2;
+}
+
+.horarios-wrapper .horarios .sab .void-2 {
+  grid-area: 8 / 1 / 15 / 2;
+}
+
+.horarios-wrapper .horarios .dom {
+  grid-template-rows: repeat(14, 1fr);
+}
+
+.horarios-wrapper .horarios .dom .void {
+  grid-area: 2 / 1 / 4 / 2;
+}
+
+.horarios-wrapper .horarios .dom .void-2 {
+  grid-area: 8 / 1 / 15 / 2;
+}
 
 
+.rotate-arrow {
+  transform: rotate(180deg);
+}
 
 
 
