@@ -11,12 +11,11 @@
         <div data-w-id="0380b759-73f0-6903-6b0a-78083510070a" class="menu-item trigger-dropdown">
           <a href="#" class="link-menu link-info w-inline-block">
             <div class="text-menu">Info</div>
-
           </a>
           <div data-w-id="0380b759-73f0-6903-6b0a-78083510070c" class="dropdown-content">
-            <a href="{{url('/crossfit')}}" class="link-menu dropdown-link-menu w-inline-block">
+            {{-- <a href="{{url('/crossfit')}}" class="link-menu dropdown-link-menu w-inline-block">
               <div class="text-menu">¿Qué es el CrossFit?</div>
-            </a>
+            </a> --}}
             <a href="{{url('/conocenos')}}" class="link-menu dropdown-link-menu w-inline-block">
               <div class="text-menu">Conócenos</div>
             </a>
@@ -32,11 +31,21 @@
           </div>
         </div>
         <div class="menu-item fix-item-space">
+          <a href="{{url('/crossfit')}}" class="link-menu w-inline-block">
+            <div class="text-menu">CrossFit</div>
+          </a>
+        </div>
+        <div class="menu-item fix-item-space">
+          <a href="{{url('/frenetik')}}" class="link-menu w-inline-block">
+            <div class="text-menu">Frenetik</div>
+          </a>
+        </div>
+        <div class="menu-item fix-item-space">
           <a href="{{url('/contacto')}}" class="link-menu w-inline-block">
             <div class="text-menu">Contacto</div>
           </a>
         </div>
-        <div class="cta-header"><a href="{{url('/prueba')}}" class="green-button w-button" id="boton-whatsapp-cabecera">3 Clases gratis</a></div>
+        {{-- <div class="cta-header"><a href="{{url('/prueba')}}" class="green-button w-button" id="boton-whatsapp-cabecera">3 Clases gratis</a></div> --}}
       </div>
     </div>
     <div data-w-id="702cdd04-7f6a-85e1-8296-a87f85ac7f47" class="hamburger-container"><img src="images/hamburger.svg" alt="" class="hamburger"></div>

@@ -60,7 +60,7 @@
         <div id="w-node-0703020e6b19-b4aeb525" class="card-promo card-promo-bg1">
           <div id="w-node-964fde077025-b4aeb525" class="card-promo-heading">
             <div class="title-promo">
-              <h1 class="title-card-promo clipped special-title-card">Plan Full Fit</h1>
+              <h1 class="title-card-promo clipped special-title-card">Plan Extra Full</h1>
               <h5 class="title-card-type-promo">Mensual</h5>
             </div>
             <div class="featured-promo">
@@ -80,7 +80,7 @@
         <div id="w-node-92fdd296f840-b4aeb525" class="card-promo card-promo-bg-2">
           <div id="w-node-92fdd296f841-b4aeb525" class="card-promo-heading">
             <div class="title-promo">
-              <h1 class="title-card-promo clipped">Plan 12 Sesiones</h1>
+              <h1 class="title-card-promo clipped">Plan Full</h1>
               <h5 class="title-card-type-promo">Mensual</h5>
             </div>
           </div>
@@ -98,7 +98,7 @@
         <div id="w-node-2b1b2970c38a-b4aeb525" class="card-promo card-promo-bg-3">
           <div id="w-node-2b1b2970c38b-b4aeb525" class="card-promo-heading">
             <div class="title-promo">
-              <h1 class="title-card-promo clipped">Plan Full AM</h1>
+              <h1 class="title-card-promo clipped">Plan Estudiante</h1>
               <h5 class="title-card-type-promo">Mensual</h5>
             </div>
           </div>
@@ -116,7 +116,7 @@
         <div id="w-node-1c4644ce1979-b4aeb525" class="card-promo card-promo-bg-4">
           <div id="w-node-1c4644ce197a-b4aeb525" class="card-promo-heading">
             <div class="title-promo">
-              <h1 class="title-card-promo clipped">Plan Estudiantes</h1>
+              <h1 class="title-card-promo clipped">Plan Full AM</h1>
               <h5 class="title-card-type-promo">Mensual</h5>
             </div>
           </div>
@@ -132,7 +132,9 @@
             </div>
           </div><a href="https://wa.me/56940207699?text=Hola,%20quiero%20contratar%20el%20plan%20Estudiantes" id="boton-whatsapp-plan-estudiantes" target="_blank" class="plan-page-cta-button w-button"><img class="img-whatsapp" src="../images/whatsapp_icon.svg">Contratar via Whatsapp</a><a id="w-node-eb463b4ab61d-b4aeb525" href="{{url('/planes')}}" class="plan-page-cta-button w-button">Más Info</a></div>
       </div>
-      <div class="div-block cta-planes-home"><a href="{{url('/planes')}}" class="button green-button w-button">Más info sobre planes</a></div>
+      <div class="div-block cta-planes-home">
+        <a href="{{url('/planes')}}" class="button green-button w-button">Ver todos los planes</a>
+      </div>
     </div>
   </section>
 
@@ -149,14 +151,14 @@
           <div class="checklist-item-wrapper"><img src="images/check-icon-inv.svg" alt="" class="check-icon">
             <div class="checklist-item">Reservar clases y conocer tu asistencia</div>
           </div>
+          <div class="checklist-item-wrapper"><img src="images/check-icon-inv.svg" id="w-node-5d72265f089f-4eaaa2ee" alt="" class="check-icon">
+            <div id="w-node-5d72265f08a0-4eaaa2ee" class="checklist-item">Contratar planes y pagar con todo medio de pago</div>
+          </div>
           <div class="checklist-item-wrapper"><img src="images/check-icon-inv.svg" alt="" class="check-icon">
             <div class="checklist-item">Ver el workout del día y quienes asistirán</div>
           </div>
           <div class="checklist-item-wrapper"><img src="images/check-icon-inv.svg" id="w-node-5d72265f089b-4eaaa2ee" alt="" class="check-icon">
             <div id="w-node-5d72265f089c-4eaaa2ee" class="checklist-item">Revisar historial de pagos e información de tu plan</div>
-          </div>
-          <div class="checklist-item-wrapper"><img src="images/check-icon-inv.svg" id="w-node-5d72265f089f-4eaaa2ee" alt="" class="check-icon">
-            <div id="w-node-5d72265f08a0-4eaaa2ee" class="checklist-item">Registrar tus tiempos, pesos y notas de cada clase</div>
           </div>
           <div class="checklist-item-wrapper"><img src="images/check-icon-inv.svg" id="w-node-d363095ca7aa-4eaaa2ee" alt="" class="check-icon">
             <div id="w-node-d363095ca7ab-4eaaa2ee" class="checklist-item">Recibir notificaciones de reservas y noticias del box</div>

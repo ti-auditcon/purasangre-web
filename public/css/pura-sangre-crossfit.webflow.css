@@ -649,7 +649,8 @@ div#fb-root {
 }
 
 .div-block.cta-planes-home {
-  display: none;
+  /* display: none; */
+  margin-top: 38px;
 }
 
 .air-grid {
@@ -2454,7 +2455,7 @@ div#fb-root {
 .menu-item {
   position: relative;
   display: inline-block;
-  min-width: 120px;
+  /* min-width: 120px; */
 }
 
 .menu-item.trigger-dropdown {
@@ -2765,6 +2766,28 @@ div#fb-root {
   padding: 11px 22px;
 }
 
+.menu-item {
+  margin-left: 0;
+}
+
+@media (min-width: 769px) {
+  .menu-item {
+    margin-left: 44px;
+  }
+}
+
+@media (min-width: 990px) {
+  .menu-item {
+    margin-left: 58px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .menu-item {
+    margin-left: 68px;
+  }
+}
+
 @media (max-width: 1300px) {
   .text-block-2 {
     font-size: 18px;
@@ -2800,7 +2823,7 @@ div#fb-root {
 
 @media (max-width: 991px) {
   .logo {
-    width: 100px;
+    width: 80px;
   }
   .planes-heading {
     margin-bottom: 56px;
@@ -3101,7 +3124,7 @@ div#fb-root {
     font-size: 20px;
   }
   .menu-item {
-    min-width: 100px;
+    /* min-width: 100px; */
   }
   .cta-header {
     margin-left: 30px;
@@ -3859,7 +3882,7 @@ div#fb-root {
     padding-bottom: 92px;
   }
   .logo {
-    width: 58px;
+    width: 52px;
   }
   .plan-card-img.plan-img-diario {
     /* background-image: url('../images/_img-pase-diario.jpg'), linear-gradient(180deg, rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)); */
@@ -3941,9 +3964,10 @@ div#fb-root {
     padding-left: 20px;
   }
   .main-header-inner {
-    padding-top: 16px;
+    padding-top: 12px;
     padding-right: 20px;
     padding-left: 20px;
+    padding-bottom: 12px;
   }
   .air-grid {
     padding-top: 0px;
@@ -10513,7 +10537,7 @@ div#fb-root {
   right: 0;
   margin: auto;
   background: white;
-  border-radius: 4px;
+  border-radius: 8px;
   overflow: hidden;
 }
 .app-inner .app-img {
@@ -10527,6 +10551,7 @@ div#fb-root {
 }
 .app-data a:first-child {
   margin-right: 6px;
+  text-decoration: none;
 }
 .app-data h6 {
   margin-bottom: 6px;
@@ -10541,9 +10566,9 @@ div#fb-root {
 }
 .app-data h1 {
   margin-top: 0;
-  margin-bottom: 20px;
+  margin-bottom: 22px;
   font-size: 36px;
-  line-height: 42px;
+  line-height: 100%;
 }
 .app-data p {
   font-size: 15px;
@@ -10576,6 +10601,10 @@ div#fb-root {
 }
 
 @media (max-width: 1300px) {
+  .app-inner .app-data {
+    padding: 46px 50px;
+    width: 95%;
+  }
   .checklist-app {
     width: 80% !important;
   }

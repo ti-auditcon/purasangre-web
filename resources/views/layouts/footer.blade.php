@@ -9,11 +9,11 @@
       </div>
       <div class="info-text">
         <strong>Lunes a Viernes</strong><br>
-        07:00 a 13:00 hrs - 16:00 a 21:00 hrs<br>
+        07:00 a 14:15 hrs - 16:00 a 22:00 hrs<br>
         <strong>Sábados</strong><br>
-        8:30 a 12:00 hrs<br>
+        8:30 a 13:00 hrs<br>
         <strong>Domingos</strong><br>
-        9:00 a 11:00 hrs
+        9:00 a 13:00 hrs
       </div>
     </div>
     <div id="w-node-1941aa1caff2-aa1cafe1" class="images">

@@ -64,14 +64,14 @@
             <div class="checklist-item-wrapper"><img src="images/check-icon-inv.svg" alt="" class="check-icon">
               <div class="checklist-item">Reservar clases y conocer tu asistencia</div>
             </div>
+            <div class="checklist-item-wrapper"><img src="images/check-icon-inv.svg" id="w-node-5d72265f089f-4eaaa2ee" alt="" class="check-icon">
+              <div id="w-node-5d72265f08a0-4eaaa2ee" class="checklist-item">Contratar planes y pagar con todo medio de pago</div>
+            </div>
             <div class="checklist-item-wrapper"><img src="images/check-icon-inv.svg" alt="" class="check-icon">
               <div class="checklist-item">Ver el workout del día y quienes asistirán</div>
             </div>
             <div class="checklist-item-wrapper"><img src="images/check-icon-inv.svg" id="w-node-5d72265f089b-4eaaa2ee" alt="" class="check-icon">
               <div id="w-node-5d72265f089c-4eaaa2ee" class="checklist-item">Revisar historial de pagos e información de tu plan</div>
-            </div>
-            <div class="checklist-item-wrapper"><img src="images/check-icon-inv.svg" id="w-node-5d72265f089f-4eaaa2ee" alt="" class="check-icon">
-              <div id="w-node-5d72265f08a0-4eaaa2ee" class="checklist-item">Registrar tus tiempos, pesos y notas de cada clase</div>
             </div>
             <div class="checklist-item-wrapper"><img src="images/check-icon-inv.svg" id="w-node-d363095ca7aa-4eaaa2ee" alt="" class="check-icon">
               <div id="w-node-d363095ca7ab-4eaaa2ee" class="checklist-item">Recibir notificaciones de reservas y noticias del box</div>
