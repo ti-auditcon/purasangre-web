@@ -112,13 +112,13 @@ $(function(){
     var newWindowWidth = $(window).width();
     if (newWindowWidth <= 1199) {        
       $(".day-wrapper").on("click", function (){
-        if ($(this).height() == 64) {
+        if ($(this).height() == 60) {
             $(this).find('.day img').addClass('rotate-arrow');
             $(this).animate(
                 {height: "100%"});
             }
         else {
-            $(this).animate({height: "64px"});
+            $(this).animate({height: "60px"});
             $(this).find('.day img').removeClass('rotate-arrow');
         }
       });

@@ -19,7 +19,7 @@
     <div class="air-grid">
       <div class="title-section-wrapper first-title">
         <div class="title-section-wrapper-inner">
-          <img src="" alt="Frenetik logo">
+          <img src="images/frenetik_logo.png" alt="Frenetik logo" class="fl">
           <h1 class="heading title-section clipped">
             HIGH INTENSITY
           </h1>

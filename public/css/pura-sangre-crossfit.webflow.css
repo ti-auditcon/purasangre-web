@@ -1395,10 +1395,121 @@ div#fb-root {
   margin-right: auto;
   margin-left: auto;
   padding: 0px 62px;
+  vertical-align: middle;
+}
+
+.title-section-wrapper-inner img.fl{
+  width: 30px;
+  margin-bottom: 12px;
+  margin-right: 6px;
+}
+
+@media (min-width: 768px) {
+  .title-section-wrapper-inner img.fl{
+    width: 44px;
+    margin-bottom: 23px;
+    margin-right: 10px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .title-section-wrapper-inner img.fl{
+    width: 50px;
+    margin-bottom: 30px;
+    margin-right: 14px;
+  }
+}
+
+@media (min-width: 1301px) {
+  .title-section-wrapper-inner img.fl{
+    width: 56px;
+    margin-bottom: 30px;
+    margin-right: 15px;
+  }
 }
 
 .title-section-wrapper-inner.mg-top-special {
   margin-top: 59px;
+}
+
+.plan-fondo-extra-full {
+  background-image: linear-gradient(180deg, hsla(0, 0%, 100%, .92), 
+  hsla(0, 0%, 100%, .92)), 
+  url(../images/back-test.jpg);
+  background-position: 0px 0px, 50% 50%;
+  background-size: auto, cover;
+}
+
+.plan-fondo-full {
+  background-image: linear-gradient(180deg, hsla(0, 0%, 100%, .92), 
+  hsla(0, 0%, 100%, .92)), 
+  url(../images/back-test.jpg);
+  background-position: 0px 0px, 50% 50%;
+  background-size: auto, cover;
+}
+
+.plan-fondo-estudiantes {
+  background-image: linear-gradient(180deg, hsla(0, 0%, 100%, .92), 
+  hsla(0, 0%, 100%, .92)), 
+  url(../images/back-test.jpg);
+  background-position: 0px 0px, 50% 50%;
+  background-size: auto, cover;
+}
+
+.plan-fondo-full-am {
+  background-image: linear-gradient(180deg, hsla(0, 0%, 100%, .92), 
+  hsla(0, 0%, 100%, .92)), 
+  url(../images/back-test.jpg);
+  background-position: 0px 0px, 50% 50%;
+  background-size: auto, cover;
+}
+
+.plan-fondo-12 {
+  background-image: linear-gradient(180deg, hsla(0, 0%, 100%, .92), 
+  hsla(0, 0%, 100%, .92)), 
+  url(../images/back-test.jpg);
+  background-position: 0px 0px, 50% 50%;
+  background-size: auto, cover;
+}
+
+.plan-fondo-8 {
+  background-image: linear-gradient(180deg, hsla(0, 0%, 100%, .92), 
+  hsla(0, 0%, 100%, .92)), 
+  url(../images/back-test.jpg);
+  background-position: 0px 0px, 50% 50%;
+  background-size: auto, cover;
+}
+
+.plan-fondo-kids {
+  background-image: linear-gradient(180deg, hsla(0, 0%, 100%, .92), 
+  hsla(0, 0%, 100%, .92)), 
+  url(../images/back-test.jpg);
+  background-position: 0px 0px, 50% 50%;
+  background-size: auto, cover;
+}
+
+.plan-fondo-am {
+  background-image: linear-gradient(180deg, hsla(0, 0%, 100%, .92), 
+  hsla(0, 0%, 100%, .92)), 
+  url(../images/back-test.jpg);
+  background-position: 0px 0px, 50% 50%;
+  background-size: auto, cover;
+}
+
+.plan-fondo-weekend {
+  background-image: linear-gradient(180deg, hsla(0, 0%, 100%, .92), 
+  hsla(0, 0%, 100%, .92)), 
+  url(../images/back-test.jpg);
+  background-position: 0px 0px, 50% 50%;
+  background-size: auto, cover;
+}
+
+.plan-fondo-diario {
+  background-image: linear-gradient(180deg, hsla(0, 0%, 100%, .92), 
+  hsla(0, 0%, 100%, .92)), 
+  url(../images/back-test.jpg);
+  background-position: 0px 0px, 50% 50%;
+  background-size: auto, cover;
 }
 
 .subtitle {
@@ -1783,6 +1894,7 @@ div#fb-root {
   border-color: #d6d6d6;
   /* border-radius: 4px; */
   border-radius: 8px;
+  overflow: hidden;
   /* background-image: -webkit-gradient(linear, left top, left bottom, from(#f7f7f7), to(#f7f7f7));
   background-image: linear-gradient(180deg, #f7f7f7, #f7f7f7); */
 }
@@ -1991,8 +2103,6 @@ div#fb-root {
   font-size: 18px;
   line-height: 26px;
 }
-
-.horaios-wrapper
 
 .disciplinas-wrapper {
   display: -webkit-box;
@@ -2658,6 +2768,11 @@ div#fb-root {
 .w-button {
   font-size: 14.5px;
   padding: 11px 22px;
+}
+
+.planes-button {
+  font-size: 16px;
+  padding: 12px 30px;
 }
 
 .menu-item {
@@ -4203,6 +4318,14 @@ div#fb-root {
   }
 }
 
+@media (min-width: 1200px){
+  .horarios-wrapper {
+    padding: 48px 62px 21px;
+    margin: auto;
+    max-width: 1320px;
+  }
+}
+
 .horarios-wrapper .cat-wrapper {
   display: flex;
   width: 100%;
@@ -4210,23 +4333,29 @@ div#fb-root {
   justify-content: flex-start;
   align-items: center;
   margin-bottom: 28px;
+  background-color: #EAF4FA;
+  border-radius: 4px;
+  padding: 22px 22px 16px;
 }
 
 @media (min-width: 1200px) {
   .horarios-wrapper .cat-wrapper {
     justify-content: space-between;
+    padding: 18px 28px;
   }
 }
 
 .horarios-wrapper .cat-wrapper .cat {
   width: 50%;
   margin-bottom: 6px;
+  display: flex;
+  align-items: center;
 }
 
 @media (min-width: 1200px) {
   .horarios-wrapper .cat-wrapper .cat {
     width: auto;
-    margin-bottom: 6px;
+    margin-bottom: 0px;
   }
 }
 
@@ -4235,7 +4364,7 @@ div#fb-root {
   height: 20px;
   /* background-color: black; */
   display: inline-block;
-  margin-right: 4px;
+  margin-right: 8px;
 }
 
 @media (min-width: 1200px) {
@@ -4283,7 +4412,7 @@ div#fb-root {
   margin-bottom: 10px;
   display: grid;
   grid-row-gap: 6px;
-  height: 64px;
+  height: 60px;
   overflow: hidden;
   /* transition: all ease 0.3s; */
 }
@@ -4299,6 +4428,7 @@ div#fb-root {
 .horarios-wrapper .horarios .day-wrapper .item {
   color: white;
   padding: 18px 20px;
+  border-radius: 4px;
 }
 
 .horarios-wrapper .horarios .day-wrapper .item p {
@@ -4333,6 +4463,7 @@ div#fb-root {
   .horarios-wrapper .horarios .day-wrapper .day {
     margin-top: 14px;
     height: 62px;
+    justify-content: center;
   }
 }
 
@@ -4380,30 +4511,32 @@ div#fb-root {
 
 .horarios-wrapper .horarios .lav {}
 
-.horarios-wrapper .horarios .sab {
-  grid-template-rows: repeat(14, 1fr);
+@media (min-width: 1200px) {
+  .horarios-wrapper .horarios .sab {
+    grid-template-rows: repeat(14, 1fr);
+  }
+  
+  .horarios-wrapper .horarios .sab .barbell {
+    grid-area: 3 / 1 / 5 / 2;
+  }
+  
+  .horarios-wrapper .horarios .sab .void-2 {
+    grid-area: 8 / 1 / 15 / 2;
+  }
+  
+  .horarios-wrapper .horarios .dom {
+    grid-template-rows: repeat(14, 1fr);
+  }
+  
+  .horarios-wrapper .horarios .dom .void {
+    grid-area: 2 / 1 / 4 / 2;
+  }
+  
+  .horarios-wrapper .horarios .dom .void-2 {
+    grid-area: 8 / 1 / 15 / 2;
+  }
+  
 }
-
-.horarios-wrapper .horarios .sab .barbell {
-  grid-area: 3 / 1 / 5 / 2;
-}
-
-.horarios-wrapper .horarios .sab .void-2 {
-  grid-area: 8 / 1 / 15 / 2;
-}
-
-.horarios-wrapper .horarios .dom {
-  grid-template-rows: repeat(14, 1fr);
-}
-
-.horarios-wrapper .horarios .dom .void {
-  grid-area: 2 / 1 / 4 / 2;
-}
-
-.horarios-wrapper .horarios .dom .void-2 {
-  grid-area: 8 / 1 / 15 / 2;
-}
-
 
 .rotate-arrow {
   transform: rotate(180deg);

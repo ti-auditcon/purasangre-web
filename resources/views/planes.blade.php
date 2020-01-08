@@ -35,7 +35,7 @@
         <div class="plan-card-mini-wrapper">
 
           <div class="plan-card plan-card-special">
-            <div class="plan-card-data">
+            <div class="plan-card-data plan-fondo-extra-full">
               <div class="card-heading">
                 <div class="title">
                   <h1 class="title-card clipped special-title-card">Plan Extra Full</h1>
@@ -67,7 +67,7 @@
           </div>
 
           <div class="plan-card">
-            <div class="mini-data">
+            <div class="mini-data plan-fondo-full">
               <div class="card-heading">
                 <div class="title">
                   <h1 class="title-card clipped">Plan Full</h1>
@@ -97,7 +97,7 @@
         <div class="plan-card-mini-wrapper">
 
           <div class="plan-card">
-            <div class="mini-data">
+            <div class="mini-data plan-fondo-estudiantes">
               <div class="card-heading">
                 <div class="title">
                   <h1 class="title-card clipped">Plan Estudiantes</h1>
@@ -123,7 +123,7 @@
           </div>
 
           <div class="plan-card">
-            <div class="mini-data">
+            <div class="mini-data plan-fondo-full-am">
               <div class="card-heading">
                 <div class="title">
                   <h1 class="title-card clipped">Plan Full AM</h1>
@@ -151,7 +151,7 @@
         <div class="plan-card-mini-wrapper">
 
           <div class="plan-card">
-            <div class="mini-data">
+            <div class="mini-data plan-fondo-12">
               <div class="card-heading">
                 <div class="title">
                   <h1 class="title-card clipped">Plan 12 Sesiones</h1>
@@ -175,7 +175,7 @@
           </div>
 
           <div class="plan-card">
-            <div class="mini-data">
+            <div class="mini-data plan-fondo-8">
               <div class="card-heading">
                 <div class="title">
                   <h1 class="title-card clipped">Plan 8 Sesiones</h1>
@@ -203,7 +203,7 @@
         <div class="plan-card-mini-wrapper">
 
           <div class="plan-card">
-            <div class="mini-data">
+            <div class="mini-data plan-fondo-kids">
               <div class="card-heading">
                 <div class="title">
                   <h1 class="title-card clipped">Plan Kids</h1>
@@ -227,7 +227,7 @@
           </div>
 
           <div class="plan-card">
-            <div class="mini-data">
+            <div class="mini-data plan-fondo-am">
               <div class="card-heading">
                 <div class="title">
                   <h1 class="title-card clipped">Plan AM</h1>
@@ -255,7 +255,7 @@
         <div class="plan-card-mini-wrapper">
 
           <div class="plan-card">
-            <div class="mini-data">
+            <div class="mini-data plan-fondo-weekend">
               <div class="card-heading">
                 <div class="title">
                   <h1 class="title-card clipped">Plan Weekend</h1>
@@ -279,7 +279,7 @@
           </div>
 
           <div class="plan-card">
-            <div class="mini-data">
+            <div class="mini-data plan-fondo-diario">
               <div class="card-heading">
                 <div class="title">
                   <h1 class="title-card clipped">Pase Diario</h1>
