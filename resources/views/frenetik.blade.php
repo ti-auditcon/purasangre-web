@@ -11,8 +11,10 @@
 
   <div class="heading-page heading-crossfit">
       <div class="heading-page-inner">
-        <h2 class="heading-title">Frenetik</h2>
-        <div class="heading-desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vulputate, mi nec efficitur vulputate, augue leo molestie urna, quis aliquet leo magna eu nulla. Cras suscipit a quam quis mollis. </div>
+        <h2 class="heading-title">¿Qué es Frenetik?</h2>
+        <div class="heading-desc">
+          Intensidad, Fuerza y Cardio
+        </div>
       </div>
     </div>
 
@@ -30,7 +32,7 @@
         <div id="w-node-bbe44490098a-4eaaa2ee" class="data">
           {{-- <h1 class="heading title-section clipped">EL DEPORTE <br>DEL FITNESS</h1> --}}
           <div class="text-block-5">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed accumsan pretium magna id dapibus. Sed convallis est vel sodales dapibus. Fusce euismod enim ut orci faucibus vehicula. Mauris porta augue dui, eu varius felis efficitur in. Aliquam risus lacus, tristique faucibus diam sit amet, feugiat rutrum orci. Nullam luctus, sapien ac sodales tincidunt, sapien nisi sodales nisl, eu scelerisque dolor ipsum et ligula. Nulla facilisi. Nulla id elit eget leo mollis auctor tincidunt sit amet libero.
+            Frenectic es una clase de intervalos de alta intensidad llevada al siguiente nivel. una hora de entrenamiento dirigido, con un enfoque en ejercicios cardiovasculares, de fuerza y atléticos, que harán que la diversión y los resultados estén asegurados.
           </div>
         </div>
       </div>
