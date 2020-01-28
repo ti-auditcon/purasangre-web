@@ -77,10 +77,12 @@
             <h5 class="card-team-cargo">Coach</h5>
             <div class="info-data">
               <div id="w-node-02b4b97539a5-65cc393a" class="card-team-text">
-                Tehto<br><br>
-                <strong>Grados</strong>: Profesora de Educación física
+                Ligada al deporte desde edad temprana, decidió dedicar su vida al amor por el deporte a través de la pedagogía en ed. Física. Su carrera deportiva está ligada al tunning y trail running, y obteniendo muchos podios. Amantes del entrenamiento funcional y de pesas. Actualmente ligada al mundo del Crossfit y entrenando día a día para lograr competir en un futuro.<br><br>
               </div>
               <div id="w-node-02b4b97539ac-65cc393a" class="card-team-text">
+                <strong>Grados</strong>: Profesora de Educación física
+                <br>
+                <br>
                 <strong>Certificaciones</strong><br>
                 - Magister en Motricidad<br>
                 - Coach GRIT de Less Mills<br>

@@ -32,7 +32,10 @@
         <div id="w-node-bbe44490098a-4eaaa2ee" class="data">
           {{-- <h1 class="heading title-section clipped">EL DEPORTE <br>DEL FITNESS</h1> --}}
           <div class="text-block-5">
-            Frenectic es una clase de intervalos de alta intensidad llevada al siguiente nivel. una hora de entrenamiento dirigido, con un enfoque en ejercicios cardiovasculares, de fuerza y atléticos, que harán que la diversión y los resultados estén asegurados.
+            Frenetik consiste en un sesion de acondicionamiento físico basado en una variedad de ejercicios funcionales de media a alta intensidad y de larga duración.
+            <br><br>
+            En Frenetik potenciamos la resistencia cardiovascular y muscular, mejoras que se verán reflejadas en el rendimiento y cambios físicos.
+            {{-- Frenectic es una clase de intervalos de alta intensidad llevada al siguiente nivel. una hora de entrenamiento dirigido, con un enfoque en ejercicios cardiovasculares, de fuerza y atléticos, que harán que la diversión y los resultados estén asegurados. --}}
           </div>
         </div>
       </div>
@@ -58,8 +61,7 @@
           <div class="data-inv-inner">
             <h3 class="subtitle">Strength</h3>
             <div class="text-block-5">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vulputate, mi nec efficitur vulputate, augue leo molestie urna, quis aliquet leo magna eu nulla. Cras suscipit a quam quis mollis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+              Consiste en el trabajo específico y localizado de principales grupos musculares, en base a series y repeticiones, logrando mayor consciencia y postura corporal y tonicidad muscular
             </div>
           </div>
         </div>
@@ -71,7 +73,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
         <div id="w-node-250d504b0523-0af2eacb" class="data">
           <h3 class="subtitle">Rounds</h3>
           <div class="text-block-5">
-            Es una parte fundamental de la clase, ya que se desarrollan habilidades, aprendemos teoría, trabajamos y mejoramos las técnicas de ejecución de los diferentes ejercicios.
+            El objetivo principal es que los alumnos logren sacar su máximo rendimiento, a través de la continuidad e intensidad en cada sesión.
+            <br>
+            <br>
+            Los Rounds son series con tiempo en base a ejercicios resistencia, potencia y fuerza muscular, que en su conjunto sentirás un trabajo deportivo muy integral.
           </div>
         </div>
       </div>
@@ -81,37 +86,49 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
     <div class="cta-big cta-crossfit cta-habilidades">
       <div class="cta-big-inner">
-        <h1 class="title-big-cta">10 Habilidades <br>que Desarrollaras <br>con Frenetik</h1>
+        <h1 class="title-big-cta">14 Habilidades <br>que Desarrollaras <br>con Frenetik</h1>
         <div class="checklist">
           <div class="checklist-item-wrapper"><img src="images/check-icon.svg" alt="" class="check-icon">
-            <div class="checklist-item">Resistencia cardiovascular y respiratoria</div>
+            <div class="checklist-item">Resistencia muscular</div>
           </div>
           <div class="checklist-item-wrapper"><img src="images/check-icon.svg" alt="" class="check-icon">
-            <div class="checklist-item">Fuerza</div>
+            <div class="checklist-item">Resistencia cardiovascular</div>
           </div>
           <div class="checklist-item-wrapper"><img src="images/check-icon.svg" alt="" class="check-icon">
-            <div class="checklist-item">Flexibilidad</div>
-          </div>
-          <div class="checklist-item-wrapper"><img src="images/check-icon.svg" id="w-node-5d72265f089b-4eaaa2ee" alt="" class="check-icon">
             <div class="checklist-item">Potencia</div>
           </div>
+          <div class="checklist-item-wrapper"><img src="images/check-icon.svg" id="w-node-5d72265f089b-4eaaa2ee" alt="" class="check-icon">
+            <div class="checklist-item">Fuerza</div>
+          </div>
           <div class="checklist-item-wrapper"><img src="images/check-icon.svg" id="w-node-5d72265f089f-4eaaa2ee" alt="" class="check-icon">
-            <div class="checklist-item">Velocidad</div>
+            <div class="checklist-item">Agilidad</div>
           </div>
           <div class="checklist-item-wrapper"><img src="images/check-icon.svg" id="w-node-d363095ca7aa-4eaaa2ee" alt="" class="check-icon">
             <div class="checklist-item">Coordinación</div>
           </div>
           <div class="checklist-item-wrapper"><img src="images/check-icon.svg" id="w-node-d363095ca7aa-4eaaa2ee" alt="" class="check-icon">
-            <div class="checklist-item">Agilidad</div>
+            <div class="checklist-item">Pérdida de grasa</div>
           </div>
           <div class="checklist-item-wrapper"><img src="images/check-icon.svg" id="w-node-d363095ca7aa-4eaaa2ee" alt="" class="check-icon">
-            <div class="checklist-item">Equilibrio</div>
+            <div class="checklist-item">Tonicidad</div>
           </div>
           <div class="checklist-item-wrapper"><img src="images/check-icon.svg" id="w-node-d363095ca7aa-4eaaa2ee" alt="" class="check-icon">
             <div class="checklist-item">Precisión</div>
           </div>
           <div class="checklist-item-wrapper"><img src="images/check-icon.svg" id="w-node-d363095ca7aa-4eaaa2ee" alt="" class="check-icon">
-            <div class="checklist-item">Estamina</div>
+            <div class="checklist-item">Mejora la postura</div>
+          </div>
+          <div class="checklist-item-wrapper"><img src="images/check-icon.svg" id="w-node-d363095ca7aa-4eaaa2ee" alt="" class="check-icon">
+            <div class="checklist-item">Estabilidad corporal</div>
+          </div>
+          <div class="checklist-item-wrapper"><img src="images/check-icon.svg" id="w-node-d363095ca7aa-4eaaa2ee" alt="" class="check-icon">
+            <div class="checklist-item">Mejora nuestra imagen</div>
+          </div>
+          <div class="checklist-item-wrapper"><img src="images/check-icon.svg" id="w-node-d363095ca7aa-4eaaa2ee" alt="" class="check-icon">
+            <div class="checklist-item">Complemento deportivo</div>
+          </div>
+          <div class="checklist-item-wrapper"><img src="images/check-icon.svg" id="w-node-d363095ca7aa-4eaaa2ee" alt="" class="check-icon">
+            <div class="checklist-item">Mejora calidad de vida</div>
           </div>
         </div>
       </div>
