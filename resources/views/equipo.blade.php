@@ -100,7 +100,9 @@
             <h5 class="card-team-cargo">Coach</h5>
             <div class="info-data">
               <div id="w-node-02b4b97539a5-65cc393a" class="card-team-text">
-                Tehto<br><br>
+                Cata, ha practicado actividad física toda su vida. Desde el 2014 conoció el mundo del entrenamiento de pesas y fitness, lo que la llevo a estudiar pedagogía en educación física. Se enamoró de la enseñanza y le apasiona poder compartir sus conocimientos. En la actualidad, se especializa como personal trainer y se prepara para volver a pisar tarima. Además, respeta y admira mucho el CrossFit y a quienes lo practican. Sin duda, no cierra las puertas a especializarse en esta rama.
+                <br>
+                <br>
                 <strong>Grados</strong>: Profesora de Educación física y de Danza Educativa
               </div>
               <div id="w-node-02b4b97539ac-65cc393a" class="card-team-text">
