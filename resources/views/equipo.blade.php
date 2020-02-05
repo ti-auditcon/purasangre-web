@@ -25,9 +25,28 @@
             <h5 class="card-team-cargo">Head Coach</h5>
             <div class="info-data">
               <div id="w-node-12b5e0607b6a-65cc393a" class="card-team-text">
-                Coto lleva más de 7 años inmerso en el mundo del CrossFit, comenzando como un atleta destacado es uno de los precursores de este deporte en Chile y en la Región.<br><br><strong>Grados</strong>: Nutricionista con mención en Gestión y Calidad. Universidad Andrés Bello
+                Coto, de profesión Nutricionista, es uno de los  precursores del CrossFit Nacional desde el año 2010, se destacó como atleta obteniendo diferentes títulos en la disciplina. 
+                <br>
+                Se especializó como Coach de CrossFit en el año 2014 y desde entonces se ha certificado en distintas áreas de la disciplina,  actualmente es Coach Level 2.
+                <br>
+                Se caracteriza por su experiencia, rigurosidad técnica, entrega y pasión, lo que hace ser el Head Coach ideal para Pura Sangre CrossFit y su gran Comunidad.
+                <br>
+                {{-- <br> --}}
+                {{-- <br> --}}
               </div>
-              <div id="w-node-5e507b3b8e31-65cc393a" class="card-team-text"><strong>Certificaciones</strong><br>- CrossFit Level 1<br>- CrossFit Kettlebell Trainer<br>- CrossFit Weightlifting Trainer<br>- CrossFit Aerobic Capacity Trainer<br>- CrossFit Gymnastic Trainer</div>
+              <div id="w-node-5e507b3b8e31-65cc393a" class="card-team-text">
+                <strong>Grados</strong>: Nutricionista con mención en Gestión y Calidad. Universidad Andrés Bello
+                <br>
+                <br>
+                <strong>Certificaciones</strong>
+                {{-- <br> --}}
+                <br>
+                - CrossFit Level 2<br>
+                - CrossFit Kettlebell Trainer<br>
+                - CrossFit Weightlifting Trainer Level 2<br>
+                - CrossFit Aerobic Capacity Trainer<br>
+                - CrossFit Gymnastic Trainer
+              </div>
             </div>
           </div>
         </div>
@@ -60,11 +79,12 @@
               </div>
               <div id="w-node-02b4b97539ac-65cc393a" class="card-team-text">
                 <strong>Certificaciones</strong><br>
-                - Coach CrossFit Level 1<br>
-                - Coach CrossFit Mobility<br>
-                - Coach CrossFit Gymnastic<br>
-                - Coach CrossFit Weightlifting<br>
-                - Coach CrossFit Aerobic Capacity<br>
+                - CrossFit Level 2<br>
+                - CrossFit Weightlifting Trainer Level 2<br>
+                - CrossFit Mobility<br>
+                - CrossFit Gymnastic<br>
+                - CrossFit Weightlifting<br>
+                - CrossFit Aerobic Capacity<br>
                 - Ex coach Dyplon CrossFit<br>
                 - Ex coach Forza CrossFit<br>
               </div>

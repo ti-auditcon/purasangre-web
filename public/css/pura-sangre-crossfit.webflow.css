@@ -1764,7 +1764,7 @@ div#fb-root {
   grid-template-rows: auto;
   border-radius: 0px;
   background: #f0f0f0;
-  height: 460px;
+  min-height: 460px;
   overflow: hidden;
 }
 
@@ -1833,7 +1833,7 @@ div#fb-root {
 }
 
 .card-data {
-  padding: 65px 64px;
+  padding: 42px 64px;
   border-top-right-radius: 4px;
   border-bottom-right-radius: 4px;
   /* background-color: #f0f0f0; */
@@ -1857,22 +1857,22 @@ div#fb-root {
   margin-top: 0px;
   margin-bottom: 4px;
   background-image: linear-gradient(117deg, hsla(330.12658227848107, 97.53%, 52.35%, 1.00), hsla(291.57894736842104, 100.00%, 33.53%, 1.00));
-  font-size: 41px;
-  line-height: 44px;
+  font-size: 38px;
+  line-height: 120%;
   letter-spacing: -0.03em;
 }
 
 .card-team-cargo {
   margin-top: 0px;
-  margin-bottom: 33px;
+  margin-bottom: 28px;
   font-size: 22px;
   line-height: 26px;
   letter-spacing: -0.01em;
 }
 
 .card-team-text {
-  font-size: 16px;
-  line-height: 23px;
+  font-size: 15px;
+  line-height: 150%;
 }
 
 .plan-card {
@@ -2821,7 +2821,7 @@ div#fb-root {
     line-height: 26px;
   }
   .team-card {
-    height: 460px;
+    /* height: 460px; */
   }
   .plan-card-img.plan-img-diario {
     /* background-image: url('../images/_img-pase-diario.jpg'), linear-gradient(180deg, rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)); */
