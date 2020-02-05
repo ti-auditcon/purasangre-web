@@ -24,7 +24,9 @@
             <h2 class="card-team-title clipped">Cristobal Gutierrez</h2>
             <h5 class="card-team-cargo">Head Coach</h5>
             <div class="info-data">
-              <div id="w-node-12b5e0607b6a-65cc393a" class="card-team-text">Coto lleva más de 7 años inmerso en el mundo del CrossFit, comenzando como un atleta destacado es uno de los precursores de este deporte en Chile y en la Región.<br><br><strong>Grados</strong>: Nutricionista con mención en Gestión y Calidad. Universidad Andrés Bello</div>
+              <div id="w-node-12b5e0607b6a-65cc393a" class="card-team-text">
+                Coto lleva más de 7 años inmerso en el mundo del CrossFit, comenzando como un atleta destacado es uno de los precursores de este deporte en Chile y en la Región.<br><br><strong>Grados</strong>: Nutricionista con mención en Gestión y Calidad. Universidad Andrés Bello
+              </div>
               <div id="w-node-5e507b3b8e31-65cc393a" class="card-team-text"><strong>Certificaciones</strong><br>- CrossFit Level 1<br>- CrossFit Kettlebell Trainer<br>- CrossFit Weightlifting Trainer<br>- CrossFit Aerobic Capacity Trainer<br>- CrossFit Gymnastic Trainer</div>
             </div>
           </div>
@@ -77,7 +79,7 @@
             <h5 class="card-team-cargo">Coach</h5>
             <div class="info-data">
               <div id="w-node-02b4b97539a5-65cc393a" class="card-team-text">
-                Ligada al deporte desde edad temprana, decidió dedicar su vida al amor por el deporte a través de la pedagogía en ed. Física. Su carrera deportiva está ligada al tunning y trail running, y obteniendo muchos podios. Amantes del entrenamiento funcional y de pesas. Actualmente ligada al mundo del Crossfit y entrenando día a día para lograr competir en un futuro.<br><br>
+                Atleta desde edad temprana decidió dedicar su vida al deporte estudiando pedagogía en ed. Física. Su carrera deportiva está ligada al running y trail running,  obteniendo muchos podios. Amante del entrenamiento funcional y CrossFit. Sus conocimientos y empatía la hacen ser una referente en Frenetic.
               </div>
               <div id="w-node-02b4b97539ac-65cc393a" class="card-team-text">
                 <strong>Grados</strong>: Profesora de Educación física
@@ -100,7 +102,7 @@
             <h5 class="card-team-cargo">Coach</h5>
             <div class="info-data">
               <div id="w-node-02b4b97539a5-65cc393a" class="card-team-text">
-                Cata, ha practicado actividad física toda su vida. Desde el 2014 conoció el mundo del entrenamiento de pesas y fitness, lo que la llevo a estudiar pedagogía en educación física. Se enamoró de la enseñanza y le apasiona poder compartir sus conocimientos. En la actualidad, se especializa como personal trainer y se prepara para volver a pisar tarima. Además, respeta y admira mucho el CrossFit y a quienes lo practican. Sin duda, no cierra las puertas a especializarse en esta rama.
+                Cata, desde el 2014 conoció el mundo del entrenamiento, siendo una atleta activa del fitness model, lo que la llevó a estudiar pedagogía en educación física. Se especializa como personal trainer, además su carisma y capacidad de transmitir energía en sus clases es lo que más la caracteriza como Coach de Frenetic. 
                 <br>
                 <br>
                 <strong>Grados</strong>: Profesora de Educación física y de Danza Educativa
