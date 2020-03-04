@@ -65,11 +65,11 @@
             </div>
           </div>
         </div>
-        <div class="img-inv img-frenetic-3"></div>
+        <div class="img-inv img-frenetic-4"></div>
       </div>
 
       <div class="item-wrapper">
-        <div id="w-node-250d504b0522-0af2eacb" class="img img-frenetic-4"></div>
+        <div id="w-node-250d504b0522-0af2eacb" class="img img-frenetic-6"></div>
         <div id="w-node-250d504b0523-0af2eacb" class="data">
           <h3 class="subtitle">Rounds</h3>
           <div class="text-block-5">
@@ -122,8 +122,7 @@
     <div class="banner-promo bg-section">
       <div class="banner-promo-inner">
         <h1 class="heading-2 white-cta-title">Prueba Frenetic con<br>tus Clases GRATIS</h1>
-        <div class="text-block-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vulputate, mi nec efficitur vulputate, augue leo molestie urna, quis aliquet leo magna eu nulla. 
-        </div>
+        <div class="text-block-2"><strong>Si quieres transformar tu vida, Pura Sangre CrossFit es para ti.</strong><br> No importa en que condición física te encuentres o si nunca has ido al gimnasio, únete ahora y no te darás cuenta como los resultados llegan por si solos.</div>
         <div class="cta-buttons">
           <a href="{{url('/prueba')}}" class="green-button mg-button w-button">Conoce como funciona</a>
           <a href="https://wa.me/56940207699?text=Hola,%20quiero%20pedir%20las%20clases%20gratis" target="_blank" class="green-button mg-button w-button" id="boton-whatsapp-cta-abajo">

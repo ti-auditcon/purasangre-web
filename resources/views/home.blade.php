@@ -12,9 +12,10 @@
   <div data-delay="4000" data-animation="slide" data-autoplay="1" data-easing="ease-in-out" data-nav-spacing="7" data-duration="500" data-infinite="1" class="slider-2 main-slider w-slider">
     <div class="mask w-slider-mask">
       {{-- Estas son las diapos --}}
-      <a href="{{url('/prueba')}}" class="slide-6 w-slide"></a>
-      <a href="{{url('/planes')}}" class="slide-5 w-slide"></a>
+      <a href="{{url('/prueba')}}" class="slide-1 w-slide"></a>
+      <a href="{{url('/planes')}}" class="slide-2 w-slide"></a>
       <a href="{{url('/app')}}" class="slide-3 w-slide" target="_blank"></a>
+      <a href="{{url('/app')}}" class="slide-4 w-slide" target="_blank"></a>
     </div>
     <div class="w-slider-arrow-left">
       <div class="icon-2 w-icon-slider-left"></div>
