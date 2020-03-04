@@ -57,7 +57,7 @@
                   <h4 class="content-content">Horario a Elección</h4>
                 </div>
                 <div class="valor">
-                  <div class="content-hd">Valor</div>
+                  <div class="content-hd">Precio</div>
                   <h4 class="content-content">$60.000</h4>
                   <div class="content-span">/ mes</div>
                 </div>
@@ -89,7 +89,7 @@
                   <h4 class="content-content">Horario a elección</h4>
                 </div>
                 <div class="valor">
-                  <div class="content-hd">Valor</div>
+                  <div class="content-hd">Precio</div>
                   <h4 class="content-content">$45.000</h4>
                   <div class="content-span">/ mes</div>
                 </div>
@@ -121,7 +121,7 @@
                   <h4 class="content-content">09:00 - 10:00 y 12:00 hrs</h4>
                 </div>
                 <div class="valor">
-                  <div class="content-hd">Valor</div>
+                  <div class="content-hd">Precio</div>
                   <h4 class="content-content">$35.000</h4>
                   <div class="content-span">/ mes</div>
                 </div>
@@ -149,7 +149,7 @@
                   <h4 class="content-content">09:00 - 10:00 y 12:00 hrs</h4>
                 </div>
                 <div class="valor">
-                  <div class="content-hd">Valor</div>
+                  <div class="content-hd">Precio</div>
                   <h4 class="content-content">$30.000</h4>
                   <div class="content-span">/ mes</div>
                 </div>
@@ -181,7 +181,7 @@
                   <h4 class="content-content">CrossFit hasta 18.00hrs<br>Frenetic hasta 18:30 hrs</h4>
                 </div>
                 <div class="valor">
-                  <div class="content-hd">Valor</div>
+                  <div class="content-hd">Precio</div>
                   <h4 class="content-content">$25.990</h4>
                   <div class="content-span">/ mes</div>
                 </div>
@@ -209,7 +209,7 @@
                   <h4 class="content-content">Horario a elección</h4>
                 </div>
                 <div class="valor">
-                  <div class="content-hd">Valor</div>
+                  <div class="content-hd">Precio</div>
                   <h4 class="content-content">$26.000</h4>
                   <div class="content-span">/ mes</div>
                 </div>
@@ -241,7 +241,7 @@
                   <h4 class="content-content">Horario a elección</h4>
                 </div>
                 <div class="valor">
-                  <div class="content-hd">Valor</div>
+                  <div class="content-hd">Precio</div>
                   <h4 class="content-content">$40.000</h4>
                   <div class="content-span">/ mes</div>
                 </div>
@@ -269,7 +269,7 @@
                   <h4 class="content-content">Horario a elección</h4>
                 </div>
                 <div class="valor">
-                  <div class="content-hd">Valor</div>
+                  <div class="content-hd">Precio</div>
                   <h4 class="content-content">$35.000</h4>
                   <div class="content-span">/ mes</div>
                 </div>
@@ -631,7 +631,7 @@
           </div>
         </div>
         <div class="cta-big-precio-wrapper">
-          <div class="text-block-8">Valor</div>
+          <div class="text-block-8">Precio</div>
           <div class="cta-big-precio-contenido">
             <h4 class="heading-4">$130.000</h4>
             <div class="text-block-9">/mes</div>

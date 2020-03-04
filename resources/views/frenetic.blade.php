@@ -84,7 +84,7 @@
     </div>
 
 
-    <div class="cta-big cta-crossfit cta-habilidades">
+    <div class="cta-big cta-crossfit cta-habilidades-f">
       <div class="cta-big-inner">
         <h1 class="title-big-cta">Habilidades <br>que Desarrollaras <br>con Frenetic</h1>
         <div class="checklist">

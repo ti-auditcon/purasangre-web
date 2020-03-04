@@ -72,7 +72,7 @@
               <h4 class="content-content-promo">Horario Liberado</h4>
             </div>
             <div class="valor">
-              <div class="content-hd-promo">Valor</div>
+              <div class="content-hd-promo">Precio</div>
               <h4 class="content-content-promo">$45.000</h4>
               <div class="content-span-promo">/ mes</div>
             </div>
@@ -93,7 +93,7 @@
               <h4 class="content-content-promo">12 Clases / mes</h4>
             </div>
             <div class="valor">
-              <div class="content-hd-promo">Valor</div>
+              <div class="content-hd-promo">Precio</div>
               <h4 class="content-content-promo">$40.000</h4>
               <div class="content-span-promo">/ mes</div>
             </div>
@@ -111,7 +111,7 @@
               <h4 class="content-content-promo">09:00 - 12:00 hrs</h4>
             </div>
             <div class="valor">
-              <div class="content-hd-promo">Valor</div>
+              <div class="content-hd-promo">Precio</div>
               <h4 class="content-content-promo">$30.000</h4>
               <div class="content-span-promo">/ mes</div>
             </div>
@@ -129,7 +129,7 @@
               <h4 class="content-content-promo">07:00 - 12:00 hrs<br>17:00 - 18:00 hrs</h4>
             </div>
             <div class="valor">
-              <div class="content-hd-promo">Valor</div>
+              <div class="content-hd-promo">Precio</div>
               <h4 class="content-content-promo">$25.000</h4>
               <div class="content-span-promo">/ mes</div>
             </div>
@@ -235,7 +235,13 @@
       <h6 style="color: white; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 0; font-size: 13px; font-weight: 400;">CrossFit en Curicó</h6>
       <h1 class="heading-2 white-cta-title">Entrena con Nosotros.<br>Sé un Pura Sangre.</h1>
       <div class="text-block-2">En nuestras clases de prueba, podrás experimentar un entrenamiento distinto, funcional y entretenido.</div>
-      <div class="cta-buttons"><a href="{{url('/prueba')}}" class="green-button w-button">Conoce más Detalles</a></div>
+      <div class="cta-buttons">
+        <a href="{{url('/prueba')}}" class="green-button w-button">Conoce más Detalles</a>
+        <a href="https://wa.me/56940207699?text=Hola,%20quiero%20pedir%20las%20clases%20gratis" target="_blank" class="green-button mg-button w-button" id="boton-whatsapp-cta-abajo">
+          <img class="img-whatsapp" src="../images/whatsapp_icon.svg">
+          Solicita via WhatsApp
+        </a>
+      </div>
     </div>
   </div>
 

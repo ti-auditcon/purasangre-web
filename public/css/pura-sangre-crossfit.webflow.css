@@ -270,7 +270,12 @@
 }
 
 .cta-big.cta-crossfit.cta-habilidades {
-  background-image: linear-gradient(93deg, #000 21%, transparent 61%), url('../images/img-habilidades.jpg');
+  background-image: linear-gradient(93deg, #000 21%, transparent 61%), url('../images/img-habilidades2.jpg');
+  background-size: auto, cover;
+}
+
+.cta-big.cta-crossfit.cta-habilidades-f {
+  background-image: linear-gradient(93deg, #000 21%, transparent 61%), url('../images/img-habilidades-f.jpg');
   background-size: auto, cover;
 }
 
