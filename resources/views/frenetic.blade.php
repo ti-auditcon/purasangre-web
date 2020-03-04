@@ -1,6 +1,6 @@
 @extends('layouts.app')
 @section('page-title')
-  <title>Frenetik - Pura Sangre CrossFit</title>
+  <title>Frenetic - Pura Sangre CrossFit</title>
   {{-- <meta content="CrossFit es un estilo de vida caracterizado por ejercicios seguros y eficaces combinados con una nutrición sana." name="description">
   <meta content="Qué es el CrossFit - Pura Sangre CrossFit" property="og:title">
   <meta content="CrossFit es un estilo de vida caracterizado por ejercicios seguros y eficaces combinados con una nutrición sana." property="og:description">
@@ -9,9 +9,9 @@
 
 @section('content')
 
-  <div class="heading-page heading-crossfit">
+  <div class="heading-page heading-frenetic">
       <div class="heading-page-inner">
-        <h2 class="heading-title">¿Qué es Frenetik?</h2>
+        <h2 class="heading-title">¿Qué es Frenetic?</h2>
         <div class="heading-desc">
           Intensidad, Fuerza y Cardio
         </div>
@@ -21,20 +21,20 @@
     <div class="air-grid">
       <div class="title-section-wrapper first-title">
         <div class="title-section-wrapper-inner">
-          <img src="images/frenetik_logo.png" alt="Frenetik logo" class="fl">
+          <img src="images/frenetik_logo.png" alt="Frenetic logo" class="fl">
           <h1 class="heading title-section clipped">
             HIGH INTENSITY
           </h1>
         </div>
       </div>
       <div class="item-wrapper">
-        <div id="w-node-bbe444900989-4eaaa2ee" class="img img-deporte-fitness"></div>
+        <div id="w-node-bbe444900989-4eaaa2ee" class="img img-frenetic1"></div>
         <div id="w-node-bbe44490098a-4eaaa2ee" class="data">
           {{-- <h1 class="heading title-section clipped">EL DEPORTE <br>DEL FITNESS</h1> --}}
           <div class="text-block-5">
-            Frenetik consiste en un sesion de acondicionamiento físico basado en una variedad de ejercicios funcionales de media a alta intensidad y de larga duración.
+            Frenetic consiste en un sesion de acondicionamiento físico basado en una variedad de ejercicios funcionales de media a alta intensidad y de larga duración.
             <br><br>
-            En Frenetik potenciamos la resistencia cardiovascular y muscular, mejoras que se verán reflejadas en el rendimiento y cambios físicos.
+            En Frenetic potenciamos la resistencia cardiovascular y muscular, mejoras que se verán reflejadas en el rendimiento y cambios físicos.
             {{-- Frenectic es una clase de intervalos de alta intensidad llevada al siguiente nivel. una hora de entrenamiento dirigido, con un enfoque en ejercicios cardiovasculares, de fuerza y atléticos, que harán que la diversión y los resultados estén asegurados. --}}
           </div>
         </div>
@@ -42,12 +42,12 @@
 
       <div class="title-section-wrapper pd-1">
         <div class="title-section-wrapper-inner mg-top-special">
-          <h1 class="heading title-section clipped">UNA CLASE DE<br>FRENETIK</h1>
+          <h1 class="heading title-section clipped">UNA CLASE DE<br>FRENETIC</h1>
         </div>
       </div>
 
       <div class="item-wrapper">
-        <div id="w-node-250d504b0522-0af2eacb" class="img img-skills"></div>
+        <div id="w-node-250d504b0522-0af2eacb" class="img img-skills-f"></div>
         <div id="w-node-250d504b0523-0af2eacb" class="data">
           <h3 class="subtitle">Warm Up</h3>
           <div class="text-block-5">
@@ -65,11 +65,11 @@
             </div>
           </div>
         </div>
-        <div class="img-inv img-warmup"></div>
+        <div class="img-inv img-frenetic-3"></div>
       </div>
 
       <div class="item-wrapper">
-        <div id="w-node-250d504b0522-0af2eacb" class="img img-skills"></div>
+        <div id="w-node-250d504b0522-0af2eacb" class="img img-frenetic-4"></div>
         <div id="w-node-250d504b0523-0af2eacb" class="data">
           <h3 class="subtitle">Rounds</h3>
           <div class="text-block-5">
@@ -86,7 +86,7 @@
 
     <div class="cta-big cta-crossfit cta-habilidades">
       <div class="cta-big-inner">
-        <h1 class="title-big-cta">14 Habilidades <br>que Desarrollaras <br>con Frenetik</h1>
+        <h1 class="title-big-cta">Habilidades <br>que Desarrollaras <br>con Frenetic</h1>
         <div class="checklist">
           <div class="checklist-item-wrapper"><img src="images/check-icon.svg" alt="" class="check-icon">
             <div class="checklist-item">Resistencia muscular</div>
@@ -110,21 +110,6 @@
             <div class="checklist-item">Pérdida de grasa</div>
           </div>
           <div class="checklist-item-wrapper"><img src="images/check-icon.svg" id="w-node-d363095ca7aa-4eaaa2ee" alt="" class="check-icon">
-            <div class="checklist-item">Tonicidad</div>
-          </div>
-          <div class="checklist-item-wrapper"><img src="images/check-icon.svg" id="w-node-d363095ca7aa-4eaaa2ee" alt="" class="check-icon">
-            <div class="checklist-item">Precisión</div>
-          </div>
-          <div class="checklist-item-wrapper"><img src="images/check-icon.svg" id="w-node-d363095ca7aa-4eaaa2ee" alt="" class="check-icon">
-            <div class="checklist-item">Mejora la postura</div>
-          </div>
-          <div class="checklist-item-wrapper"><img src="images/check-icon.svg" id="w-node-d363095ca7aa-4eaaa2ee" alt="" class="check-icon">
-            <div class="checklist-item">Estabilidad corporal</div>
-          </div>
-          <div class="checklist-item-wrapper"><img src="images/check-icon.svg" id="w-node-d363095ca7aa-4eaaa2ee" alt="" class="check-icon">
-            <div class="checklist-item">Mejora nuestra imagen</div>
-          </div>
-          <div class="checklist-item-wrapper"><img src="images/check-icon.svg" id="w-node-d363095ca7aa-4eaaa2ee" alt="" class="check-icon">
             <div class="checklist-item">Complemento deportivo</div>
           </div>
           <div class="checklist-item-wrapper"><img src="images/check-icon.svg" id="w-node-d363095ca7aa-4eaaa2ee" alt="" class="check-icon">
@@ -136,7 +121,7 @@
     
     <div class="banner-promo bg-section">
       <div class="banner-promo-inner">
-        <h1 class="heading-2 white-cta-title">Prueba Frenetik con<br>tus Clases GRATIS</h1>
+        <h1 class="heading-2 white-cta-title">Prueba Frenetic con<br>tus Clases GRATIS</h1>
         <div class="text-block-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vulputate, mi nec efficitur vulputate, augue leo molestie urna, quis aliquet leo magna eu nulla. 
         </div>
         <div class="cta-buttons">

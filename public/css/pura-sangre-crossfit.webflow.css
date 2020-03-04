@@ -751,6 +751,12 @@ div#fb-root {
   background-size: cover;
 }
 
+.img.img-frenetic1 {
+  background-image: url('../images/frenetic-1.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
 .img.img-clases-gratis {
   background-image: url('../images/img-gratis-tratan.jpg');
   background-position: 0px 0px;
@@ -759,6 +765,12 @@ div#fb-root {
 
 .img.img-skills {
   background-image: url('../images/img-skills.jpg');
+  background-position: 0% 50%;
+  background-size: cover;
+}
+
+.img.img-skills-f {
+  background-image: url('../images/frenetic-2.jpg');
   background-position: 0% 50%;
   background-size: cover;
 }
@@ -1348,6 +1360,12 @@ div#fb-root {
   background-size: auto, cover;
 }
 
+.heading-page.heading-frenetic {
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, .75), rgba(0, 0, 0, .75)), url('../images/heading-frenetic.jpg');
+  background-position: 0px 0px, 50% 30%;
+  background-size: auto, cover;
+}
+
 .heading-page.heading-contacto {
   background-image: linear-gradient(180deg, rgba(0, 0, 0, .75), rgba(0, 0, 0, .75)), url('../images/heading-contacto.jpg');
   background-position: center;
@@ -1446,6 +1464,7 @@ div#fb-root {
   url(../images/back-test.jpg);
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
+  width: 100%;
 }
 
 .plan-fondo-estudiantes {
@@ -1582,6 +1601,18 @@ div#fb-root {
 .img-inv.img-warmup {
   background-image: url('../images/img-warmup.jpg');
   background-position: 50% 50%;
+  background-size: cover;
+}
+
+.img-inv.img-frenetic-3 {
+  background-image: url('../images/frenetic-3.jpg');
+  background-position: 100% 50%;
+  background-size: cover;
+}
+
+.img.img-frenetic-4 {
+  background-image: url('../images/frenetic-4.jpg');
+  background-position: center;
   background-size: cover;
 }
 
@@ -1931,6 +1962,7 @@ div#fb-root {
 
 .plan-card-data {
   overflow: hidden;
+  width: 100%;
   /* width: 55%; */
   /* padding: 51px 53px; */
   padding: 44px 40px;
@@ -1987,6 +2019,7 @@ div#fb-root {
   position: relative;
   /* padding: 54px 45px; */
   padding: 44px 40px;
+  width: 100%;
 }
 
 .button-3 {
@@ -4376,7 +4409,7 @@ div#fb-root {
 .horarios-wrapper .cat-wrapper .crossfit .color {
   background-color: #2D9CDB;
 }
-.horarios-wrapper .cat-wrapper .frenetik .color {
+.horarios-wrapper .cat-wrapper .frenetic .color {
   background-color: #EE0E8B;
 }
 .horarios-wrapper .cat-wrapper .kids .color {
@@ -4486,7 +4519,7 @@ div#fb-root {
 .horarios-wrapper .horarios .day-wrapper .crossfit {
   background-color: #2D9CDB;
 }
-.horarios-wrapper .horarios .day-wrapper .frenetik {
+.horarios-wrapper .horarios .day-wrapper .frenetic {
   background-color: #EE0E8B;
 }
 .horarios-wrapper .horarios .day-wrapper .kids {

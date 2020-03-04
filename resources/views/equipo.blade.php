@@ -79,14 +79,12 @@
               </div>
               <div id="w-node-02b4b97539ac-65cc393a" class="card-team-text">
                 <strong>Certificaciones</strong><br>
-                - CrossFit Level 2<br>
+                - CrossFit Level 1<br>
                 - CrossFit Weightlifting Trainer Level 2<br>
                 - CrossFit Mobility<br>
                 - CrossFit Gymnastic<br>
                 - CrossFit Weightlifting<br>
-                - CrossFit Aerobic Capacity<br>
-                - Ex coach Dyplon CrossFit<br>
-                - Ex coach Forza CrossFit<br>
+                - CrossFit Aerobic Capacity
               </div>
             </div>
           </div>
@@ -161,8 +159,8 @@
         <div class="team-card">
           <div id="w-node-024e7e3bec96-65cc393a" class="card-img card-daniela"></div>
           <div id="w-node-024e7e3bec97-65cc393a" class="card-data">
-            <h2 class="card-team-title clipped">Daniela</h2>
-            <h5 class="card-team-cargo">Recepcionista</h5>
+            <h2 class="card-team-title clipped">Daniela Arriagada</h2>
+            <h5 class="card-team-cargo">Administradora</h5>
             <div class="info-data">
               <div id="w-node-024e7e3bec9d-65cc393a" class="card-team-text">
                 Dani es la encargada de la recepción y administración de nuestro box. Con su carisma, empatía y preocupación, siempre está atenta a los requerimientos de nuestros alumnos. Manteniendo el gran ambiente de comunidad de nuestro Box. Forma parte de Pura Sangre CrossFit desde Febrero del 2019.<br><br>

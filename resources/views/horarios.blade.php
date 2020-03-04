@@ -26,9 +26,9 @@
         <div class="color"></div>
         <h4>CrossFit</h4>
       </div>
-      <div class="cat frenetik">
+      <div class="cat frenetic">
         <div class="color"></div>
-        <h4>Frenetik</h4>
+        <h4>Frenetic</h4>
       </div>
       <div class="cat kids">
         <div class="color"></div>
@@ -36,7 +36,7 @@
       </div>
       <div class="cat barbell">
         <div class="color"></div>
-        <h4>Barbell</h4>
+        <h4>Barbell Club</h4>
       </div>
       <div class="cat obox">
         <div class="color"></div>
@@ -68,14 +68,14 @@
             <p>10:00 - 11:00 hrs</p>
             <h5>CrossFit</h5>
           </div>
-          <div class="item frenetik">
+          <div class="item frenetic">
             <p>10:00 - 11:00 hrs</p>
-            <h5>Frenetik</h5>
+            <h5>Frenetic</h5>
           </div>
         </div>
-        <div class="item kids">
+        <div class="item obox">
           <p>11:00 - 12:00 hrs</p>
-          <h5>Kids</h5>
+          <h5>Open Box</h5>
         </div>
         <div class="item crossfit">
           <p>12:00 - 13:00 hrs</p>
@@ -98,9 +98,9 @@
             <p>18:00 - 19:00 hrs</p>
             <h5>CrossFit</h5>
           </div>
-          <div class="item frenetik">
+          <div class="item frenetic">
             <p>18:30 - 19:30 hrs</p>
-            <h5>Frenetik</h5>
+            <h5>Frenetic</h5>
           </div>
         </div>
         <div class="item-grid">
@@ -108,9 +108,9 @@
             <p>19:00 - 20:00 hrs</p>
             <h5>CrossFit</h5>
           </div>
-          <div class="item frenetik">
+          <div class="item frenetic">
             <p>19:30 - 20:30 hrs</p>
-            <h5>Frenetik</h5>
+            <h5>Frenetic</h5>
           </div>
         </div>
         <div class="item crossfit">
@@ -131,7 +131,7 @@
         <div class="item void"></div>
         <div class="item barbell">
           <p>08:30 - 10:00 hrs</p>
-          <h5>Barbell</h5>
+          <h5>Barbell Club</h5>
         </div>
         <div class="item crossfit">
           <p>10:00 - 11:00 hrs</p>

@@ -36,8 +36,8 @@
           </a>
         </div>
         <div class="menu-item fix-item-space">
-          <a href="{{url('/frenetik')}}" class="link-menu w-inline-block">
-            <div class="text-menu">Frenetik</div>
+          <a href="{{url('/frenetic')}}" class="link-menu w-inline-block">
+            <div class="text-menu">Frenetic</div>
           </a>
         </div>
         <div class="menu-item fix-item-space">

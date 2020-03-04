@@ -23,8 +23,8 @@ Route::get('/crossfit', function () {
     return view('crossfit');
 });
 
-Route::get('/frenetik', function () {
-    return view('frenetik');
+Route::get('/frenetic', function () {
+    return view('frenetic');
 });
 
 Route::get('/planes', function () {
