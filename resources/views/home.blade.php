@@ -12,9 +12,9 @@
   <div data-delay="4000" data-animation="slide" data-autoplay="1" data-easing="ease-in-out" data-nav-spacing="7" data-duration="500" data-infinite="1" class="slider-2 main-slider w-slider">
     <div class="mask w-slider-mask">
       {{-- Estas son las diapos --}}
-      <a href="{{url('/prueba')}}" class="slide-1 w-slide"></a>
-      <a href="{{url('/planes')}}" class="slide-2 w-slide"></a>
-      <a href="{{url('/app')}}" class="slide-3 w-slide" target="_blank"></a>
+      <a href="{{url('/frenetic')}}" class="slide-1 w-slide"></a>
+      <a href="{{url('/prueba')}}" class="slide-2 w-slide"></a>
+      <a href="{{url('/conocenos')}}" class="slide-3 w-slide"></a>
       <a href="{{url('/app')}}" class="slide-4 w-slide" target="_blank"></a>
     </div>
     <div class="w-slider-arrow-left">
@@ -69,12 +69,12 @@
           </div>
           <div id="w-node-f8768fa7bdd7-b4aeb525" class="content-promo">
             <div class="horario-promo">
-              <div class="content-hd-promo">Lunes a Sábado</div>
-              <h4 class="content-content-promo">Horario Liberado</h4>
+              <div class="content-hd-promo">Lunes a Domingo</div>
+              <h4 class="content-content-promo">CrossFit + Frenetic<br>2 veces al día<br>Horario a elección</h4>
             </div>
             <div class="valor">
               <div class="content-hd-promo">Precio</div>
-              <h4 class="content-content-promo">$45.000</h4>
+              <h4 class="content-content-promo">$60.000</h4>
               <div class="content-span-promo">/ mes</div>
             </div>
           </div>
@@ -90,12 +90,12 @@
           </div>
           <div id="w-node-92fdd296f84a-b4aeb525" class="content-promo">
             <div class="horario-promo">
-              <div class="content-hd-promo">Lunes a Sábado</div>
-              <h4 class="content-content-promo">12 Clases / mes</h4>
+              <div class="content-hd-promo">Lunes a Domingo</div>
+              <h4 class="content-content-promo">CrossFit + Frenetic<br>Horario a elección</h4>
             </div>
             <div class="valor">
               <div class="content-hd-promo">Precio</div>
-              <h4 class="content-content-promo">$40.000</h4>
+              <h4 class="content-content-promo">$45.000</h4>
               <div class="content-span-promo">/ mes</div>
             </div>
           </div><a href="https://wa.me/56940207699?text=Hola,%20quiero%20contratar%20el%20plan%2012%20Sesiones" id="boton-whatsapp-plan-12" target="_blank" class="plan-page-cta-button w-button"><img class="img-whatsapp" src="../images/whatsapp_icon.svg">Contratar via Whatsapp</a><a id="w-node-81adf3ba3d49-b4aeb525" href="{{url('/planes')}}" class="plan-page-cta-button w-button">Más Info</a></div>
@@ -108,12 +108,12 @@
           </div>
           <div id="w-node-2b1b2970c394-b4aeb525" class="content-promo">
             <div class="horario-promo">
-              <div class="content-hd-promo">Lunes a Sábado</div>
-              <h4 class="content-content-promo">09:00 - 12:00 hrs</h4>
+              <div class="content-hd-promo">Lunes a Domingo</div>
+              <h4 class="content-content-promo">CrossFit hasta 18.00hrs<br>Frenetic hasta 18:30 hrs</h4>
             </div>
             <div class="valor">
               <div class="content-hd-promo">Precio</div>
-              <h4 class="content-content-promo">$30.000</h4>
+              <h4 class="content-content-promo">$25.990</h4>
               <div class="content-span-promo">/ mes</div>
             </div>
           </div><a href="https://wa.me/56940207699?text=Hola,%20quiero%20contratar%20el%20plan%20Full%20AM" id="boton-whatsapp-plan-am" target="_blank" class="plan-page-cta-button w-button"><img class="img-whatsapp" src="../images/whatsapp_icon.svg">Contratar via Whatsapp</a><a id="w-node-c9522a9962a4-b4aeb525" href="{{url('/planes')}}" class="plan-page-cta-button w-button">Más Info</a></div>
@@ -126,12 +126,12 @@
           </div>
           <div id="w-node-1c4644ce1983-b4aeb525" class="content-promo">
             <div class="horario-promo">
-              <div class="content-hd-promo">Lunes a Sábado</div>
-              <h4 class="content-content-promo">07:00 - 12:00 hrs<br>17:00 - 18:00 hrs</h4>
+              <div class="content-hd-promo">Lunes a Domingo</div>
+              <h4 class="content-content-promo">CrossFit + Frenetic<br>09:00 - 10:00 y 12:00 hrs</h4>
             </div>
             <div class="valor">
               <div class="content-hd-promo">Precio</div>
-              <h4 class="content-content-promo">$25.000</h4>
+              <h4 class="content-content-promo">$35.000</h4>
               <div class="content-span-promo">/ mes</div>
             </div>
           </div><a href="https://wa.me/56940207699?text=Hola,%20quiero%20contratar%20el%20plan%20Estudiantes" id="boton-whatsapp-plan-estudiantes" target="_blank" class="plan-page-cta-button w-button"><img class="img-whatsapp" src="../images/whatsapp_icon.svg">Contratar via Whatsapp</a><a id="w-node-eb463b4ab61d-b4aeb525" href="{{url('/planes')}}" class="plan-page-cta-button w-button">Más Info</a></div>

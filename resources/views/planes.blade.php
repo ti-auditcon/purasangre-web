@@ -167,7 +167,7 @@
             <div class="mini-data plan-fondo-estudiantes">
               <div class="card-heading">
                 <div class="title">
-                  <h1 class="title-card clipped">Plan Estudiantes</h1>
+                  <h1 class="title-card clipped">Plan Estudiante</h1>
                   <h5 class="title-card-type">Mensual</h5>
                 </div>
               </div>
