@@ -63,7 +63,7 @@
                 </div>
               </div>
               <div class="plan-button-container">
-                <a href="https://wa.me/56940207699?text=Hola,%20quiero%20contratar%20el%20plan%20Full%20Fit" target="_blank" class="plan-page-cta-button special-button w-button" id="boton-whatsapp-plan-full"><img class="img-whatsapp" src="../images/whatspp_icon_gold.svg">
+                <a href="https://wa.me/56940207699?text=Hola,%20quiero%20contratar%20el%20plan%20Extra%20Full" target="_blank" class="plan-page-cta-button special-button w-button" id="boton-whatsapp-plan-extra-full"><img class="img-whatsapp" src="../images/whatspp_icon_gold.svg">
                   Contratar via Whatsapp
                 </a>
               </div>
@@ -94,7 +94,7 @@
                   <div class="content-span">/ mes</div>
                 </div>
               </div>
-              <div class="plan-button-container"><a href="https://wa.me/56940207699?text=Hola,%20quiero%20contratar%20el%20plan%20Full%20AM" target="_blank" class="plan-page-cta-button w-button" id="boton-whatsapp-plan-am"><img class="img-whatsapp" src="../images/whatsapp_icon.svg">Contratar via Whatsapp</a></div>
+              <div class="plan-button-container"><a href="https://wa.me/56940207699?text=Hola,%20quiero%20contratar%20el%20plan%20Full" target="_blank" class="plan-page-cta-button w-button" id="boton-whatsapp-plan-full"><img class="img-whatsapp" src="../images/whatsapp_icon.svg">Contratar via Whatsapp</a></div>
             </div>
           </div>
 
@@ -126,7 +126,7 @@
                   <div class="content-span">/ mes</div>
                 </div>
               </div>
-              <div class="plan-button-container"><a href="https://wa.me/56940207699?text=Hola,%20quiero%20contratar%20el%20plan%20Full%20AM" target="_blank" class="plan-page-cta-button w-button" id="boton-whatsapp-plan-am"><img class="img-whatsapp" src="../images/whatsapp_icon.svg">Contratar via Whatsapp</a></div>
+              <div class="plan-button-container"><a href="https://wa.me/56940207699?text=Hola,%20quiero%20contratar%20el%20plan%20Full%20AM" target="_blank" class="plan-page-cta-button w-button" id="boton-whatsapp-plan-full-am"><img class="img-whatsapp" src="../images/whatsapp_icon.svg">Contratar via Whatsapp</a></div>
             </div>
           </div>
 
@@ -154,7 +154,7 @@
                   <div class="content-span">/ mes</div>
                 </div>
               </div>
-              <div class="plan-button-container"><a href="https://wa.me/56940207699?text=Hola,%20quiero%20contratar%20el%20plan%20Full%20AM" target="_blank" class="plan-page-cta-button w-button" id="boton-whatsapp-plan-am"><img class="img-whatsapp" src="../images/whatsapp_icon.svg">Contratar via Whatsapp</a></div>
+              <div class="plan-button-container"><a href="https://wa.me/56940207699?text=Hola,%20quiero%20contratar%20el%20plan%20AM" target="_blank" class="plan-page-cta-button w-button" id="boton-whatsapp-plan-am"><img class="img-whatsapp" src="../images/whatsapp_icon.svg">Contratar via Whatsapp</a></div>
             </div>
           </div>
 
@@ -167,7 +167,7 @@
             <div class="mini-data plan-fondo-estudiantes">
               <div class="card-heading">
                 <div class="title">
-                  <h1 class="title-card clipped">Plan Estudiante</h1>
+                  <h1 class="title-card clipped">Plan Estudiantes</h1>
                   <h5 class="title-card-type">Mensual</h5>
                 </div>
               </div>
@@ -186,7 +186,11 @@
                   <div class="content-span">/ mes</div>
                 </div>
               </div>
-              <div class="plan-button-container"><a href="https://wa.me/56940207699?text=Hola,%20quiero%20contratar%20el%20plan%20Full%20AM" target="_blank" class="plan-page-cta-button w-button" id="boton-whatsapp-plan-am"><img class="img-whatsapp" src="../images/whatsapp_icon.svg">Contratar via Whatsapp</a></div>
+              <div class="plan-button-container">
+                <a href="https://wa.me/56940207699?text=Hola,%20quiero%20contratar%20el%20plan%20Estudiantes" target="_blank" class="plan-page-cta-button w-button" id="boton-whatsapp-plan-estudiantes">
+                  <img class="img-whatsapp" src="../images/whatsapp_icon.svg">Contratar via Whatsapp
+                </a>
+              </div>
             </div>
           </div>
 
@@ -214,7 +218,11 @@
                   <div class="content-span">/ mes</div>
                 </div>
               </div>
-              <div class="plan-button-container"><a href="https://wa.me/56940207699?text=Hola,%20quiero%20contratar%20el%20plan%20Full%20AM" target="_blank" class="plan-page-cta-button w-button" id="boton-whatsapp-plan-am"><img class="img-whatsapp" src="../images/whatsapp_icon.svg">Contratar via Whatsapp</a></div>
+              <div class="plan-button-container">
+                <a href="https://wa.me/56940207699?text=Hola,%20quiero%20contratar%20el%20plan%20Weekend" target="_blank" class="plan-page-cta-button w-button" id="boton-whatsapp-plan-weekend">
+                  <img class="img-whatsapp" src="../images/whatsapp_icon.svg">Contratar via Whatsapp
+                </a>
+              </div>
             </div>
           </div>
 
@@ -246,7 +254,7 @@
                   <div class="content-span">/ mes</div>
                 </div>
               </div>
-              <div class="plan-button-container"><a href="https://wa.me/56940207699?text=Hola,%20quiero%20contratar%20el%20plan%20Full%20AM" target="_blank" class="plan-page-cta-button w-button" id="boton-whatsapp-plan-am"><img class="img-whatsapp" src="../images/whatsapp_icon.svg">Contratar via Whatsapp</a></div>
+              <div class="plan-button-container"><a href="https://wa.me/56940207699?text=Hola,%20quiero%20contratar%20el%20plan%2012%20Sesiones" target="_blank" class="plan-page-cta-button w-button" id="boton-whatsapp-plan-12"><img class="img-whatsapp" src="../images/whatsapp_icon.svg">Contratar via Whatsapp</a></div>
             </div>
           </div>
 
@@ -274,7 +282,7 @@
                   <div class="content-span">/ mes</div>
                 </div>
               </div>
-              <div class="plan-button-container"><a href="https://wa.me/56940207699?text=Hola,%20quiero%20contratar%20el%20plan%20Full%20AM" target="_blank" class="plan-page-cta-button w-button" id="boton-whatsapp-plan-am"><img class="img-whatsapp" src="../images/whatsapp_icon.svg">Contratar via Whatsapp</a></div>
+              <div class="plan-button-container"><a href="https://wa.me/56940207699?text=Hola,%20quiero%20contratar%20el%20plan%208%20Sesiones" target="_blank" class="plan-page-cta-button w-button" id="boton-whatsapp-plan-8"><img class="img-whatsapp" src="../images/whatsapp_icon.svg">Contratar via Whatsapp</a></div>
             </div>
           </div>
 

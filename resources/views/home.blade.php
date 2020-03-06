@@ -58,6 +58,7 @@
         {{-- <div class="text-block disclaimer-heading">Ya no existen las excusas. <br>Tenemos planes que se adaptan a tu tiempo y a tu bolsillo.</div> --}}
       </div>
       <div class="cards">
+
         <div id="w-node-0703020e6b19-b4aeb525" class="card-promo card-promo-bg1">
           <div id="w-node-964fde077025-b4aeb525" class="card-promo-heading">
             <div class="title-promo">
@@ -78,9 +79,14 @@
               <div class="content-span-promo">/ mes</div>
             </div>
           </div>
-          <a href="https://wa.me/56940207699?text=Hola,%20quiero%20contratar%20el%20plan%20Full%20Fit" id="boton-whatsapp-plan-full" target="_blank" class="plan-page-cta-button special-button w-button"><img class="img-whatsapp" src="../images/whatspp_icon_gold.svg">Contratar via Whatsapp</a>
-          <a id="w-node-cf61a32bec36-b4aeb525" href="{{url('/planes')}}" class="plan-page-cta-button special-button w-button">Más info</a>
+          <a href="https://wa.me/56940207699?text=Hola,%20quiero%20contratar%20el%20plan%20Extra%20Full" id="boton-whatsapp-plan-extra-full" target="_blank" class="plan-page-cta-button special-button w-button">
+            <img class="img-whatsapp" src="../images/whatspp_icon_gold.svg">Contratar via Whatsapp
+          </a>
+          <a id="w-node-cf61a32bec36-b4aeb525" href="{{url('/planes')}}" class="plan-page-cta-button special-button w-button">
+            Más info
+          </a>
         </div>
+
         <div id="w-node-92fdd296f840-b4aeb525" class="card-promo card-promo-bg-2">
           <div id="w-node-92fdd296f841-b4aeb525" class="card-promo-heading">
             <div class="title-promo">
@@ -98,11 +104,18 @@
               <h4 class="content-content-promo">$45.000</h4>
               <div class="content-span-promo">/ mes</div>
             </div>
-          </div><a href="https://wa.me/56940207699?text=Hola,%20quiero%20contratar%20el%20plan%2012%20Sesiones" id="boton-whatsapp-plan-12" target="_blank" class="plan-page-cta-button w-button"><img class="img-whatsapp" src="../images/whatsapp_icon.svg">Contratar via Whatsapp</a><a id="w-node-81adf3ba3d49-b4aeb525" href="{{url('/planes')}}" class="plan-page-cta-button w-button">Más Info</a></div>
+          </div>
+          <a href="https://wa.me/56940207699?text=Hola,%20quiero%20contratar%20el%20plan%20Full" id="boton-whatsapp-plan-full" target="_blank" class="plan-page-cta-button w-button">
+            <img class="img-whatsapp" src="../images/whatsapp_icon.svg">Contratar via Whatsapp</a>
+          <a id="w-node-81adf3ba3d49-b4aeb525" href="{{url('/planes')}}" class="plan-page-cta-button w-button">
+            Más Info
+          </a>
+        </div>
+
         <div id="w-node-2b1b2970c38a-b4aeb525" class="card-promo card-promo-bg-3">
           <div id="w-node-2b1b2970c38b-b4aeb525" class="card-promo-heading">
             <div class="title-promo">
-              <h1 class="title-card-promo clipped">Plan Estudiante</h1>
+              <h1 class="title-card-promo clipped">Plan Estudiantes</h1>
               <h5 class="title-card-type-promo">Mensual</h5>
             </div>
           </div>
@@ -116,7 +129,15 @@
               <h4 class="content-content-promo">$25.990</h4>
               <div class="content-span-promo">/ mes</div>
             </div>
-          </div><a href="https://wa.me/56940207699?text=Hola,%20quiero%20contratar%20el%20plan%20Full%20AM" id="boton-whatsapp-plan-am" target="_blank" class="plan-page-cta-button w-button"><img class="img-whatsapp" src="../images/whatsapp_icon.svg">Contratar via Whatsapp</a><a id="w-node-c9522a9962a4-b4aeb525" href="{{url('/planes')}}" class="plan-page-cta-button w-button">Más Info</a></div>
+          </div>
+          <a href="https://wa.me/56940207699?text=Hola,%20quiero%20contratar%20el%20plan%20Estudiantes" id="boton-whatsapp-plan-estudiantes" target="_blank" class="plan-page-cta-button w-button">
+            <img class="img-whatsapp" src="../images/whatsapp_icon.svg">Contratar via Whatsapp
+          </a>
+            <a id="w-node-c9522a9962a4-b4aeb525" href="{{url('/planes')}}" class="plan-page-cta-button w-button">
+              Más Info
+            </a>
+        </div>
+
         <div id="w-node-1c4644ce1979-b4aeb525" class="card-promo card-promo-bg-4">
           <div id="w-node-1c4644ce197a-b4aeb525" class="card-promo-heading">
             <div class="title-promo">
@@ -134,7 +155,8 @@
               <h4 class="content-content-promo">$35.000</h4>
               <div class="content-span-promo">/ mes</div>
             </div>
-          </div><a href="https://wa.me/56940207699?text=Hola,%20quiero%20contratar%20el%20plan%20Estudiantes" id="boton-whatsapp-plan-estudiantes" target="_blank" class="plan-page-cta-button w-button"><img class="img-whatsapp" src="../images/whatsapp_icon.svg">Contratar via Whatsapp</a><a id="w-node-eb463b4ab61d-b4aeb525" href="{{url('/planes')}}" class="plan-page-cta-button w-button">Más Info</a></div>
+          </div><a href="https://wa.me/56940207699?text=Hola,%20quiero%20contratar%20el%20plan%20Full%20AM" id="boton-whatsapp-plan-full-am" target="_blank" class="plan-page-cta-button w-button"><img class="img-whatsapp" src="../images/whatsapp_icon.svg">Contratar via Whatsapp</a><a id="w-node-eb463b4ab61d-b4aeb525" href="{{url('/planes')}}" class="plan-page-cta-button w-button">Más Info</a>
+        </div>
       </div>
       <div class="div-block cta-planes-home">
         <a href="{{url('/planes')}}" class="button green-button w-button planes-button">Ver todos los planes</a>
@@ -224,7 +246,10 @@
           </div>
 
 
-          <a href="https://wa.me/56940207699?text=Hola,%20quiero%20reservar%20una%20hora%20con%20la%20Nutricionista" class="green-button w-button guereber"><img class="img-whatsapp" src="../images/whatsapp_icon.svg">Reserva una hora via WhatsApp</a>
+          <a href="https://wa.me/56940207699?text=Hola,%20quiero%20reservar%20una%20hora%20con%20la%20Nutricionista" class="green-button w-button guereber">
+            <img class="img-whatsapp" src="../images/whatsapp_icon.svg">
+            Reserva una hora via WhatsApp
+          </a>
         </div>
       </div>
       <div id="w-node-250d504b0522-cf5d8cad" class="img-inv img-nutricionista"></div>

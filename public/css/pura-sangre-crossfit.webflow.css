@@ -4960,7 +4960,8 @@ div#fb-root {
   }
 }
 
-#boton-whatsapp-plan-full {
+#boton-whatsapp-plan-full,
+#boton-whatsapp-plan-extra-full {
   -ms-grid-column: 1;
   grid-column-start: 1;
   -ms-grid-row: 3;
@@ -4974,7 +4975,8 @@ div#fb-root {
 }
 
 @media screen and (max-width: 991px) {
-  #boton-whatsapp-plan-full {
+  #boton-whatsapp-plan-full,
+  #boton-whatsapp-plan-extra-full {
     -ms-grid-column: 1;
     grid-column-start: 1;
     -ms-grid-row: 3;
@@ -5430,7 +5432,8 @@ div#fb-root {
   align-self: end;
 }
 
-#boton-whatsapp-plan-estudiantes {
+#boton-whatsapp-plan-estudiantes,
+#boton-whatsapp-plan-full-am {
   -ms-grid-column: 1;
   grid-column-start: 1;
   -ms-grid-row: 3;
@@ -5444,7 +5447,8 @@ div#fb-root {
 }
 
 @media screen and (max-width: 991px) {
-  #boton-whatsapp-plan-estudiantes {
+  #boton-whatsapp-plan-estudiantes,
+  #boton-whatsapp-plan-full-am {
     -ms-grid-column: 1;
     grid-column-start: 1;
     -ms-grid-row: 3;
