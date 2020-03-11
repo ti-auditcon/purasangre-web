@@ -1240,7 +1240,9 @@ div#fb-root {
   .slider-2 {
     /* height: 52vh; */
     /* min-height: 730px; */
-    min-height: 700px;
+    /* min-height: 700px; */
+    /* min-height: 600px; */
+    min-height: 100vh;
   }
 }
 
