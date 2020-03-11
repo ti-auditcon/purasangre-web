@@ -1245,7 +1245,7 @@ div#fb-root {
   background-position: center;
   background-size: cover;
 }
-@media (min-width: 769px) {
+@media (min-width: 768px) {
   .slide-1 {
     background-image: url('../images/hero-gimnacio-1-l.jpg');
     background-position: center;
