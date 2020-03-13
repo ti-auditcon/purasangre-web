@@ -49,7 +49,7 @@
               </div>
               <div class="plan-text">
                 Incluye:<br>
-                <b>CrossFit + Frenetic (2 veces al día)</b>
+                <b>CrossFit + Frenetic</b>
               </div>
               <div class="content content-page">
                 <div class="horario">
@@ -81,7 +81,7 @@
               </div>
               <div class="plan-text">
                 Incluye:<br>
-                <b>CrossFit + Frenetic</b>
+                <b>CrossFit o Frenetic</b>
               </div>
               <div class="content content-page">
                 <div class="horario">
@@ -113,7 +113,7 @@
               </div>
               <div class="plan-text">
                 Incluye:<br>
-                <b>CrossFit + Frenetic</b>
+                <b>CrossFit o Frenetic</b>
               </div>
               <div class="content content-page">
                 <div class="horario">
@@ -145,8 +145,8 @@
               </div>
               <div class="content content-page">
                 <div class="horario">
-                  <div class="content-hd">Lunes a Viernes</div>
-                  <h4 class="content-content">09:00 - 10:00 y 12:00 hrs</h4>
+                  <div class="content-hd">Lunes a Domingo</div>
+                  <h4 class="content-content">09:00 - 10:00 y 12:00 hrs<br>Fin de semana (Horario a elección)</h4>
                 </div>
                 <div class="valor">
                   <div class="content-hd">Precio</div>
@@ -173,7 +173,7 @@
               </div>
               <div class="plan-text">
                 Incluye<br>
-                <b>CrossFit + Frenetic</b>
+                <b>CrossFit o Frenetic</b>
               </div>
               <div class="content content-page">
                 <div class="horario">
@@ -205,7 +205,7 @@
               </div>
               <div class="plan-text">
                 Incluye<br>
-                <b>CrossFit</b>
+                <b>CrossFit o  Frenetic</b>
               </div>
               <div class="content content-page">
                 <div class="horario">
@@ -241,7 +241,7 @@
               </div>
               <div class="plan-text">
                 Incluye<br>
-                <b>CrossFit +  Frenetic (12 Clases al mes)</b>
+                <b>CrossFit o Frenetic</b>
               </div>
               <div class="content content-page">
                 <div class="horario">
@@ -269,7 +269,7 @@
               </div>
               <div class="plan-text">
                 Incluye<br>
-                <b>CrossFit + Frenetic (8 Clases al mes)</b>
+                <b>CrossFit o Frenetic</b>
               </div>
               <div class="content content-page">
                 <div class="horario">

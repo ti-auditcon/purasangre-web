@@ -2421,7 +2421,7 @@ div#fb-root {
 .card-promo {
   display: -ms-grid;
   display: grid;
-  height: 357px;
+  /* height: 357px; */
   padding: 34px 41px;
   grid-auto-columns: 1fr;
   grid-column-gap: 16px;
@@ -2434,6 +2434,12 @@ div#fb-root {
   border-width: 1px;
   border-color: hsla(202.98507462686567, 0.00%, 72.00%, 1.00);
   border-radius: 4px;
+}
+
+@media (min-width: 1200px) {
+  .card-promo {
+    height: 357px;
+  }
 }
 
 .card-promo.card-promo-bg1 {
@@ -3244,7 +3250,8 @@ div#fb-root {
     font-size: 13px;
   }
   .content-content-promo {
-    font-size: 20px;
+    font-size: 18px;
+    line-height: 130%;
   }
   .menu-item {
     /* min-width: 100px; */
