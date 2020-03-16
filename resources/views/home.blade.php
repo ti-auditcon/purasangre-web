@@ -97,7 +97,7 @@
           <div id="w-node-92fdd296f84a-b4aeb525" class="content-promo">
             <div class="horario-promo">
               <div class="content-hd-promo">Lunes a Domingo</div>
-              <h4 class="content-content-promo">CrossFit + Frenetic<br>Horario a elección</h4>
+              <h4 class="content-content-promo">CrossFit o Frenetic<br>Horario a elección</h4>
             </div>
             <div class="valor">
               <div class="content-hd-promo">Precio</div>
@@ -148,7 +148,7 @@
           <div id="w-node-1c4644ce1983-b4aeb525" class="content-promo">
             <div class="horario-promo">
               <div class="content-hd-promo">Lunes a Domingo</div>
-              <h4 class="content-content-promo">CrossFit + Frenetic<br>09:00 - 10:00 y 12:00 hrs</h4>
+              <h4 class="content-content-promo">CrossFit o Frenetic<br>09:00 - 10:00 y 12:00 hrs</h4>
             </div>
             <div class="valor">
               <div class="content-hd-promo">Precio</div>

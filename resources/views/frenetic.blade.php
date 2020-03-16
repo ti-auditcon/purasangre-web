@@ -51,7 +51,7 @@
         <div id="w-node-250d504b0523-0af2eacb" class="data">
           <h3 class="subtitle">Warm Up</h3>
           <div class="text-block-5">
-            Es una parte fundamental de la clase, ya que se desarrollan habilidades, aprendemos teoría, trabajamos y mejoramos las técnicas de ejecución de los diferentes ejercicios.
+            Preparamos el cuerpo a través de movilidad articular y movimientos previos para conocer la teoría y técnica de los ejercicios a trabajar posteriormente.
           </div>
         </div>
       </div>

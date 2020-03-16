@@ -279,6 +279,12 @@
   background-size: auto, cover;
 }
 
+@media (max-width: 479px) {
+  .cta-big.cta-crossfit.cta-habilidades-f {
+    background-position: 55%;
+  }
+}
+
 
 /***************
 ****  Promo  ****
