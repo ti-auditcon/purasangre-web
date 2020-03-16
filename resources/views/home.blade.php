@@ -136,7 +136,7 @@
             <div class="horario-promo">
               <div class="content-hd-promo">
                 Incluye: <br>
-                CrossFit o Frenetic
+                <b>CrossFit o Frenetic</b>
               </div>
               <h4 class="content-content-promo">
                 Lunes a Domingo<br> 
