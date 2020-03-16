@@ -2150,6 +2150,12 @@ div#fb-root {
   color: #fff;
 }
 
+/* @media (max-width: 479px) {
+  .checklist {
+    text-align: left;
+  }  
+} */
+
 .checklist-item {
   display: inline-block;
   margin-bottom: 0px;
@@ -3690,23 +3696,23 @@ div#fb-root {
     -webkit-flex-wrap: nowrap;
     -ms-flex-wrap: nowrap;
     flex-wrap: nowrap;
-    text-align: center;
+    text-align: left;
   }
   .check-icon {
     display: inline;
   }
   .checklist-item-wrapper {
-    display: inline-block;
+    /* display: inline-block; */
     width: 100%;
     -webkit-box-orient: horizontal;
     -webkit-box-direction: normal;
     -webkit-flex-direction: row;
     -ms-flex-direction: row;
     flex-direction: row;
-    -webkit-box-pack: center;
+    /* -webkit-box-pack: center;
     -webkit-justify-content: center;
     -ms-flex-pack: center;
-    justify-content: center;
+    justify-content: center; */
     -webkit-flex-wrap: nowrap;
     -ms-flex-wrap: nowrap;
     flex-wrap: nowrap;
@@ -4041,7 +4047,7 @@ div#fb-root {
     padding-bottom: 92px;
   }
   .content.content-page {
-    margin-top: 32px;
+    margin-top: 16px;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
     -webkit-flex-direction: column;
@@ -4050,7 +4056,8 @@ div#fb-root {
   }
   .horario {
     width: 100%;
-    margin-bottom: 8px;
+    /* margin-bottom: 8px; */
+    margin-bottom: 5px;
   }
   .the-form {
     margin-bottom: 0;
@@ -11188,6 +11195,7 @@ div#fb-root {
   }
   .app-data .checklist {
     /* margin-top: 22px; */
+    /* text-align: left; */
   }
   .app-data .checklist .checklist-item {
   }
