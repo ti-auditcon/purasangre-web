@@ -70,12 +70,19 @@
           </div>
           <div id="w-node-f8768fa7bdd7-b4aeb525" class="content-promo">
             <div class="horario-promo">
-              <div class="content-hd-promo">Lunes a Domingo</div>
-              <h4 class="content-content-promo">CrossFit + Frenetic<br>2 veces al día<br>Horario a elección</h4>
+              <div class="content-hd-promo">
+                {{-- Lunes a Domingo --}}
+                Incluye:<br>
+                <b>CrossFit + Frenetic</b>
+              </div>
+              <h4 class="content-content-promo">
+                Lunes a Domingo<br>
+                <b>Horario a Elección</b>
+              </h4>
             </div>
             <div class="valor">
               <div class="content-hd-promo">Precio</div>
-              <h4 class="content-content-promo">$60.000</h4>
+              <h4 class="content-content-promo price"><b>$60.000</b></h4>
               <div class="content-span-promo">/ mes</div>
             </div>
           </div>
@@ -96,12 +103,18 @@
           </div>
           <div id="w-node-92fdd296f84a-b4aeb525" class="content-promo">
             <div class="horario-promo">
-              <div class="content-hd-promo">Lunes a Domingo</div>
-              <h4 class="content-content-promo">CrossFit o Frenetic<br>Horario a elección</h4>
+              <div class="content-hd-promo">
+                Incluye<br>
+                <b>CrossFit o Frenetic</b>
+              </div>
+              <h4 class="content-content-promo">
+                Lunes a Domingo<br>
+                <b>Horario a Elección</b>
+              </h4>
             </div>
             <div class="valor">
               <div class="content-hd-promo">Precio</div>
-              <h4 class="content-content-promo">$45.000</h4>
+              <h4 class="content-content-promo price"><b>$45.000</b></h4>
               <div class="content-span-promo">/ mes</div>
             </div>
           </div>
@@ -121,12 +134,19 @@
           </div>
           <div id="w-node-2b1b2970c394-b4aeb525" class="content-promo">
             <div class="horario-promo">
-              <div class="content-hd-promo">Lunes a Domingo</div>
-              <h4 class="content-content-promo">CrossFit hasta 18.00hrs<br>Frenetic hasta 18:30 hrs</h4>
+              <div class="content-hd-promo">
+                Incluye: <br>
+                CrossFit o Frenetic
+              </div>
+              <h4 class="content-content-promo">
+                Lunes a Domingo<br> 
+                <b>CrossFit hasta 18.00 hrs<br>
+                Frenetic hasta 18:30 hrs</b>
+              </h4>
             </div>
             <div class="valor">
               <div class="content-hd-promo">Precio</div>
-              <h4 class="content-content-promo">$25.990</h4>
+              <h4 class="content-content-promo price"><b>$25.990</b></h4>
               <div class="content-span-promo">/ mes</div>
             </div>
           </div>
@@ -147,12 +167,19 @@
           </div>
           <div id="w-node-1c4644ce1983-b4aeb525" class="content-promo">
             <div class="horario-promo">
-              <div class="content-hd-promo">Lunes a Domingo</div>
-              <h4 class="content-content-promo">CrossFit o Frenetic<br>09:00 - 10:00 y 12:00 hrs</h4>
+              <div class="content-hd-promo">
+                Incluye: <br>
+                <b>CrossFit o Frenetic</b>
+              </div>
+              <h4 class="content-content-promo">
+                Lunes a Domingo<br>
+                <b>09:00 - 10:00 y 12:00 hrs</b>
+                {{-- CrossFit o Frenetic<br>09:00 - 10:00 y 12:00 hrs --}}
+              </h4>
             </div>
             <div class="valor">
               <div class="content-hd-promo">Precio</div>
-              <h4 class="content-content-promo">$35.000</h4>
+              <h4 class="content-content-promo price"><b>$35.000</b></h4>
               <div class="content-span-promo">/ mes</div>
             </div>
           </div><a href="https://wa.me/56940207699?text=Hola,%20quiero%20contratar%20el%20plan%20Full%20AM" id="boton-whatsapp-plan-full-am" target="_blank" class="plan-page-cta-button w-button"><img class="img-whatsapp" src="../images/whatsapp_icon.svg">Contratar via Whatsapp</a><a id="w-node-eb463b4ab61d-b4aeb525" href="{{url('/planes')}}" class="plan-page-cta-button w-button">Más Info</a>

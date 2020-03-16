@@ -2724,15 +2724,23 @@ div#fb-root {
 .content-hd-promo {
   margin-bottom: 2px;
   color: #363636;
+  font-size: 17px;
 }
 
 .content-content-promo {
   display: inline-block;
-  margin-top: 0px;
+  margin-top: 8px;
   margin-right: 5px;
   margin-bottom: 0px;
   color: #000;
-  font-size: 22px;
+  /* font-size: 22px; */
+  line-height: 130%;
+  font-size: 17px;
+  font-weight: 400;
+}
+
+.content-content-promo.price {
+  margin-top: 0;
 }
 
 .content-content-promo.gradient-sky {

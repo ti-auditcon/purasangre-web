@@ -83,7 +83,7 @@
                 - CrossFit Weightlifting Trainer Level 2<br>
                 - CrossFit Mobility<br>
                 - CrossFit Gymnastic<br>
-                - CrossFit Weightlifting<br>
+                {{-- - CrossFit Weightlifting<br> --}}
                 - CrossFit Aerobic Capacity
               </div>
             </div>
