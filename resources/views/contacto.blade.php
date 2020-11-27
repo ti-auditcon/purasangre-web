@@ -35,8 +35,9 @@
           <div class="form-data-text">
             <strong>Horarios</strong><br>
             Lun a Vier de 07:00 a 14:15 hrs - 16:00 a 22:00 hrs<br>
-            Sábados de 08:30 a 13:00 hrs<br>
-            Domingos de 09:00 a 13:00 hrs
+            Sábados de 08:30 a 13:00 hrs
+            {{-- <br>
+            Domingos de 09:00 a 13:00 hrs --}}
           </div>
           <div class="form-data-text">
             <a href="https://facebook.com/purasangrecrossfit" target="_blank" class="link-00">

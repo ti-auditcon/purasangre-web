@@ -39,7 +39,7 @@
             <div class="plan-card-data plan-fondo-extra-full">
               <div class="card-heading">
                 <div class="title">
-                  <h1 class="title-card clipped special-title-card">Plan Extra Full</h1>
+                  <h1 class="title-card clipped special-title-card">Plan Full</h1>
                   <h5 class="title-card-type">Mensual</h5>
                 </div>
                 <div class="featured-promo">
@@ -53,17 +53,17 @@
               </div>
               <div class="content content-page">
                 <div class="horario">
-                  <div class="content-hd">Lunes a Domingo</div>
-                  <h4 class="content-content">Horario a Elección</h4>
+                  <div class="content-hd">Lunes a Sábados</div>
+                  <h4 class="content-content">Cualquier Horario</h4>
                 </div>
                 <div class="valor">
                   <div class="content-hd">Precio</div>
-                  <h4 class="content-content">$60.000</h4>
+                  <h4 class="content-content">$45.000</h4>
                   <div class="content-span">/ mes</div>
                 </div>
               </div>
               <div class="plan-button-container">
-                <a href="https://wa.me/56940207699?text=Hola,%20quiero%20contratar%20el%20plan%20Extra%20Full" target="_blank" class="plan-page-cta-button special-button w-button" id="boton-whatsapp-plan-extra-full"><img class="img-whatsapp" src="../images/whatspp_icon_gold.svg">
+                <a href="https://wa.me/56940207699?text=Hola,%20quiero%20contratar%20el%20plan%20Full" target="_blank" class="plan-page-cta-button special-button w-button" id="boton-whatsapp-plan-full"><img class="img-whatsapp" src="../images/whatspp_icon_gold.svg">
                   Contratar via Whatsapp
                 </a>
               </div>
@@ -75,7 +75,7 @@
             <div class="mini-data plan-fondo-full">
               <div class="card-heading">
                 <div class="title">
-                  <h1 class="title-card clipped">Plan Full</h1>
+                  <h1 class="title-card clipped">Plan Medium</h1>
                   <h5 class="title-card-type">Mensual</h5>
                 </div>
               </div>
@@ -85,16 +85,16 @@
               </div>
               <div class="content content-page">
                 <div class="horario">
-                  <div class="content-hd">Lunes a Domingo</div>
-                  <h4 class="content-content">Horario a elección</h4>
+                  <div class="content-hd">Lunes a Sábados</div>
+                  <h4 class="content-content">12 Clases al mes</h4>
                 </div>
                 <div class="valor">
                   <div class="content-hd">Precio</div>
-                  <h4 class="content-content">$45.000</h4>
+                  <h4 class="content-content">$40.000</h4>
                   <div class="content-span">/ mes</div>
                 </div>
               </div>
-              <div class="plan-button-container"><a href="https://wa.me/56940207699?text=Hola,%20quiero%20contratar%20el%20plan%20Full" target="_blank" class="plan-page-cta-button w-button" id="boton-whatsapp-plan-full"><img class="img-whatsapp" src="../images/whatsapp_icon.svg">Contratar via Whatsapp</a></div>
+              <div class="plan-button-container"><a href="https://wa.me/56940207699?text=Hola,%20quiero%20contratar%20el%20plan%20Medium" target="_blank" class="plan-page-cta-button w-button" id="boton-whatsapp-plan-medium"><img class="img-whatsapp" src="../images/whatsapp_icon.svg">Contratar via Whatsapp</a></div>
             </div>
           </div>
 
@@ -107,7 +107,7 @@
             <div class="mini-data plan-fondo-full-am">
               <div class="card-heading">
                 <div class="title">
-                  <h1 class="title-card clipped">Plan Full AM</h1>
+                  <h1 class="title-card clipped">Plan AM</h1>
                   <h5 class="title-card-type">Mensual</h5>
                 </div>
               </div>
@@ -117,8 +117,8 @@
               </div>
               <div class="content content-page">
                 <div class="horario">
-                  <div class="content-hd">Lunes a Domingo</div>
-                  <h4 class="content-content">09:00 - 10:00 y 12:00 hrs</h4>
+                  <div class="content-hd">Lunes a Sábados</div>
+                  <h4 class="content-content">09:00 - 10:00 - 11:00 y 12:00 hrs</h4>
                 </div>
                 <div class="valor">
                   <div class="content-hd">Precio</div>
@@ -126,7 +126,7 @@
                   <div class="content-span">/ mes</div>
                 </div>
               </div>
-              <div class="plan-button-container"><a href="https://wa.me/56940207699?text=Hola,%20quiero%20contratar%20el%20plan%20Full%20AM" target="_blank" class="plan-page-cta-button w-button" id="boton-whatsapp-plan-full-am"><img class="img-whatsapp" src="../images/whatsapp_icon.svg">Contratar via Whatsapp</a></div>
+              <div class="plan-button-container"><a href="https://wa.me/56940207699?text=Hola,%20quiero%20contratar%20el%20plan%20Full%20AM" target="_blank" class="plan-page-cta-button w-button" id="boton-whatsapp-plan-am"><img class="img-whatsapp" src="../images/whatsapp_icon.svg">Contratar via Whatsapp</a></div>
             </div>
           </div>
 
@@ -135,7 +135,7 @@
             <div class="mini-data plan-fondo-am">
               <div class="card-heading">
                 <div class="title">
-                  <h1 class="title-card clipped">Plan AM</h1>
+                  <h1 class="title-card clipped">Plan Lunch</h1>
                   <h5 class="title-card-type">Mensual</h5>
                 </div>
               </div>
@@ -145,8 +145,8 @@
               </div>
               <div class="content content-page">
                 <div class="horario">
-                  <div class="content-hd">Lunes a Domingo</div>
-                  <h4 class="content-content">09:00 - 10:00 y 12:00 hrs<br>Fin de semana (Horario a elección)</h4>
+                  <div class="content-hd">Lunes a Sábados</div>
+                  <h4 class="content-content">13:00 - 16:00 y 17:00 hrs</h4>
                 </div>
                 <div class="valor">
                   <div class="content-hd">Precio</div>
@@ -154,7 +154,7 @@
                   <div class="content-span">/ mes</div>
                 </div>
               </div>
-              <div class="plan-button-container"><a href="https://wa.me/56940207699?text=Hola,%20quiero%20contratar%20el%20plan%20AM" target="_blank" class="plan-page-cta-button w-button" id="boton-whatsapp-plan-am"><img class="img-whatsapp" src="../images/whatsapp_icon.svg">Contratar via Whatsapp</a></div>
+              <div class="plan-button-container"><a href="https://wa.me/56940207699?text=Hola,%20quiero%20contratar%20el%20plan%20Lunch" target="_blank" class="plan-page-cta-button w-button" id="boton-whatsapp-plan-lunch"><img class="img-whatsapp" src="../images/whatsapp_icon.svg">Contratar via Whatsapp</a></div>
             </div>
           </div>
 
@@ -177,12 +177,12 @@
               </div>
               <div class="content content-page">
                 <div class="horario">
-                  <div class="content-hd">Lunes a Domingo</div>
-                  <h4 class="content-content">CrossFit hasta 18.00hrs<br>Frenetic hasta 18:30 hrs</h4>
+                  <div class="content-hd">Lunes a Sábados</div>
+                  <h4 class="content-content">Clases hasta 18:00 hrs</h4>
                 </div>
                 <div class="valor">
                   <div class="content-hd">Precio</div>
-                  <h4 class="content-content">$25.990</h4>
+                  <h4 class="content-content">$30.000</h4>
                   <div class="content-span">/ mes</div>
                 </div>
               </div>
@@ -195,7 +195,7 @@
           </div>
 
           {{-- Planes Weekend --}}
-          <div class="plan-card">
+          {{-- <div class="plan-card">
             <div class="mini-data plan-fondo-weekend">
               <div class="card-heading">
                 <div class="title">
@@ -224,13 +224,12 @@
                 </a>
               </div>
             </div>
-          </div>
+          </div> --}}
 
         </div>
 
-        <div class="plan-card-mini-wrapper">
+        {{-- <div class="plan-card-mini-wrapper">
 
-          {{-- Plan 12 Sesiones --}}
           <div class="plan-card">
             <div class="mini-data plan-fondo-12">
               <div class="card-heading">
@@ -258,7 +257,6 @@
             </div>
           </div>
 
-          {{-- Planes 8 Sesiones --}}
           <div class="plan-card">
             <div class="mini-data plan-fondo-8">
               <div class="card-heading">
@@ -286,7 +284,7 @@
             </div>
           </div>
 
-        </div>
+        </div> --}}
 
 
         {{-- <div class="plan-card-mini-wrapper">
