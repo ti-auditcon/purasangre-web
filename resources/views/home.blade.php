@@ -85,7 +85,7 @@
               <div class="content-span-promo">/ mes</div>
             </div>
           </div>
-          <a href="https://wa.me/56940207699?text=Hola,%20quiero%20contratar%20el%20plan%20Full" id="boton-whatsapp-plan-extra-full" target="_blank" class="plan-page-cta-button special-button w-button">
+          <a href="https://wa.me/56940207699?text=Hola,%20quiero%20contratar%20el%20plan%20Full" id="boton-whatsapp-plan-full" target="_blank" class="plan-page-cta-button special-button w-button">
             <img class="img-whatsapp" src="../images/whatspp_icon_gold.svg">Contratar via Whatsapp
           </a>
           <a id="w-node-cf61a32bec36-b4aeb525" href="{{url('/planes')}}" class="plan-page-cta-button special-button w-button">
@@ -117,7 +117,7 @@
               <div class="content-span-promo">/ mes</div>
             </div>
           </div>
-          <a href="https://wa.me/56940207699?text=Hola,%20quiero%20contratar%20el%20plan%20Medium" id="boton-whatsapp-plan-full" target="_blank" class="plan-page-cta-button w-button">
+          <a href="https://wa.me/56940207699?text=Hola,%20quiero%20contratar%20el%20plan%20Medium" id="boton-whatsapp-plan-medium" target="_blank" class="plan-page-cta-button w-button">
             <img class="img-whatsapp" src="../images/whatsapp_icon.svg">Contratar via Whatsapp</a>
           <a id="w-node-81adf3ba3d49-b4aeb525" href="{{url('/planes')}}" class="plan-page-cta-button w-button">
             Más Info
@@ -148,7 +148,7 @@
               <div class="content-span-promo">/ mes</div>
             </div>
           </div>
-          <a href="https://wa.me/56940207699?text=Hola,%20quiero%20contratar%20el%20plan%20AM" id="boton-whatsapp-plan-estudiantes" target="_blank" class="plan-page-cta-button w-button">
+          <a href="https://wa.me/56940207699?text=Hola,%20quiero%20contratar%20el%20plan%20AM" id="boton-whatsapp-plan-am" target="_blank" class="plan-page-cta-button w-button">
             <img class="img-whatsapp" src="../images/whatsapp_icon.svg">Contratar via Whatsapp
           </a>
             <a id="w-node-c9522a9962a4-b4aeb525" href="{{url('/planes')}}" class="plan-page-cta-button w-button">
@@ -179,7 +179,7 @@
               <h4 class="content-content-promo price"><b>$30.000</b></h4>
               <div class="content-span-promo">/ mes</div>
             </div>
-          </div><a href="https://wa.me/56940207699?text=Hola,%20quiero%20contratar%20el%20plan%20Lunch" id="boton-whatsapp-plan-full-am" target="_blank" class="plan-page-cta-button w-button"><img class="img-whatsapp" src="../images/whatsapp_icon.svg">Contratar via Whatsapp</a><a id="w-node-eb463b4ab61d-b4aeb525" href="{{url('/planes')}}" class="plan-page-cta-button w-button">Más Info</a>
+          </div><a href="https://wa.me/56940207699?text=Hola,%20quiero%20contratar%20el%20plan%20Lunch" id="boton-whatsapp-plan-full-lunch" target="_blank" class="plan-page-cta-button w-button"><img class="img-whatsapp" src="../images/whatsapp_icon.svg">Contratar via Whatsapp</a><a id="w-node-eb463b4ab61d-b4aeb525" href="{{url('/planes')}}" class="plan-page-cta-button w-button">Más Info</a>
         </div>
       </div>
       <div class="div-block cta-planes-home">
