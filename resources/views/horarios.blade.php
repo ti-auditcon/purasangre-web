@@ -67,9 +67,9 @@
           <p>10:00 - 11:00 hrs</p>
           <h5>CrossFit</h5>
         </div>
-        <div class="item crossfit">
+        <div class="item frenetic">
           <p>11:00 - 12:00 hrs</p>
-          <h5>CrossFit</h5>
+          <h5>Frenetik</h5>
         </div>
         {{-- <div class="item-grid">
           <div class="item crossfit">
