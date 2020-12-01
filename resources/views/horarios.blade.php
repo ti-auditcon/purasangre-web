@@ -63,20 +63,24 @@
           <p>09:00 - 10:00 hrs</p>
           <h5>CrossFit</h5>
         </div>
-        <div class="item-grid">
+        <div class="item crossfit">
+          <p>10:00 - 11:00 hrs</p>
+          <h5>CrossFit</h5>
+        </div>
+        <div class="item crossfit">
+          <p>11:00 - 12:00 hrs</p>
+          <h5>CrossFit</h5>
+        </div>
+        {{-- <div class="item-grid">
           <div class="item crossfit">
-            <p>10:00 - 11:00 hrs</p>
+            <p>11:00 - 12:00 hrs</p>
             <h5>CrossFit</h5>
           </div>
           <div class="item frenetic">
-            <p>10:00 - 11:00 hrs</p>
+            <p>11:00 - 12:00 hrs</p>
             <h5>Frenetic</h5>
           </div>
-        </div>
-        <div class="item obox">
-          <p>11:00 - 12:00 hrs</p>
-          <h5>Open Box</h5>
-        </div>
+        </div> --}}
         <div class="item crossfit">
           <p>12:00 - 13:00 hrs</p>
           <h5>CrossFit</h5>
@@ -93,7 +97,15 @@
           <p>17:00 - 18:00 hrs</p>
           <h5>CrossFit</h5>
         </div>
-        <div class="item-grid">
+        <div class="item crossfit">
+          <p>18:00 - 19:00 hrs</p>
+          <h5>CrossFit</h5>
+        </div>
+        <div class="item crossfit">
+          <p>19:00 - 20:00 hrs</p>
+          <h5>CrossFit</h5>
+        </div>
+        {{-- <div class="item-grid">
           <div class="item crossfit">
             <p>18:00 - 19:00 hrs</p>
             <h5>CrossFit</h5>
@@ -112,7 +124,7 @@
             <p>19:30 - 20:30 hrs</p>
             <h5>Frenetic</h5>
           </div>
-        </div>
+        </div> --}}
         <div class="item crossfit">
           <p>20:00 - 21:00 hrs</p>
           <h5>CrossFit</h5>
@@ -153,8 +165,9 @@
           <h4>Domingos</h4>
           <img src="images/arrow-down.svg">
         </div>
-        <div class="item void"></div>
-        <div class="item crossfit">
+        <div class="item void void-3">
+        </div>
+        {{-- <div class="item crossfit">
           <p>09:00 - 10:00 hrs</p>
           <h5>CrossFit</h5>
         </div>
@@ -169,8 +182,8 @@
         <div class="item obox">
           <p>12:00 - 13:00 hrs</p>
           <h5>Open Box</h5>
-        </div>
-        <div class="item void void-2"></div>
+        </div> --}}
+        {{-- <div class="item void void-2"></div> --}}
       </div>
     </div>
 

@@ -5509,7 +5509,9 @@ div#fb-root {
   align-self: end;
 }
 
-#boton-whatsapp-plan-am {
+#boton-whatsapp-plan-am,
+#boton-whatsapp-plan-medium,
+#boton-whatsapp-plan-full-lunch {
   -ms-grid-column: 1;
   grid-column-start: 1;
   -ms-grid-row: 3;
@@ -5523,7 +5525,9 @@ div#fb-root {
 }
 
 @media screen and (max-width: 991px) {
-  #boton-whatsapp-plan-am {
+  #boton-whatsapp-plan-am,
+  #boton-whatsapp-plan-medium,
+  #boton-whatsapp-plan-full-lunch {
     -ms-grid-column: 1;
     grid-column-start: 1;
     -ms-grid-row: 3;

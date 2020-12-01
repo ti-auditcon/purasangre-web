@@ -4678,6 +4678,10 @@ div#fb-root {
     grid-area: 8 / 1 / 15 / 2;
   }
   
+  .horarios-wrapper .horarios .dom .void-3 {
+    grid-area: 2 / 1 / 15 / 2;
+  }
+  
 }
 
 .rotate-arrow {
@@ -4992,6 +4996,8 @@ div#fb-root {
 }
 
 #boton-whatsapp-plan-full,
+#boton-whatsapp-plan-medium,
+#boton-whatsapp-plan-full-lunch,
 #boton-whatsapp-plan-extra-full {
   -ms-grid-column: 1;
   grid-column-start: 1;
@@ -5007,6 +5013,8 @@ div#fb-root {
 
 @media screen and (max-width: 991px) {
   #boton-whatsapp-plan-full,
+  #boton-whatsapp-plan-medium,
+  #boton-whatsapp-plan-full-lunch,
   #boton-whatsapp-plan-extra-full {
     -ms-grid-column: 1;
     grid-column-start: 1;
